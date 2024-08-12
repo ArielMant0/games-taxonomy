@@ -1,0 +1,152 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree problem solving",
+        "created_at": "2024-04-06T22:00:00Z",
+        "updated_at": "2024-04-16T05:05:00Z",
+        "closed_at": "2024-04-16T05:05:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related Issues:",
+                        "body": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(Vorschlag von @HendrikBrueckler) (Was ist notwendig, um weiter zu kommen/gewinnen?)",
+                            "Dota vs Puzzle Spiele",
+                            "Verschiedene Lösungswege aber eine lösung (minesweeper), anders als dota",
+                            "Wie groß ist der Entscheidungsraum?",
+                            "Wie groß ist der Lösungsraum? Wie viele Lösungen/Wege dahin gibt es?",
+                            "Abschätzen vs vorhersehen können",
+                            "Sind heuristiken nötig",
+                            "logic puzzle - finde die optimale lösung nicht eine beliebige",
+                            "Sudoku: regeln sind so gewählt das es nur eine Lösung gibt",
+                            "Branching Raum, vs Anzahl der Blätter",
+                            "Was ist ein valider Gamestate, bei dem man gewonnen hat? einer vs many",
+                            "binary problem solving",
+                            "puzzle abschließen, yes or no",
+                            "sudoku, the witness",
+                            "continuous problem solving",
+                            "starcraft/dota",
+                            "separation in content und techniques",
+                            "Zitat @HendrikBrueckler: 'Das wäre natürlich MetaWho'"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _puzzle pieces_, _red herings_, _riddles_, _rules_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Group _puzzle pieces_, _red herings_, _riddles_, _rules_ to _problem solving_",
+                            "(06.04, TAG ITERATION A-Z) Group _puzzle pieces_, _red herings_, _riddles_ to _logic puzzles_",
+                            "(06.04, TAG ITERATION A-Z) Append _language_ from _root_ to _problem solving_",
+                            "(06.04, TAG ITERATION A-Z) Append _physics_ from _root_ to _problem solving_",
+
+                            "(13.04, TAG ITERATION A-Z) Add new tag _problem solving techniques_ to _problem solving_",
+                            "(13.04, TAG ITERATION A-Z) Appended subtree _planning_ from _root_ to _problem solving_",
+                            "(13.04, TAG ITERATION A-Z) Appended subtree _reasoning_ from _root_ to _problem solving_",
+
+                            "(14.04, TAG ITERATION A-Z) Add new tag _problem types_ to _problem solving_",
+                            "(14.04, TAG ITERATION A-Z) Appended _parent busy work_ from _root_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _communication_ from _root_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended subtree _strategy_ from _root_ to _problem solving_",
+                            "(14.04, TAG ITERATION A-Z) Append _possibilities_ from _root_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Move _logic puzzles_ from _problem solving_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _moral and emotional challenges_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _whodoneit_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Appended _organization_ from _strategy_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _gather information_ from _information_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _automation_ subtree from _root_ to _problem solving_",
+                            "(14.04, TAG ITERATION A-Z) Appended _automation_ subtree from _problem solving_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _building & crafting_ subtree from _problem solving_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _reasoning_ subtree from _problem solving_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Appended _strategy_ subtree from _problem solving_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Append _language_ from _problem solving_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Append _physics_ from _problem solving_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) To Append _language_ from _problem types_ to _topics_",
+
+                            "(15.04, TREE ITERATION I) Add new tag _game of skill or dexterity_ to _problem types_",
+                            "(15.04, TREE ITERATION I) Add new tag _strategy problem_ to _problem types_",
+                            "(15.04, TREE ITERATION I) Rename _whodoneit_ to _detective work_",
+                            "(15.04, TREE ITERATION I) Appended _accusation_ tree from _root_ to _problem types_",
+                            "(15.04, TREE ITERATION I) To Append _motor skills_ from _problem solving techniques_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION II) Appended _accusation_ tree from _problem types_ to _topics_",
+                            "(15.04, TREE ITERATION II) Append _detective work_ from _problem types_ to _topics_",
+                            "(15.04, TREE ITERATION II) Append _moral and emotional challenges_ from _problem types_ to _possibilities_",
+
+                            "(15.04, TREE ITERATION III) Append _red herings_ from _logic puzzles_ to _possibilities_",
+                            "(15.04, TREE ITERATION III) Appended _puzzle pieces_ from _logic puzzles_ to _reasoning_",
+                            "(15.04, TREE ITERATION III) Merge _logic puzzles_, _riddles_ to _logic challenges_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:15:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#38"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:05:00Z"
+        }
+    ]
+}

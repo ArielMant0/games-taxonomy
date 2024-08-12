@@ -1,0 +1,40 @@
+{
+    "milestones": [
+        {
+            "title": "Phase 1",
+            "state": "closed",
+            "description": "Initial tagging of games",
+            "due_on": "2024-04-01T23:59:59Z"
+        },
+        {
+            "title": "Phase 2",
+            "state": "closed",
+            "description": "Discuss tags and create first tree structure",
+            "due_on": "2024-04-16T23:59:59Z"
+        },
+        {
+            "title": "Phase 3",
+            "state": "closed",
+            "description": "Use new tagging hirarchie to tag the games again",
+            "due_on": "2024-04-22T23:59:59Z"
+        },
+        {
+            "title": "Phase 4",
+            "state": "open",
+            "description": "Discuss tree and rework and refine on demand",
+            "due_on": "2024-08-31T23:59:59Z"
+        },
+        {
+            "title": "Phase 5",
+            "state": "open",
+            "description": "Tagging phase",
+            "due_on": "2024-09-30T23:59:59Z"
+        },
+        {
+            "title": "Phase 6",
+            "state": "open",
+            "description": "Tagging phase",
+            "due_on": "2024-10-31T23:59:59Z"
+        }
+    ]
+}

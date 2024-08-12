@@ -1,0 +1,130 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree topics",
+        "created_at": "2024-04-16T05:40:00Z",
+        "updated_at": "2024-04-16T05:40:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#19"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Since the topic-tree does contain a lot of tags that can hardly be understood as being related to topics it is necessary to rework this subtree."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Option 1"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Remove topics, possibilities and solution space from problem types. Reframe moral and emotional challenges as a problem type."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Option 2"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Rework all topics such that they can be leaf-tags from the already defined problem types like game of skill and dexterity, logic challenges and other."
+                    }
+                ]
+            },
+            {
+                "title": "Solution",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "For the time being we opted for option 1. To accomplish this we defined and refined a sentence that can be used as guidance on how to use the tags."
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Version 1"
+                    },
+                    {
+                        "type": "text",
+                        "body": "The game has the themes [themes] and poses a [problem type] problem that the player needs to solve. For this the player can use these [problem solving techniques]."
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Version 2"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Das Spiel kombiniert Elemente aus [Themes/Topic/Genre], stellt den Spieler vor ein [problem types] Problem, die der Spieler mithilfe von [problem solving techniques] lösen kann. Dabei nutzt das Spiel folgende Spielmechaniken [meta mechanics]."
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Version 3"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Das Spiel kombiniert Elemente aus [Themes/Topic/Genre]. Der Spieler muss im Laufe des Spiels [problem types] Herausforderungen überwinden. Innerhalb des Spiels macht der Spieler konkret folgendes: [problem solving techniques]. Dabei nutzt das Spiel folgende Spielmechaniken [meta mechanics]."
+                    },
+                    {
+                        "type": "text",
+                        "body": "Besides the problem type another tag category (Themes/Topic/Genre/Settings) was introduced, allowing to group a lot of tags that for now are not clearly defined but might be useful in the future. This includes for example tags like, sport, fantasy, detective work and others."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "The currently chosen problem types are",
+                        "body": [
+                            "skill",
+                            "ethics",
+                            "logic",
+                            "strategy",
+                            "labor/diligence/busywork",
+                            "challenge less"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(12.05, Phase 4) Appended _topics_ from _problem types_ to _metamechanics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "detective work -> mystery (ArielMant0)",
+                            "intense roleplaying + subversion storytelling"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:high",
+            "priority:critical",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

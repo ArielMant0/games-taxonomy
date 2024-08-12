@@ -1,0 +1,55 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree setting",
+        "created_at": "2024-05-12T21:00:00Z",
+        "updated_at": "2024-05-12T21:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related Issues:",
+                        "body": [
+                            "#19",
+                            "#43"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "12.05 Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Based on the results of isses 43 we added some dummy settings to the tree using [this resource](https://upload.wikimedia.org/wikipedia/commons/d/d7/Timeline_of_World_History.png)."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(12.05, Phase 4) Add new tag _setting_ to _metamechanics_",
+                            "(12.05, Phase 4) Add new tags _set: spatial_, _set: time_ to _setting_",
+                            "(12.05, Phase 4) Add new tags _city_, _forest_, _heaven_, _hell_, _outer space_, _underwater_ to _set: spatial_",
+                            "(12.05, Phase 4) Add new tags _age of discovery_, _industrial revolution_, _greekstuff_, _roman empire_, _cyberpunk_ to _set: time_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:critical"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

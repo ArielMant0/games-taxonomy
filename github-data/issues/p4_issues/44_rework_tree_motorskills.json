@@ -1,0 +1,43 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree motorskills",
+        "created_at": "2024-04-16T05:45:00Z",
+        "updated_at": "2024-04-16T05:45:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#20"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "Remove children of motor skills?"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

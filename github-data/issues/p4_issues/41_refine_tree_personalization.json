@@ -1,0 +1,49 @@
+{
+    "issue": {
+        "title": "💎 Refine subtree personalization",
+        "created_at": "2024-04-16T05:30:00Z",
+        "updated_at": "2024-04-16T05:30:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#17"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "Different types of game object customization exist. Do payed cosmetics exist or are they identical to cosmetics? (@rwarnking)",
+                            [
+                                "payed cosmetics",
+                                "cosmetics",
+                                "cosmetics with function (Freespace 2 - Spaceship, Adventure Capitalist)"
+                            ],
+                            "What about loot and character modification? (@rwarnking)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

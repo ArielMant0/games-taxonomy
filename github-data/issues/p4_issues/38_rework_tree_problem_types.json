@@ -1,0 +1,315 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree problem types",
+        "created_at": "2024-04-16T05:15:00Z",
+        "updated_at": "2024-04-16T05:15:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#13"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "22.05 Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "How should the problem types be used and how are the different tags differentiated? We discussed multiple options that address different subproblems in a multitude of ways."
+                    },
+                    {
+                        "type": "text",
+                        "title": "Option 1",
+                        "body": "It is only allowed to select one problem type from the list, forcing the user to prioritize and select the most fitting one. This in turn would lead to problem solving techniques that might be selected for a game while no appropriate problem type is tagged."
+                    },
+                    {
+                        "type": "text",
+                        "title": "Option 2",
+                        "body": "It is allowed to select an unlimited number of problem types from the list. This would allow for a 1:N relationship between problem types and solving techniques, essentially allowing the user to double check if a problem type has appropriate solving techniques and if each solving technique can be used for a tagged problem type. The problem would be overtagging: Since there are no limiting rules and the definition of the tags is somewhat open the user might assign every or many problem types to one or many games."
+                    },
+                    {
+                        "type": "text",
+                        "title": "Option 3",
+                        "body": "As Option 1, but with additional tagging options for sub-problem types. This would be similar to the minigame tags (mini: logic) which could also be added to the problem types subtree. This would allow the user to mark one main problem type, while not losing further information that might be person specific."
+                    },
+                    {
+                        "type": "text",
+                        "title": "Option 4",
+                        "body": "Remove the problem type altogether. This would solve the definition problem but would also require the problem solving techniques to be renamed, leading to loss of information. Furthermore it is difficult to validate if this is the right choice or if the authors just were not able to achieve a coherent tagging system."
+                    }
+                ]
+            },
+            {
+                "title": "Solution",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We choose to use something similar to Option 1. For the moment the user is allowed to select up to three problem types from the subtree, focusing on one if possible and including a numbered hierarchy to highlight the priority. This should provide the user the option to tag multiple problem types while simultaneously providing a ranking which problem types are more important. To test this approach we will assign these tags to a small list of games. This might give us the opportunity to further analyze the problem and work out further adjustments. For example we will be able to identify similarities and might be able to work out if the bias and randomness rendered the tag useless."
+                    },
+                    {
+                        "type": "table",
+                        "caption": "Games that each of us played:",
+                        "legend": [
+                            ":heavy_check_mark: Mostly identical",
+                            ":warning: Similar tags but varying order",
+                            ":white_circle: Varying tags",
+                            ":x: Varying tags and/or TODO tag"
+                        ],
+                        "body": [
+                            "Game | Hendrik | Franziska | Rene",
+                            "-- | -- | -- | --",
+                            ":warning: [Dota 2](https://store.steampowered.com/app/570/Dota_2/) | **game of motorskill**,<br> strategy problem | **strategy problem**,<br> game of motorskill,<br> busywork | **game of motorskill**,<br> strategy problem,<br> busywork",
+                            ":white_circle: [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | **game of motorskill**,<br> busywork,<br> <sub><sup>strategy problem</sup></sub> | **busywork**,<br> moral challenges,<br> game of motorskill,<br> <sub><sup>strategy problem</sup></sub> | **game of motorskill**,<br> busywork,<br> moral challenges,<br> <sub><sup>strategy problem</sup></sub>",
+                            ":warning: [Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) | **game of motorskill**,<br> moral challenges | **moral challenges**,<br> game of motorskill,<br> busywork | **game of motorskill**,<br> busywork,<br> moral challenges",
+                            ":white_circle: Minecraft | **busywork**,<br> game of motorskill | **busywork**,<br> strategy problem,<br> game of motorskill,<br> logic challenges,<br> <sub><sup>moral challenges</sup></sub> | **busywork**,<br> game of motorskill,<br> logic challenges",
+                            ":heavy_check_mark: [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | **game of motorskill**,<br> <sub><sup>busywork</sup></sub> | **game of motorskill**,<br> busywork | **game of motorskill**,<br> busywork",
+                            ":x: [Among Us](https://store.steampowered.com/app/945360/Among_Us/) | **strategy problem**,<br> moral challenges | ~~challengeless~~,<br> **moral challenges**,<br> strategy problem,<br> game of motorskill,<br> busywork,<br> logic challenges | ~~**TODO TAG!**~~<br> logic challenges,<br> game of motorskill,<br> (emo events,)<br> **strategy problem**",
+                            ":warning: [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | **game of motorskill** | **game of motorskill**,<br> strategy problem,<br> busywork | **game of motorskill**,<br> busywork,<br> strategy problem",
+                            ":x: [The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/) | **busywork**,<br> strategy problem | ~~challengeless~~,<br> **busywork**,<br> strategy problem,<br> moral challenges | ~~**TODO TAG!**~~<br> ~~challengeless~~,<br> **busywork**",
+                            ":x: [Life is Strange](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) | **moral challenges**,<br> logic challenges | ~~challengeless~~,<br> **moral challenges**<br> logic challenges | **moral challenges**,<br> logic challenges,<br> busywork",
+                            ":warning: [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) | **logic challenges**,<br> moral challenges | **logic challenges**,<br> moral challenges,<br> strategy problem | **logic challenges**,<br> busywork,<br> moral challenges,<br> strategy problem",
+                            ":white_circle: [BioShock™](https://store.steampowered.com/app/7670/BioShock/) | **game of motorskill** | **game of motorskill**,<br> busywork,<br> strategy problem | **game of motorskill**,<br> ~~emo events~~,<br> busywork",
+                            ":x: [Portal](https://store.steampowered.com/app/400/Portal/) | **logic challenges**,<br> game of motorskill | **logic challenges**,<br> game of motorskill | ~~**TODO TAG!**~~<br> **logic challenges**,<br> game of motorskill,<br> ~~humoristic events~~",
+                            ":heavy_check_mark: Schach | **strategy problem**,<br> logic challenges | **strategy problem** | **strategy problem**,<br> logic challenges",
+                            ":heavy_check_mark: [Banished](https://store.steampowered.com/app/242920/Banished/) | **strategy problem** | **strategy problem**,<br> busywork | **strategy problem**,<br> busywork",
+                            ":heavy_check_mark: [Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | **logic challenges** | **logic challenges**,<br> game of motorskill | **logic challenges**",
+                            ":heavy_check_mark: [SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | **game of motorskill**,<br> strategy problem | **game of motorskill**,<br> strategy problem,<br> <sub><sup>moral challenges</sup></sub> | **game of motorskill**,<br> strategy problem",
+                            ":heavy_check_mark: [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | **logic challenges** | **logic challenges** | **logic challenges**,<br> (strategy problem)",
+                            ":x: [Gone Home](https://store.steampowered.com/app/232430/Gone_Home/) | **challengeless** | challengeless | **challengeless**,<br> ~~busywork~~,<br> logic challenges",
+                            ":x: [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | **challengeless**,<br> busywork,<br> logic challenges | challengeless | **TODO TAG!**<br> moral challenges,<br> busywork,<br> (logic challenges mini)",
+                            ":warning: [Dead Space](https://store.steampowered.com/app/17470/Dead_Space_2008/) | **game of motorskill**,<br> moral challenges | **moral challenges**,<br> game of motorskill | game of motorskill,<br> **emo challenges**,<br> busywork"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "Since it is not possible to define each problem type totally accurately, we choose to base our decision more on vibe and experience making the selection subjective. Each user should choose the tags based on the experience and challenges that the user encountered while playing the game. This allows for different perspectives and multiple valid answers since the experience of playing a game can vary from player to player. Although this introduces bias and uncertainty itself, we still tried to define each problem type as clearly as possible to improve understandability and reduce the danger of wrongly tagged games."
+                    }
+                ]
+            },
+            {
+                "title": "Definitions",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "**challenge-less**",
+                            [
+                                "rename to problemtype-todo or delete in the future? (-> Änderungsbedarfs Tag)",
+                                "search examples for this tag"
+                            ],
+                            "game of skill or dexterity",
+                            [
+                                "timed sequence/combination of inputs (that must likely be learned through practice)",
+                                "motor skills, hand eye coordination"
+                            ],
+                            "labor diligence busywork",
+                            [
+                                "for limited time continuous task with key components that need to be repeated",
+                                "main way to solve involves quantity/repetition of player actions rather than quality of player actions (+outcome of action is repetitive too)"
+                            ],
+                            "logic challenges",
+                            [
+                                "next logical step(s) result from rules and the current state",
+                                "limited number of logical steps, non heuristical",
+                                "an [argument](https://en.wikipedia.org/wiki/Argument) is valid [if and only if](https://en.wikipedia.org/wiki/If_and_only_if) it takes a form that makes it impossible for the [premises](https://en.wikipedia.org/wiki/Premise) to be [true](https://en.wikipedia.org/wiki/Truth) and the conclusion nevertheless to be [false](https://en.wikipedia.org/wiki/False_(logic))",
+                                "Formal logic is interested in deductively [valid](https://en.wikipedia.org/wiki/Validity_(logic)) arguments, for which the truth of their premises ensures the truth of their conclusion",
+                                "Formal logic is interested in deductively valid arguments, for which the truth of their premises ensures the truth of their conclusion",
+                                "inference, deduction",
+                                "global rules + instances — (logic) -> correctly infer gaps in instances"
+                            ],
+                            "moral and emotional challenges",
+                            [
+                                "(endure(experience(explore))) emotional/moral implications of events or your actions or those of NPC"
+                            ],
+                            "strategy problem",
+                            [
+                                "many possible decisions && (uncertainty || heuristic approach || temporal constraint(s) || combinatorial explosion)"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Additional Notes:",
+                        "body": [
+                            "different types of strategy exist",
+                            [
+                                "turn based (Banner Saga)",
+                                "real time (Starcraft)",
+                                "resource based (Anno / Banished)",
+                                "unlimited time planning / logic challenge? (Adventure Capitalist)",
+                                "optimization"
+                            ],
+                            "_challenge_ is difficult to define",
+                            "proving a problem type is valid for a game is difficult",
+                            [
+                                "extensive description would be required"
+                            ],
+                            "Defining the problem type via \"the problem that the user is required to solve\" would be possible but might be difficult",
+                            "A game can be tagged strategic planning without being a strategy problem",
+                            [
+                                "possible but also unclear (hand wavy), difficult to differentiate"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(12.05, Phase 4) Add new tag _challenge less_ to _problem types_",
+                            "(12.05, Phase 4) Add new tag _labor diligence busywork_ to _problem types_",
+
+                            "(22.05, Phase 4) Rename _problem types_ to _personal challenges_",
+                            "(22.05, Phase 4) Add new tag _moral challenges_ to _personal challenges_",
+                            "(22.05, Phase 4) Rename _moral and emotional challenges_ to _emotional challenges_",
+                            "(22.05, Phase 4) Add new tag _discory_ to _personal challenges_",
+                            "(22.05, Phase 4) Rename _challenge less_ to _todo tag_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:critical",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "After reworking the problem types and defining the child tags, we assigned the tags to a subset of games. The results were discussed in this meeting."
+                        },
+                        {
+                            "type": "text",
+                            "body": "The name problem types suggest an unbiased meaning while the tagging is highly personal. **Action taken: rename problem types to personal challenges.**"
+                        },
+                        {
+                            "type": "text",
+                            "body": "Emotional and moral challenges might be but not necessarily connected. A moral challenge for example might be choice (i.e. Minecraft) while an emotional challenge might be connected to a character or his fate. This might even lead to the player not continuing the game but does not require a morally challenging situation. Other games like Frostpunk present a moral challenge while likely not having an emotional impact on the player.**Action taken: Split emotional and moral challenges**"
+                        },
+                        {
+                            "type": "text",
+                            "body": "Since emotional or moral events are not a challenge these will not be part of the personal challenges tree. Instead a new category for emotional events will be created. For an emotional event to be a challenge the event is required to force an input or action from the player (i.e. Bioshock, killing little sisters). These tags are for emotional taxing scenes or narratives that can not be controlled. Similarly to the personal challenges these tags are also subjective and may vary across different players."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Emotional Events:",
+                            "body": [
+                                "plot twists (Bioshock)",
+                                "humoristic events -> aufdröseln, da humor auch emotional\n suspenseful, sims (entspannend)",
+                                "loss, sadness, grief",
+                                "Krieg, death, aging, ..."
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "For further clarification we also decided that strategy problem does include:",
+                            "body": [
+                                "resource management",
+                                "social deduction"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Lastly we added a new personal challenge as a pendant to exploration for games that are challenge less: **personal challenge: discovery**"
+                        }
+                    ]
+                },
+                {
+                    "title": "New Questions",
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "(01.06)",
+                            "body": [
+                                "Revisit and checkup",
+                                [
+                                    "Games like Among us",
+                                    "emotional and moral challenges"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Resolved Questions",
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "body": [
+                                "Is the problem type useless like this? (22.05) [01.06]",
+                                "What is its goal in general? (22.05) [01.06]",
+                                "How should we interpret it? (22.05) [01.06]",
+                                "Use *time spend* as part of the definition – *The player should use most of the game time doing X* (22.05) [01.06]",
+                                [
+                                    "mini, medium and main component (problem type) with mini being minigames",
+                                    "This might allow to differentiate between games like Adventure Capitalist, Banner Saga and Starcraft -> in Adventure Capitalist you will be waiting most of the time, while in Starcraft you need to continuously play strategically"
+                                ],
+                                "Are there challenge less games or todo-tags? (22.05) [01.06]",
+                                "Games that provide an explorative narrative but nothing else. (12.05) [01.06]",
+                                [
+                                    "Dear Esther (Walking Simulator)",
+                                    "Sol: Discovery"
+                                ],
+                                "challenge less games? (12.05) [01.06]",
+                                [
+                                    "Adventure Capitalist (Cooky Clicker)"
+                                ],
+                                "problem types",
+                                [
+                                    "filler vs busywork",
+                                    "New Tag? roleplaying / creative challenge / fantasy (fulfillment)",
+                                    "personalization",
+                                    "real life simulation (is this a setting?)",
+                                    "fantastical simulation",
+                                    "roleplaying kann man immer machen",
+                                    "sandbox"
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-06-01T01:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "New Topic: Topic 8: Finish emotional events"
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#52"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-06-01T01:00:00Z"
+        }
+    ]
+}

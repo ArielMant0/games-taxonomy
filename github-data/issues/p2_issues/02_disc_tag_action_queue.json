@@ -1,0 +1,119 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag action queue",
+        "created_at": "2024-04-01T21:30:00Z",
+        "updated_at": "2024-04-16T04:10:00Z",
+        "closed_at": "2024-04-16T04:10:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "h4",
+                        "body": "Player Queues"
+                    },
+                    {
+                        "type": "text",
+                        "body": "We found that many games support some variation of a queue. In most instances the player gets the opportunity to queue commands, these can reach from single commands to one or more NPCs to a list of commands to a large number of NPCs. This also leads to varyious ways to interact or plan a queue. A game with a queue of one action might provide a menu in which the game is paused while a indirectly managed workforce might be displayed via a list of actions that are then automatically distributed and executed by the game. In cases where the game automatically distributes tasks to multiple NPCs the execution can be expected to be parrallel, which differs from games with queues for individual NPCs. Additionally different types of queues might require different GUI options for example when removing a task or increasing its priority."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "We added the following tags to the queue tree:",
+                        "body": [
+                            "_direct_",
+                            "_indirect_",
+                            "_inputbuffer_",
+                            "_parallel_",
+                            "_realtime_",
+                            "_sequential_"
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Game Queues"
+                    },
+                    {
+                        "type": "text",
+                        "body": "In contrast to game in which the player inputs queue information for the game, there are those game that provide the player with a queue of tasks or similar that need to be processed. This might be in the form of a stack of cards. Unfortunately we were not able to clearly define how a _game queue_ might look like, since every game provides some kind of queue for example in form of strung together levels that need to be completed or by quests that have prerequirements. While a clear distinction might exist we were not yet able to clearly articulate it. For the moment we decided revisit this issue in the future but also to add the tag such that games that might fit are already marked and can be included in future discussions."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _action queue_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Add new tags _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _root_",
+                            "(06.04, TAG ITERATION A-Z) Group tags _action queue_, _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _queues_",
+                            "(06.04, TAG ITERATION A-Z) Group tags _action queue_, _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _queueplayer_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _queuegame_ to _queues_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _queues_ from _root_ to _metamechanics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/)",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/)",
+                            "[Dorfromantik](https://store.steampowered.com/app/1455840/Dorfromantik/)",
+                            "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/)",
+                            "[Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)",
+                            "[Fallout 3](https://store.steampowered.com/app/22300/Fallout_3/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:25:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#25"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:10:00Z"
+        }
+    ]
+}

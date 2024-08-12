@@ -1,0 +1,257 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree motivations",
+        "created_at": "2024-06-01T16:00:00Z",
+        "updated_at": "2024-06-01T16:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Spawned by:",
+                        "body": [
+                            "#50"
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related to:",
+                        "body": [
+                            "#54",
+                            "#55"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Due to the rework of the problem types the need for tagging the goals of a game was already limited from the start of the discussion. Nevertheless we opted to discuss the topic and began by answering a few basic questions. Firstly it was important to define whether the goal of a game might be equal to the ending of a game. This proposition was rejected and the end state was defined as something that is not required to be the narrative ending. Regardless of this distinction we were not able to clearly define the goal of the game and instead discussed why the tag might be needed. The reason being the idea to construct a sentence defining key properties of a game. Since this might focus too much on the story of a game (*The goal of a game is to avenge your parents.*). We instead shifted our focus to the main motivation of a game."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Possible motivation might be related to:",
+                        "body": [
+                            "new regions to be explored",
+                            "completionist",
+                            "competition",
+                            "challenges and high skill ceiling (i.e. roguelikes)",
+                            "permanent death, losing stuff when death",
+                            "adaptive difficulty",
+                            "new game+",
+                            "multiple storylines"
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "We devised three main categories these motivations can be assigned to:",
+                        "body": [
+                            "punishments (negative consequences)",
+                            "incentives",
+                            "rewards"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(05.06, Phase 4) Add new tag _motivation_ to _metamechanics_",
+                            "(05.06, Phase 4) Add new tags _punishments_, _incentives_, _rewards_ to _motivation_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:high",
+            "priority:critical",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "vorfreude, neugierde",
+                            "body": [
+                                "das spiel wird getagt, deswegen das taggen was das spiel einem gibt um einen zu triggern",
+                                "mechanics abstrahiert",
+                                "incentive before you did something",
+                                "rewards after you did something",
+                                "incentive zum abbilden von sachen die man machen kann ohne direkt rewarded zu werden (dota 2 üben)",
+                                "game gibt dir was vs ???",
+                                "intrinsische vs extrinsische",
+                                "neue struktur",
+                                [
+                                    "incentives",
+                                    "punishments",
+                                    "rewards"
+                                ],
+                                "replayability / randomness an motivation",
+                                "novelty as reward / incentive?",
+                                "reward: aktive reaktion des spiels basierend auf aktionen des spielers",
+                                "internal motivation - novelty (i feel good ...)",
+                                "randomness als mechanic",
+                                "reward",
+                                [
+                                    "progression - hat das eine Verbesserungs Konnotation?",
+                                    "upgrade",
+                                    "novelty",
+                                    "unterschiede verbesserungen vs neuen inhalt"
+                                ],
+                                "wo kommt motivation hin?",
+                                "wann tagge ich das nicht?",
+                                "abstrakte variante über bord werfen"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Example rewards as a game mechanic:",
+                            "body": [
+                                "NOVELTY",
+                                "USABLE PROGRESSION (direct gameimpact)",
+                                [
+                                    "Character Properties (number go up) - new/more skills",
+                                    "More Resources (number go up)"
+                                ],
+                                "FEELGOOD",
+                                [
+                                    "performance feedback",
+                                    "Yes/No",
+                                    "Gradual",
+                                    "Comparative (Other players)",
+                                    "Highscore (number go up)",
+                                    "complete game given tasks",
+                                    "feedback das du was gut gemacht hast",
+                                    "man bekommt ja eigentlich immer ne belohnung (XP, items)",
+                                    "visual or auditory feedback (low level)",
+                                    "audio-jingle (bing)",
+                                    "Dota streak mechanic (announcer, visuals)",
+                                    "PVP ranking system",
+                                    "Dota endscreen post game board",
+                                    "leaderboard",
+                                    "competition??? – triumph, superiority (kommt nicht vom spiel)",
+                                    "comparison"
+                                ],
+                                "Puzzle Spiel Belohnungen? unlock new content",
+                                "universell einsetzbare Währung",
+                                "unterscheide puzzles vs RPGs",
+                                "gris/antichamber vs skyrim",
+                                [
+                                    "antichamber resource ist kein reward"
+                                ]
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "antichamber",
+                            "body": [
+                                "unlock new content, level, riddles",
+                                "progression, new skill/mechanic (weapon)",
+                                "global progress tracker (overview map)"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "skyrim",
+                            "body": [
+                                "get consumables (minerals, ingredients)",
+                                "get items",
+                                "get money",
+                                "get companion",
+                                "unlock new content, new quests, new areas",
+                                "progression (continue story)",
+                                "win battles (intrinsisch), XP, Level up, character progression",
+                                "progress log (quest log) (information storage)"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "FTL",
+                            "body": [
+                                "get consumables (Treibstoff)",
+                                "get items (progression)",
+                                "get money",
+                                "get units (progression)",
+                                "unlock new content, spaceships",
+                                "win battles (intrinsisch)??",
+                                "permadeath (punishment)",
+                                "risikobereites spielen um gain zu maximieren (intrinsisch??)",
+                                "Spiel bietet Challenge / Herausforderung (intrinsisch??)"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Dark Souls",
+                            "body": [
+                                "scheitern teil des spiels (punishment)"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "body": [
+                                "cycle length not part of motivation",
+                                "combine getter to get resources/units",
+                                "progress tracker vs progress log",
+                                [
+                                    "was fehlt noch (wege die ins nichts führen) vs was ist schon",
+                                    "progress angezeigt",
+                                    "keine vorstellung davon wie viel insgesamt existiert"
+                                ],
+                                "limit games in collacode to the N games that we all played to reduce tagging time"
+                            ]
+                        },
+                        {
+                            "type": "h4",
+                            "body": "Discussion"
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "We discussed the subtree motivation the should be defined by three main categories:",
+                            "body": [
+                                "punishments (negative consequences)",
+                                "incentives",
+                                "rewards"
+                            ]
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "How should different motivational components be distributed across the main categories and which components should be available.",
+                            "body": [
+                                "new regions to be explored",
+                                "completionist",
+                                "competition",
+                                "challenges and high skill ceiling (i.e. roguelikes)",
+                                [
+                                    "permanent death, losing stuff when death",
+                                    "adaptive difficulty",
+                                    "new game+"
+                                ],
+                                "multiple storylines"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Quelle: https://docs.idew.org/project-video-game/project-instructions/1-discover-and-define-problem/1.2-incentives-and-flow"
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-10T23:59:00Z"
+        }
+    ]
+}

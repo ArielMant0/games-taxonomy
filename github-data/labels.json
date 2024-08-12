@@ -1,0 +1,44 @@
+{
+    "labels": [
+        {
+            "name": "effort:high",
+            "description": "Resolving this issue is expected to be a lot of work.",
+            "color": "db9191"
+        },
+        {
+            "name": "effort:medium",
+            "description": "Resolving this issue should be some work.",
+            "color": "dbc091"
+        },
+        {
+            "name": "effort:low",
+            "description": "Resolving this issue should be easy.",
+            "color": "82cf90"
+        },
+        {
+            "name": "priority:critical",
+            "description": "This issue is vital for the project and should be resolved as fast as possible.",
+            "color": "ff0000"
+        },
+        {
+            "name": "priority:high",
+            "description": "This issue is important and should be resolved.",
+            "color": "d73a4a"
+        },
+        {
+            "name": "priority:medium",
+            "description": "This issue is not that important.",
+            "color": "e4e669"
+        },
+        {
+            "name": "priority:low",
+            "description": "This issue is not a vital part of the project.",
+            "color": "008672"
+        },
+        {
+            "name": "started",
+            "description": "This issue was already worked on.",
+            "color": "646EEC"
+        }
+    ]
+}

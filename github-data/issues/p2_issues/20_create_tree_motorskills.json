@@ -1,0 +1,95 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree motorskills",
+        "created_at": "2024-04-14T13:00:00Z",
+        "updated_at": "2024-04-16T05:40:00Z",
+        "closed_at": "2024-04-16T05:40:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Spawned by:",
+                        "body": [
+                            "#13"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(14.04, TAG ITERATION A-Z) Init tag _motorskills_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _spatial precision_, _temporal precision_ to _motorskills_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _move_, _aim_ to _spatial precision_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _comboing_, _rhythm_ to _temporal precision_",
+
+                            "(15.04, TREE ITERATION I) Rename _motorskills_ to _motor skills_",
+                            "(15.04, TREE ITERATION I) Append _motor skills_ from _problem solving techniques_ to _metamechanics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:50:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#44"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:40:00Z"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag pew pew & point and click",
+        "created_at": "2024-04-14T14:30:00Z",
+        "updated_at": "2024-04-16T05:55:00Z",
+        "closed_at": "2024-04-16T05:55:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related Issues:",
+                        "body": [
+                            "#19"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "Genres? erstmal nein",
+                            "Zuordnung zu problem types?",
+                            "motor skills als problem solving strategy",
+                            "moralische Challenges / Emotionale Challenges (life is strange etc)",
+                            "schlecht formalisierbar",
+                            "problem solving techniques - practicing == trail and error? practicing skill",
+                            "precision - motor skills, movement (jumpandrun), aim(pkmn snap, skillshot) - sequencing - comboing (Street fighter)",
+                            "dance of ice and fire, cript of the necrodancer, vectonom",
+                            "Gibt es spiele mit motorprecision aber ohne timeprecision? among us? drawing minigames nintendo ds"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _pew pew_, _point and click_ to _root_",
+
+                            "(14.04, TAG ITERATION A-Z) Appended _point and click_ from _root_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION I) Appended _pew pew_ from _root_ to _misc_",
+                            "(15.04, TREE ITERATION I) Appended _point and click_ from _metamechanics_ to _misc_",
+                            "(15.04, TREE ITERATION I) Add new tag _violence_ to _topics_",
+                            "(15.04, TREE ITERATION I) Add new tag _defeat enemies_ to _violence_",
+
+                            "(15.04, TREE ITERATION III) Rename _defeat enemies_ to _vio: enact_",
+                            "(15.04, TREE ITERATION III) Add new tag _vio: experience_ to _violence_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T18:05:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#46"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:55:00Z"
+        }
+    ]
+}

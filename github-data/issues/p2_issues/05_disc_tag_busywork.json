@@ -1,0 +1,108 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags busywork and trial and error",
+        "created_at": "2024-04-01T23:00:00Z",
+        "updated_at": "2024-04-16T04:25:00Z",
+        "closed_at": "2024-04-16T04:25:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Firstly we defined busywork as a long task that is difficult to fail and required near to none mental input. Therefore these tasks are not stressful or taxing but rather lengthy. It is somewhat an occupational therapy, being repetetiv, trivial and boring. A counterexample whould be games like chess where it is imperativ to pay attention continously."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Further questions that we encountered were:",
+                        "body": [
+                            "How can we differentiate between busywork and grinding?",
+                            "Is busywork satisfying or unsatisfying?",
+                            "What is the goal of busywork, is the player forced to do it and does it only prolong the game?"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "We finally decided to group _trial and error_, _grinding_ and _busywork_ in a subtree named _repetition_."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _busywork_, _trial and error_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Group _busywork_, _trial and error_ to _parent busy work_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _grinding_ to _parent busy work_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _parent busy work_ from _root_ to _problem solving techniques_",
+
+                            "(15.04, TREE ITERATION I) Rename _parent busy work_ to _repetition_",
+
+                            "(15.04, TREE ITERATION II) Add new tag _practicing_ to _repetition_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Pokemon](https://en.wikipedia.org/wiki/Pokémon)",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/)",
+                            "[Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)",
+                            "[Minecraft](https://www.minecraft.net/en-us)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:35:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#28"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:25:00Z"
+        }
+    ]
+}

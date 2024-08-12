@@ -1,0 +1,106 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag customization",
+        "created_at": "2024-04-13T12:00:00Z",
+        "updated_at": "2024-04-16T05:25:00Z",
+        "closed_at": "2024-04-16T05:25:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Our discussion initially adressed the two main flawors of customization in games: with and without impact on the gameplay. This revealed that customiazation of a game is unrelated to the impact on playing the game - specifically @ArielMant0 mentioned that playing a game is always a individual and therefore custom experience where the player can choose to play and behave in a certain way. Following this it was necessary to discuss different game components such that they could be distinguish and cathegorised. Especially content with high gameplay impact was found to be related to strategy, for example when composing a team or selecting skills these are customizations that usually occure together with strategic planning. In contrast to these are customizations without inherent functionality. Examples are cosmetic items, the possibilty to change the look of a character (charater editor) or renaming/color selection for gameobjects. This can also includes items that are baught seperatly as long as the advantages are based on personal preference. OBACHT: In rare cases cosmetic items can be exploited to gain gameplay advantages - this is not taken into account, since it is not the primary purpose of said item."
+                    },
+                    {
+                        "type": "text",
+                        "body": "Finally games can provide features allowing the player to customize the game ui. While most cases only provide basic functionality like a color blind mode to adjust the UI to personal preference, some games implement a free UI where windows or panels can be opened, closed and positioned freely and on demand."
+                    },
+                    {
+                        "type": "text",
+                        "body": "Since especially the terminology was a problem when talking about this tag we choose to renamed this tag to _personalization_ in hopes that this would more directly indicated the focus of the tag to personal expression."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _customization_ to _root_",
+
+                            "(13.04, TAG ITERATION A-Z) Rename _customization_ to _personalization_",
+                            "(13.04, TAG ITERATION A-Z) Add new tags _gameobject personalization_, _ui personalization_ to _personalization_",
+                            "(13.04, TAG ITERATION A-Z) Add new tags _baukasten ui_, _preset ui_ to _ui personalization_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _personalization_ from _root_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION II) Rename _baukasten ui_ to _ui: sandbox_",
+                            "(15.04, TREE ITERATION II) Rename _preset ui_ to _ui: settings_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) (modify map, change outfit, modify chat wheel, announcer, skilltree, items)",
+                            "[Transistor](https://store.steampowered.com/app/237930/Transistor/) (reversible skilltree customization)",
+                            "[Cities: Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/) (landscaping)",
+                            "[Pokemon](https://en.wikipedia.org/wiki/List_of_Pokémon_video_games) (Team selection)",
+                            "[Darkest Dungeon®](https://store.steampowered.com/app/262060/Darkest_Dungeon/) (Team Selection)",
+                            "[RollerCoaster Tycoon®: Deluxe](https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/) (modify coaster in shape and color)",
+                            "[Minecraft](https://www.minecraft.net/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:35:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#41"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:25:00Z"
+        }
+    ]
+}

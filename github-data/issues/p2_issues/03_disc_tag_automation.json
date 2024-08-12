@@ -1,0 +1,104 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag automation",
+        "created_at": "2024-04-01T22:00:00Z",
+        "updated_at": "2024-04-16T04:15:00Z",
+        "closed_at": "2024-04-16T04:15:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We defined automation in games as something that requires player input, specifically to differentiate between NPC actions and automation. Furthermore automations might vary in terms of player freedom - some games provide tools that allow fine grained control while others limit the player to a few parameters that can be setup. This influences the depth/mightiness/complexity of the provided tools and in turn also potential problems and their solutions."
+                    },
+                    {
+                        "type": "text",
+                        "body": "We added the tags _basic_ and _advanced_ to differentiate between automations that for example only automate one game element and those that allow the player to automate complex processes. Furthermore we wanted to show the difference of automations which can be customized fully to those that are predefined (_assemble automation_ and _configure automation_). Finally we indicate the relevance to the game by adding the tags _optional_ and _mandatory_, the latter for example including riddle based games that incorporate automations."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _automation_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Add new tags _advanced_, _assemble automation_, _basic_, _configure automation_, _mandatory_, _optional_ to _automation_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _automation_ subtree from _root_ to _problem solving_",
+                            "(14.04, TAG ITERATION A-Z) Append _automation_ subtree from _problem solving_ to _problem solving techniques_",
+
+                            "(15.04, TAG ITERATION III) Remove tag _mandatory_",
+                            "(15.04, TAG ITERATION III) Remove tag _optional_",
+                            "(15.04, TAG ITERATION III) Rename _assemble automation_ to _auto: assemble_",
+                            "(15.04, TAG ITERATION III) Rename _configure automation_ to _auto: configure_ tag",
+                            "(15.04, TAG ITERATION III) Rename _advanced_ to _auto: advanced_",
+                            "(15.04, TAG ITERATION III) Rename _basic_ to _auto: basic_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[StarCraft](https://en.wikipedia.org/wiki/StarCraft)",
+                            "[Factorio](https://store.steampowered.com/app/427520/Factorio/)",
+                            "[Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)",
+                            "[Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/)",
+                            "[Banished](https://store.steampowered.com/app/242920/Banished/)",
+                            "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "After using this tag in Phase 3 we concluded that a refinement of this subtree is needed. Reason for this are mostly difficulties to decide which tag to use for which type of automation."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:25:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#26"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:15:00Z"
+        }
+    ]
+}

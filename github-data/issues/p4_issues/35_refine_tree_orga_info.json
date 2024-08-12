@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "title": "💎 Refine subtree organize information",
+        "created_at": "2024-04-16T05:00:00Z",
+        "updated_at": "2024-08-11T18:34:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration II:",
+                        "body": [
+                            "Merge organization und organize information (@rwarnking)"
+                        ]
+                    },
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "Does _info: hide_ have multiple meanings? (@rwarnking)",
+                            [
+                                "The player hides information or him self",
+                                "The player can withhold information.",
+                                "Examples: Among Us, Assassin's Creed, Thief, Hitman Absolution"
+                            ],
+                            "player highlights information vs information is highlighted for the player (@rwarnking) (Bridge Constructor)",
+                            "New Tag: info:connect"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "11.08 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "caption": "Info: hide self",
+                            "body": "We would prefer to add a subtree for stealth mechanics instead of adding IT to Organize information. The downside would be that we might need to add more subtrees with similar functionality for other game features."
+                        },
+                        {
+                            "type": "text",
+                            "caption": "Info: vorenthalten information with players (among us, keep talking)",
+                            "body": "Is this sufficiently tagged by social deduction?"
+                        },
+                        {
+                            "type": "text",
+                            "caption": "Info: vorenthalten information with npcs",
+                            "body": "Choose Dialog Options that allow to lie or keep information from an npc. This is strongly limited by the game programming. Also: Narrative quest choices. This could also be a pentan to stealth mechanics."
+                        },
+                        {
+                            "type": "text",
+                            "caption": "Info: hide information",
+                            "body": "Actively hide informationen, do not show or disable information, remove information from screen. For example organizing the workspace in Papers please. This might be related to manage resources. Atn: Questmenu where you can hide Quests or Details about them."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-08-11T18:34:00Z"
+        }
+    ]
+}

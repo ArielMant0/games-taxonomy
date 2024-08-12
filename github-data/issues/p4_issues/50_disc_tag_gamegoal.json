@@ -1,0 +1,110 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tagging goal of a game",
+        "created_at": "2024-05-12T23:00:00Z",
+        "updated_at": "2024-05-12T23:00:00Z",
+        "closed_at": "2024-07-25T23:03:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Each game has a goal that the player should reach, for example the end of a storyline or to beat all levels. Tagging these would provide a direct representation of why the player might play the game or how the game motivates the player to continue playing."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Solution"
+                    },
+                    {
+                        "type": "text",
+                        "body": "For the moment we define the goal of a game as a game element that the game itself urges you to complete. For this it does not matter whether the outcome is good or bad."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Possible options for this are:",
+                        "body": [
+                            "win match",
+                            "beat final level",
+                            "get high score / survive as long as possible",
+                            "solve big level/puzzle/riddle",
+                            "Reach end of storyline/bring story to end/follow storyline/participate",
+                            "complete game",
+                            "no explicit goal"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "In general it is fine for a game to have assigned multiple tags of these, but this would need to be connected to varying gamemodes (Minecraft)."
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Due to the rework of the problem types the need for tagging the goals of a game was already limited from the start of the discussion. Nevertheless we opted to discuss the topic and began by answering a few basic questions. Firstly it was important to define whether the goal of a game might be equal to the ending of a game. This proposition was rejected and the end state was defined as something that is not required to be the narrative ending. Regardless of this distinction we were not able to clearly define the goal of the game and instead discussed why the tag might be needed. The reason being the idea to construct a sentence defining key properties of a game."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-06-01T01:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "This issue spawned these issues:",
+                            "body": [
+                                "#53",
+                                "#54"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-06-01T01:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "title": "25.07 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We discussed the need for tagging the goal of a game again and came to the conclusion that is not needed. The mayn purpose of this tag was to indicate why a player plays a game but since this is part of the motivations subtree (#53) now this tag is not needed. However our discussion revealed the possibility to tag the game over condition of a game. This resulted in a new issue."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "This issue spawned these issues:",
+                            "body": [
+                                "#56"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-25T23:03:00Z"
+        }
+    ]
+}

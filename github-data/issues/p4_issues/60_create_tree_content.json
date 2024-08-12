@@ -1,0 +1,56 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree content and substance",
+        "created_at": "2024-08-07T23:59:00Z",
+        "updated_at": "2024-08-07T23:59:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Create this subtree and discuss basic structure."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(07.08, Phase 4) Add new tag _content and substance_ to _root_",
+                            "(07.08, Phase 4) Move _setting_, _topics_ from _metamechanics_ to _content and substance_",
+                            "(07.08, Phase 4) Add new tag _themes_ to _content and substance_",
+                            "(07.08, Phase 4) Add new tag _form_ to _root_",
+                            "(07.08, Phase 4) Add new tag _mechanics_ to _form_",
+                            "(07.08, Phase 4) Move _queues_ from _metamechanics_ to _mechanics_",
+                            "(07.08, Phase 4) Move _structure_ from _metamechanics_ to _form_",
+                            "(07.08, Phase 4) Move _replayability_ from _metamechanics_ to _form_",
+                            "(07.08, Phase 4) Move _game over condition_ from _metamechanics_ to _form_",
+                            "(07.08, Phase 4) Move _minigames_ from _metamechanics_ to _problem solving_",
+                            "(07.08, Phase 4) Move _solution space_ from _metamechanics_ to _form_",
+                            "(07.08, Phase 4) Move _motivation_ from _metamechanics_ to _form_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

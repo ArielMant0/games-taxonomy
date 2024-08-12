@@ -1,0 +1,133 @@
+{
+    "issue": {
+        "title": "🌳 Discuss subtree communication and tags like chat wheel & voice chat",
+        "created_at": "2024-04-01T23:30:00Z",
+        "updated_at": "2024-04-16T04:30:00Z",
+        "closed_at": "2024-04-16T04:30:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this subtree."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#7",
+                            "#8"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We found a lot of games that provide different means for communication. One essential distinction that can be made is whether the communication takes place between multiple players or if NPCs are involved. The later includes the player communicating with an NPC, multiple NPCs communicating with each other, or even the player character communicating with an NPC. When interaction between two players is possible, the game usually provides tools like text chat, voice chat, gestures or preset communication tools like chat wheel, gestures, markers and pings or sounds. Lastly some games limit the range of communication to the proximity of the source."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _communication_, _voice chat_, _chat wheel_, _social deduction_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Move _chat wheel_ from _root_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _text chat_, _gestures_, _markerping_, _soundboard_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Group _chat wheel_, _gestures_, _markerping_, _soundboard_ to _preset communication_",
+                            "(06.04, TAG ITERATION A-Z) Append _choose dialog option_ from _root_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _drawing_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Group _drawing_, _text chat_, _voice chat_ to _free communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _location based_, _not location based_ to _voice chat_",
+                            "(06.04, TAG ITERATION A-Z) Group _preset communication_, _free communication_ to _player communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _npctonpc_, _npctoplayer_, _npctoplayercharacter_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Group _npctonpc_, _npctoplayer_, _npctoplayercharacter_ to _npc communication_",
+                            "(06.04, TAG ITERATION A-Z) Append _choose dialog option_ from _communication_ to _npc communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _external communication_ to _player communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _vr communication_ to _free communication_",
+                            "(06.04, TAG ITERATION A-Z) Move tag _social deduction_ from _root_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _tutorial_ to _communication_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _communication_ from _root_ to _problem solving techniques_",
+
+                            "(15.04, TREE ITERATION I) Remove tag _not location based_",
+                            "(15.04, TREE ITERATION I) Rename _location based_ to _proximity communication_",
+                            "(15.04, TREE ITERATION I) Move _proximity communication_ from _voice chat_ to _communication_",
+                            "(15.04, TREE ITERATION I) Rename _vr communication_ to _free gestures_",
+                            "(15.04, TREE ITERATION I) Rename _markerping_ to _markers and pings_",
+                            "(15.04, TREE ITERATION I) Rename _npctonpc_ to _npc and npc_",
+                            "(15.04, TREE ITERATION I) Rename _npctoplayer_ to _npc and player_",
+                            "(15.04, TREE ITERATION I) Rename _npctoplayercharacter_ to _npc and playercharacter_",
+                            "(15.04, TREE ITERATION I) Move _external communication_ from _player communication_ to _free communication_",
+                            "(15.04, TREE ITERATION I) Append _social deduction_ from _communication_ to _reasoning_",
+                            "(15.04, TREE ITERATION I) Append _tutorial_ from _communication_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION II) Rename _drawing_ to _free drawing_",
+                            "(15.04, TREE ITERATION II) Rename _external communication_ to _external_",
+                            "(15.04, TREE ITERATION II) Add prefix _com:_ to _communication_",
+
+                            "(15.04, TREE ITERATION III) To Append _com: choose dialog option_ from _npc communication_ to _gather information_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Portal 2](https://store.steampowered.com/app/620/Portal_2/)",
+                            "[DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/) (Messages from other players)",
+                            "[Last Guardian](https://en.wikipedia.org/wiki/The_Last_Guardian) (Gestures + AI)",
+                            "[Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)",
+                            "[Minecraft](https://www.minecraft.net/en-us) (Books and signs)",
+                            "[Journey](https://store.steampowered.com/app/638230/Journey/)",
+                            "[Oxenfree](https://store.steampowered.com/app/388880/Oxenfree/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:40:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#29"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:30:00Z"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree camera perspective",
+        "created_at": "2024-05-07T21:00:00Z",
+        "updated_at": "2024-05-07T21:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related Issues:",
+                        "body": [
+                            "#12",
+                            "#37"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "h3",
+                        "body": "Explanation"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Currently the camera perspective tags contain a first person as well as an iso perspective tag. We think that these tags do not describe similar concepts or can not be compared. Therefore a refinement or a rework of these tags is necessary."
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Proposition 1 (discarded)"
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "camera degree of freedom",
+                        "body": [
+                            "",
+                            "free detached -> free movement",
+                            "character attached (following)",
+                            "camera on rails (with rotation)",
+                            "camera on rails (without rotation) (cinematic, no control, game control)",
+                            "static camera (location attached, scene changes)",
+                            "cinematic camera",
+                            "fully controlled",
+                            "semi controlled",
+                            "no control"
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Proposition 2"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Split camera related information into the following categories:\n **camera type, camera movement & rotation, cutscenes**"
+                    },
+                    {
+                        "type": "text",
+                        "body": "We used the definition of the USK for [cutscenes](https://usk.de/alle-lexikonbegriffe/cutscene/) to separate it from quicktime events."
+                    },
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "camera type",
+                            [
+                                "first person",
+                                "third person",
+                                "over the shoulder",
+                                "top down (Dota)",
+                                "side-on/side-scroller",
+                                "other",
+                                "no actors involved",
+                                "abstract data/UI",
+                                "straight-on/frontal/ui camera (Hexcells) [no player character]"
+                            ],
+                            "camera movement/rotation",
+                            [
+                                "free",
+                                "player character attached",
+                                "finite options",
+                                "scripted (cinematic, rails)",
+                                "fixed/static"
+                            ],
+                            "cutscenes/cinematics/(Zwischensequenz)",
+                            [
+                                "many",
+                                "few",
+                                "ingame",
+                                "pre rendered",
+                                "quicktime events (input prompt)(under noobsi of cutscenes?)"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "https://en.wikipedia.org/wiki/Side-scrolling_video_game"
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Examples"
+                    },
+                    {
+                        "type": "table",
+                        "body": [
+                            "game | camera type | camera movement | cutscenes",
+                            "-- | -- | -- | --",
+                            "[Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) | first person | static |  ",
+                            "[L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire/) | over the shoulder | player character attached | ingame, quicktime events",
+                            "[FEZ](https://store.steampowered.com/app/224760/FEZ/) | side on | finite options |  ",
+                            "[The Walking Dead](https://store.steampowered.com/app/207610/The_Walking_Dead/) | side on | player character attached | ingame, quicktime events",
+                            "[Her Story](https://store.steampowered.com/app/368370/Her_Story/) | straight on | static |  ",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) | top down | free | few, ingame",
+                            "[Pokemon Snap](https://en.wikipedia.org/wiki/Pokémon_Snap) | first person | scripted |  ",
+                            "[The Swapper](https://store.steampowered.com/app/231160/The_Swapper/) | side on | player character attached | few, ingame",
+                            "[Risen 2: Dark Waters](https://store.steampowered.com/app/40390/Risen_2_Dark_Waters/) | over the shoulder | player character attached | few, ingame, quicktime events",
+                            "[Pferd & Pony: Mein Pferdehof](https://de.wikipedia.org/wiki/Limbic_Entertainment) |   |   |  "
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(12.05, Phase 4) Rename _camera perspective_ to _camera type_",
+                            "(12.05, Phase 4) Add new tags _camera movement rotation_, _cutscenes cinematics_ to _spatial navigation_",
+                            "(12.05, Phase 4) Move _freedetached camera_ from _camera type_ to _camera movement rotation_",
+                            "(12.05, Phase 4) Append _iso perspective_ from _camera type_ to _misc_",
+                            "(12.05, Phase 4) Add new tags _over the shoulder_, _side-on_,_top down_ to _third person_",
+                            "(12.05, Phase 4) Add new tag _camt: straight on_ to _camera type_",
+                            "(12.05, Phase 4) Rename _third person_ to _camt: third person_",
+                            "(12.05, Phase 4) Rename _first person_ to _camt: first person_",
+                            "(12.05, Phase 4) Add new tags _cut: few_, _cut: ingame_, _cut: many_, _cut: pre rendered_, _cut: quicktime events_ to _cutscenes cinematics_",
+                            "(12.05, Phase 4) Add new tags _cam: finite options_, _cam: gixed static_, _cam: player character attached_, _cam: scripted_ to _camera movement rotation_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:low",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

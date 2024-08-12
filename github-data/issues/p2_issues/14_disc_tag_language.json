@@ -1,0 +1,107 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag language",
+        "created_at": "2024-04-06T22:20:00Z",
+        "updated_at": "2024-04-16T05:10:00Z",
+        "closed_at": "2024-04-16T05:10:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "might be part or duplication with communication player and npc",
+                            "what about language interpretation/analysieren? poems, text riddles, spoken words with hints in it, wegbeschreibungen etc",
+                            "sprache (neu) lernen/verstehen, wissen über sprache anwenden",
+                            "trennung irgendwie noch im baum machen",
+                            "CODING?!",
+                            "else.heartbreak()",
+                            "7 billion humans",
+                            "mit leuten reden reicht nicht",
+                            "language != communication"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _language_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Appended _language_ from _root_ to _problem solving_",
+
+                            "(14.04, TAG ITERATION A-Z) Appended _language_ from _problem solving_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _body language_, _learn unkown language_, _apply preknown language_, _learn programming_ to _language_",
+                            "(14.04, TAG ITERATION A-Z) To Append _language_ from _problem types_ to _topics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Her Story](https://store.steampowered.com/app/368370/Her_Story/)",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)",
+                            "[Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)",
+                            "[Among Us](https://store.steampowered.com/app/945360/Among_Us/)",
+                            "[L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire/) (Body Language)",
+                            "[Crysis Remastered](https://store.steampowered.com/app/1715130/Crysis_Remastered/) (hard mode, enemies speak korean)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:20:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#39"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:10:00Z"
+        }
+    ]
+}

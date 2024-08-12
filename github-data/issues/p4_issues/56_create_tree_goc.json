@@ -1,0 +1,156 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree game over condition",
+        "created_at": "2024-07-25T23:03:00Z",
+        "updated_at": "2024-07-25T23:03:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Spawned by:",
+                        "body": [
+                            "#50"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "25.07 Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Since it was difficult for us to define the goal of a game and we already included tags for motivations @HendrikBrueckler proposed to add tags for the game over condition. This would yield a very similar result but might be more clearly defineable."
+                    },
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "end state - nicht nur das erfolgreiche ende sondern auch tod is du musst von vorne anfangen.",
+                            "Win und failure conditions.",
+                            "game over condition -> complete main quest line, kill endboss, --- siehe oben aufgezähltes",
+                            "gegen goal of game weil schwer zu definieren. goc unabhängig von goal of game.",
+                            "nicht jedes game muss eine goc haben.",
+                            "Franziska: reframing von den tags die da stehen, wann sagt das spiel dir wann is vorbei",
+                            "hendrik: death ALternative zu ueberlebe lange",
+                            "endure missions",
+                            "enthällt beides positiv als auch negativ",
+                            "wenn laden dann ist es kein of ne GOC",
+                            "nicht anders als zuende spielen",
+                            "viele spielen hätten dann death",
+                            "valide das zu taggen",
+                            "das gibt einem informationen wie ein spiel stukturiert ist.",
+
+                            "dark souls integriert das in das spiel keine GOC",
+                            "mit purpose gelößt statt billig",
+                            "load and save taggen???",
+                            "das sagt einem was über spiele potentiell.",
+                            "eher technischer natur, weniger abstract sondern eher auf mechanic ebene",
+                            "nicht zwischen gut und schlecht unterscheiden, auch wenn es die theoretisch gibt.",
+                            "vermeiden von nicht klarzuordneunen sachen,",
+                            "entkoppeln von goal ist gut, goal kann stark abweichen.",
+                            "mit set an spielen durchspielen.",
+
+                            "auf welcher ebene taggen`?",
+                            "story: letzte quest beendet das spiel vs wenn die story zuende ist",
+                            "storyline bringt order rein, lässt auch offen das du skippen kannst.",
+
+                            "quest beendet ist sehr technisch",
+                            "reach exit point? final location? auch technisch",
+                            "stanley parable",
+                            "return of the obra dinn",
+                            "gone home",
+                            "portal (kill final boss)",
+
+                            "wie sehr will man technisch runtergehen",
+
+                            "gibt teilweise auch hint was die challenge eines spiels ist",
+                            "priorisierung: questline over location,",
+                            "more specific",
+                            "ist das spiel zuende weil die story zuende ist oder endet die story weil spiel zuende",
+                            "both ...",
+                            "letzte mainquest beenden",
+                            "spezifische quest beenden",
+
+                            "story die nicht an quests gebunden ist",
+                            "Gris, thin storyline, deswegen letzte location erreichen.",
+
+                            "subtree ganz in ordnung",
+
+                            "gutes maß zwischen kleinteiligkeit und abstraction zu finden",
+                            "skyrim hebt nicht hervor das es eine abfolge von quests ist!!!",
+
+                            "Discuss tagging goal of a game schließen -> follow up issue game over condition / end condition",
+                            "vorlaufiges spiel ende nicht unterscheiden -> sterben und neuladen könnte doof sein",
+
+                            "möglichst auf technischer ebene bleiben und nicht von gut und bad ending unterscheiden"
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "For test purposes we reused information from issue #50 and descided on the following tags to choose from:",
+                        "body": [
+                            "win match",
+                            "beat final level, kill endboss",
+                            "get high score / survive as long as possible",
+                            "solve big level/puzzle/riddle",
+                            "Reach end of storyline/bring story to end/follow storyline/participate, complete main quest line",
+                            "complete game",
+                            "no explicit goal",
+                            "death"
+                        ]
+                    },
+                    {
+                        "type": "table",
+                        "body": [
+                            "Game | @HendrikBrueckler | @ArielMant0 | @rwarnking",
+                            "-- | -- | -- | --",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) | | | ",
+                            "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | | | ",
+                            "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) | | | ",
+                            "Minecraft | | | ",
+                            "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | | | ",
+                            "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) | | | ",
+                            "[Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | | | ",
+                            "[The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/) | | | ",
+                            "[Life is Strange](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) | | | ",
+                            "[Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) | | | ",
+                            "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) | | | ",
+                            "[Portal](https://store.steampowered.com/app/400/Portal/) | | | ",
+                            "Schach | | | ",
+                            "[Banished](https://store.steampowered.com/app/242920/Banished/) | | | ",
+                            "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | | | ",
+                            "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | | | ",
+                            "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | | | ",
+                            "[Gone Home](https://store.steampowered.com/app/232430/Gone_Home/) | | | ",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | | | ",
+                            "[Dead Space](https://store.steampowered.com/app/17470/Dead_Space_2008/) | | | "
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(25.07, Phase 4) Add new tag _game over condition_ to _metamechanics_",
+                            "(25.07, Phase 4) Add new tags _beat final level_, _win match_, _finish questline_ to _game over condition_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

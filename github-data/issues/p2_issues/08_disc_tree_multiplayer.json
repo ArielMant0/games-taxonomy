@@ -1,0 +1,94 @@
+{
+    "issue": {
+        "title": "🌳 Discuss subtree multiplayer",
+        "created_at": "2024-04-02T00:01:00Z",
+        "updated_at": "2024-04-16T04:40:00Z",
+        "closed_at": "2024-04-16T04:40:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#6",
+                            "#7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "When discussing communication we also talked about situations in which player to player communication is needed. This mostly happens when some kind of of multiplayer component is involded. To clearly identify those features we added a subtree containing all possibilities in which multiple player interact in the game. This does not only include games with an ingame communication channel but also games where the players might communicate in person and outside of the game e.g. coop games."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(06.04, TAG ITERATION A-Z) Add new tags _couchcoop_, _lokalcoop_, _onlinecoop_, _online multiplayer_, _leave information_ to _root_",
+                            "(06.04, TAG ITERATION A-Z) Group _couchcoop_, _lokalcoop_, _onlinecoop_ to _coop_",
+                            "(06.04, TAG ITERATION A-Z) Group _coop_, _online multiplayer_ to _multiplayer_",
+
+                            "(14.04, TAG ITERATION A-Z) Add new tag _leave gameobjects_ to _leave information_",
+                            "(14.04, TAG ITERATION A-Z) Append _text in world_ from _create information_ to _leave information_",
+                            "(14.04, TAG ITERATION A-Z) Rename _leave information_ to _leave behind artefacts_",
+                            "(14.04, TAG ITERATION A-Z) Move _leave behind artefacts_ from _root_ to _multiplayer_",
+                            "(14.04, TAG ITERATION A-Z) Append _multiplayer_ from _root_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION II) Rename _leave behind artefacts_ to _leave behind artifacts_",
+
+                            "(15.04, TREE ITERATION IV) Rename _lokalcoop_ to _local coop_",
+                            "(15.04, TREE ITERATION IV) Rename _onlinecoop_ to _online coop_",
+                            "(15.04, TREE ITERATION IV) Rename _couchcoop_ to _couch coop_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:50:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#31"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:40:00Z"
+        }
+    ]
+}

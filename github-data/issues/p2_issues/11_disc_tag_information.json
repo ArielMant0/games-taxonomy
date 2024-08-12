@@ -1,0 +1,175 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags gather / hide / highlight / leave information",
+        "created_at": "2024-04-06T21:00:00Z",
+        "updated_at": "2024-04-16T04:55:00Z",
+        "closed_at": "2024-04-16T04:55:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of these tags."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "In this issue we discussed multiple tags relacted to information handling."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Gather information"
+                    },
+                    {
+                        "type": "text",
+                        "body": "Gathering information is usually understood as a feature where the player can talk to NPCs or collect items that give the player information. In many cases this is done automatically, resulting in an update of saved information for example in the form of a diary. Understandably this feature is mostly predefined in the form of premade notes. Alternatively the player needs to remember important details himself outside of the game, only in rare instances the game provides the option to save notes and information freely. In some cases this requires the player to process information and evaluate himself what is important and what is not (Gothic 3, Strange horti Culture)."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Hide information"
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "When hiding information it needs to be differentiated between the permanent and optional hiding, for example in the form of layers. Sorting the information according to relevance.",
+                        "body": [
+                            "quest highlighting/quest choose active quest, abgeschlossene quests, offene quests – automatisch!",
+                            "priorisieren?! kein ranking/ordering – binary",
+                            "overlay != windows (skilltree, items)",
+                            "player driven",
+                            "view customization",
+                            "degree of information display control / degree of control over information display",
+                            "what where how (when) – nicht nützlich? siehe hexcells",
+                            "filter information / organize information",
+                            "personalization but strategy",
+                            "Add hide/highlight information to organization"
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Highlight information"
+                    },
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "tagging ?!",
+                            "return of the obra din – falsch getagt? Highlight nur automatisch?!",
+                            "entscheiden ob aber nicht was",
+                            "cities: skylines – identische gebäude highlighten !=? overlay tag?",
+                            "ein topic vs ein spezifisches objekt, ist eine wasserleitung ein objekt?",
+                            "mark enemies, tagging?",
+                            "dota 2: pinging von enemy items, pings generell, highlight on hover, auswahl von units, roshtimer in chat posten, quick buy",
+                            "ausdünnen, viele spiele semi getaggt – verfeinern des tags?!",
+                            "abgrenzung/überschneidung zu communication"
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Leave information"
+                    },
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "dark souls blutflecken, death stranding",
+                            "objekte zurücklassen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _gather information_, _hide information_, _highlight information_, _predefined notes_, _tagging_, _red strings_, _text search_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Group _gather information_, _hide information_, _highlight information_ to _information_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _create information_ to _information_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _text in world_ to _create information_",
+
+                            "(14.04, TAG ITERATION A-Z) Appended _organization_ from _strategy_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _organization of information_, _organization of game resources_ to _organization_",
+                            "(14.04, TAG ITERATION A-Z) Move _hide information_, _highlight information_ from _information_ to _organization of information_",
+                            "(14.04, TAG ITERATION A-Z) Append _gather information_ from _information_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _premade notes_, _remember self_ to _gather information_",
+                            "(14.04, TAG ITERATION A-Z) Move _predefined notes_ from _root_ to _gather information_",
+                            "(14.04, TAG ITERATION A-Z) Move _tagging_ from _root_ to _organization of information_",
+                            "(14.04, TAG ITERATION A-Z) Appended _text in world_ from _create information_ to _leave information_",
+                            "(14.04, TAG ITERATION A-Z) Remove tag _information_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _notes_ to _organization of information_",
+                            "(14.04, TAG ITERATION A-Z) Rename _notes_ to _notes singleplayer_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _scouting_ to _gather information_",
+                            "(14.04, TAG ITERATION A-Z) Move _red strings_ from _root_ to _organization of information_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _exploration_ to _gather information_",
+                            "(14.04, TAG ITERATION A-Z) Move _text search_ from _root_ to _gather information_",
+
+                            "(15.04, TREE ITERATION I) Rename _organization of information_ to _organize information_",
+                            "(15.04, TREE ITERATION I) Rename _hide information_ to _info: hide_",
+                            "(15.04, TREE ITERATION I) Rename _highlight information_ to _info: highlight_",
+                            "(15.04, TREE ITERATION I) Rename _notes singleplayer_ to _info: record_",
+                            "(15.04, TREE ITERATION I) Rename _tagging_ to _info: tag_",
+                            "(15.04, TREE ITERATION I) Rename _red strings_ to _info: connect_",
+
+                            "(15.04, TREE ITERATION I) Merge _predefined notes_, _premade notes_ to _ginfo: predefined notes_",
+
+                            "(15.04, TREE ITERATION III) Appended _com: choose dialog option_ from _npc communication_ to _gather information_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[RollerCoaster Tycoon®: Deluxe](https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/)",
+                            "[DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)",
+                            "[Pokemon](https://en.wikipedia.org/wiki/List_of_Pokémon_video_games) (Team selection)",
+                            "[StarCraft](https://en.wikipedia.org/wiki/StarCraft)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:05:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#35",
+                                "#36"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:55:00Z"
+        }
+    ]
+}

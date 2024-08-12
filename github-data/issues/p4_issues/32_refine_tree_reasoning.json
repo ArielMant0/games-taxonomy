@@ -1,0 +1,54 @@
+{
+    "issue": {
+        "title": "💎 Refine subtree reasoning",
+        "created_at": "2024-04-16T04:45:00Z",
+        "updated_at": "2024-04-16T04:45:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "07.04, Tag Iteration A-Z:",
+                        "body": [
+                            "rename to logical reasoning"
+                        ]
+                    },
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "Multiple definitions for puzzle pieces: Order pieces on a board or else. (@rwarnking)",
+                            "When is a game apply rules? Or rather when is it not? (@rwarnking)",
+                            "When do you Learn game specific rules? Or rather when do you not? (@rwarnking)",
+                            "What should combining of items be tagged with? (@ArielMant0) (Deponia)",
+                            "Abwägen als Abgrenzung von Strategic Planning? Oder gehört das dazu? (ArielMant0) (Disco Elysium / random rolls)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

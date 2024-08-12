@@ -1,0 +1,107 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree topics",
+        "created_at": "2024-04-14T12:00:00Z",
+        "updated_at": "2024-04-16T05:35:00Z",
+        "closed_at": "2024-04-16T05:35:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _timeline_ to _root_",
+
+                            "(14.04, TAG ITERATION A-Z) Init tag _topics_ to _problem types_",
+                            "(14.04, TAG ITERATION A-Z) Append _language_ from _problem types_ to _topics_",
+                            "(14.04, TAG ITERATION A-Z) Append _physics_ from _problem types_ to _topics_",
+                            "(14.04, TAG ITERATION A-Z) Move _timeline_ from _root_ to _topics_",
+                            "(14.04, TAG ITERATION A-Z) Rename _timeline_ to _critical time elements events_",
+
+                            "(15.04, TREE ITERATION I) Add new tag _rhythm or music_ to _topics_",
+                            "(15.04, TREE ITERATION I) Add new tag _combos_ to _topics_",
+                            "(15.04, TREE ITERATION I) Appended _contradiction_ from _reasoning_ to _topics_",
+                            "(15.04, TREE ITERATION I) Rename _critical time elements events_ to _top: time_",
+                            "(15.04, TREE ITERATION I) Add new tag _intense roleplaying_ to _topics_",
+                            "(15.04, TREE ITERATION I) Appended _subversion: storytelling_ from _contradiction_ to _topics_",
+                            "(15.04, TREE ITERATION I) Appended _subversion: gamemechanic_ from _contradiction_ to _topics_",
+
+                            "(15.04, TREE ITERATION II) Appended _accusation_ tree from _problem types_ to _topics_",
+                            "(15.04, TREE ITERATION II) Add new tag _competition_ to _topics_",
+                            "(15.04, TREE ITERATION II) Appended _detective work_ from _problem types_ to _topics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:45:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#43"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:35:00Z"
+        }
+    ]
+}

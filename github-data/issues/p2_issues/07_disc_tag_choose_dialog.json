@@ -1,0 +1,105 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag choose dialog option",
+        "created_at": "2024-04-01T23:40:00Z",
+        "updated_at": "2024-04-16T04:35:00Z",
+        "closed_at": "2024-04-16T04:35:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#6",
+                            "#8"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "A regularly used option for players to interact with NPCs are dialog options. In many games it is possible to choose between multiple options. This is supposed to simulate a dialog between player and NPC allowing both parties to show varying reactions to its counterpart. A vital part of this feature is the choice, since this is the interface for the player to influence the game and alter or change the course of the conversation. This is a direct opposite of cutsceenes in which the player can not react to said sings. This led to us differentiating between player to player, player to npc, npc to npc, and finally npc to player character. The last tag entails games in which the player character might do things on its own whichout the players input. (TODO) Some games also provide proximity based dialog, meaning that the player can only hear a conversation if he is in reach i.e. in proximity."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _choose dialog option_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Appended _choose dialog option_ from _root_ to _communication_",
+                            "(06.04, TAG ITERATION A-Z) Appended _choose dialog option_ from _communication_ to _npc communication_",
+
+                            "(15.04, TREE ITERATION II) Rename _choose dialog option_ to _com: choose dialog option_",
+
+                            "(15.04, TREE ITERATION III) Append _com: choose dialog option_ from _npc communication_ to _gather information_",
+                            "(15.04, TREE ITERATION III) Rename _com: choose dialog option_ to _ginfo: dialog_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) (Radio)",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)",
+                            "[METAL GEAR SOLID - Master Collection Version](https://store.steampowered.com/app/2131630/METAL_GEAR_SOLID__Master_Collection_Version/) (Remove controller, breaking 4th wall)",
+                            "[Gothic® 3](https://store.steampowered.com/app/39500/Gothic_3/) (Tutorial Boxen)",
+                            "[Baldur's Gate II: Enhanced Edition](https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/) (NPC explains game to the player (TODO richtige version?))",
+                            "[The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/) (player is not choosing exactly what is said)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:45:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#29",
+                                "#30"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:35:00Z"
+        }
+    ]
+}

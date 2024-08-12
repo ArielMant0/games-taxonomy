@@ -1,0 +1,140 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tagging USK",
+        "created_at": "2024-05-12T23:59:00Z",
+        "updated_at": "2024-05-12T23:59:00Z",
+        "closed_at": "2024-07-25T23:02:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "12.05 Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "In the discussion for another tag we found that it might be interesting to introduce information about taget groups for example in terms of age. This resulted in us adding a dummy tag _usk 18_ such that we could revisit this later on."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(12.05, Phase 4) Add new tag _usk 18_ to _misc_",
+                            "(27.05, Phase 4) Remove tag _usk 18_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "25.07 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Related tags would have the purpose to indicate who is playing the game. This might be culturel interesting but also would give a brought overview about the conent of the game: Does the game contain violent visuals? Or does it contain drug use or heavy language? Is it viable for kids to play it? and so on."
+                        },
+                        {
+                            "type": "text",
+                            "body": "When discussing this topic we found multiple problems regarding ratings. Firstly it is difficult to access this as an uninformed person that does not do this professionally since it might require in depth game knowledge and generally a system to compare games to each other. Such a tag would simple be more difficult to tag than for example tags related to minigames or visual features. Secoundly it is not guaranteed that a user would rate a game consistently at different time points, meaning the values would be subject to change, which in turn would require the user to regularly update corelated tags."
+                        },
+                        {
+                            "type": "text",
+                            "body": "We finally concluded that it would be unreasonable to add such a tag by ourselfs, simply because we would probably rebuild rating systems that already exist from big organizations like the [USK](https://usk.de/en/) or [PEGI](https://pegi.info). We therefore shifted the focus to a technical solution: Instead of using tags we aim to add a feature to the [collacode](https://github.com/ArielMant0/collacode) application allowing it to crawl various informations about the games from said rating organizations. This would allow for updates when ratings change and would also shift the responsibility for correct data to the organizations."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Despite this we discussed whether there might be features that can and should be tagged anyway. The proposition was to reorientate the focus to gameplay relevant elements. Like this simple occurances of nudity or violence would not automatically require the related tag."
+                        },
+                        {
+                            "type": "text",
+                            "body": "**welche inhalte gibt, wie ist das ins gameplay eingewoben, real oder comic, das sind sachen die aus verschiedenen bereichen kommen um aussagen treffen zu können serious, realism, slapstick.**"
+                        },
+                        {
+                            "type": "text",
+                            "body": "**Since we also found relations to subtrees like #43 or #46 we opted to discuss these trees first before adding a pontential new subtree. Consequently we closed this issue and created a new issue for the next milestone.**"
+                        },
+                        {
+                            "type": "text",
+                            "body": "Nevertheless we shortly iterated over the cathegories that are usually used by USK and PEGI for their ratings."
+                        },
+                        {
+                            "type": "table",
+                            "caption": "USK ([source](https://usk.de/die-usk/grundlagen-und-struktur/grundlagen/)):",
+                            "body": [
+                                "Chapter | subtree",
+                                "-- | --",
+                                "4.1 Visuelle und akustische Umsetzung der Spielidee | NEU: grafikstil, realistisch, cartoon, rendered, drawn, stylised, reallife video cutscenes",
+                                "4.2. Gameplay | :no_entry_ ",
+                                "4.3. Atmosphäre | THINK ABOUT IT: aber sehr schwer, immersion, immersionsgrad, mechanics die zur immersion beitragen sollen - minimum UI, ambient sounds, ...",
+                                "4.4. Realismus | siehe grafikstil und simulation",
+                                "4.5. Glaubwürdigkeit | siehe grafikstil und simulation",
+                                "4.6. Menschenähnlichkeit | we do not care",
+                                "4.7. Jugendaffinität und Identifikationspotenzial | we do not care",
+                                "4.8. Handlungsdruck | THINK ABOUT IT: pacing, zeitdruck, flow (mirror edge), kontrollverlust",
+                                "4.9. Gewalt | violence",
+                                "4.10. Krieg | TOPICs",
+                                "4.11. Angst und Bedrohung | TOPICs (gore, psycho horror, ((jump-)scares)",
+                                "4.12. Sexualität |  THEMES",
+                                "4.13. Diskriminierung | THEMES",
+                                "4.14. Sprache | THEMES",
+                                "4.15. Drogen | THEMES",
+                                "4.16. Glücksspiel | THEMES"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "caption": "PEGI ([source](https://pegi.info/de/node/59)):",
+                            "body": [
+                                "Cathegory | subtree",
+                                "-- | --",
+                                "Gewalt | vgl 4.9",
+                                "Schimpfwörter | vgl 4.14 Sprache",
+                                "Angst | vgl 4.11",
+                                "Glücksspiel | als mechanic, lootboxen metamechanics / rewards",
+                                "Sex | vgl 4.12",
+                                "Drogen | vgl 4.15",
+                                "Diskreminierung | vgl 4.13",
+                                "Käufe im Spiel | THINK ABOUT IT: cheaten, problem solving technique, misc, SPIELPREIS - FREE TO PLAY"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-25T23:01:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#57"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-25T23:02:00Z"
+        }
+    ]
+}

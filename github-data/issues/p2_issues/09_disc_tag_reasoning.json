@@ -1,0 +1,125 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags contradiction, deduction, induction",
+        "created_at": "2024-04-02T00:15:00Z",
+        "updated_at": "2024-04-16T04:45:00Z",
+        "closed_at": "2024-04-16T04:45:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "h4",
+                        "body": "Contradition"
+                    },
+                    {
+                        "type": "text",
+                        "body": "The _contradiction_ tag should represent a type of problem in which the player needs to find missmatches between game statements of events. Here it is possible either to tag if a game contains contradications or if the player needs to find those. Specifically we talk about _has contradiction_, _find contradiction_, subversion of expectation gamemechanics and storytelling. Further remarkable ideas entail inconsistent game rules/logic. The main question is whether the player can or must find a contradicition. When finding a contradiction the player might be promted to expose a NPC of lying by showing a contradicting statemant. Furthermore some games limit the player by prohibiting contradicting statements [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/). In general we concluded that logic puzzle should not be included as part of contradiction tags, since it is a normal part of puzzleing to find a solution to a riddle for example via trial and error - the contradictions are not setup by the game rather by the players understanding of the problem. ([Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/), [Limbo](https://store.steampowered.com/app/48000/LIMBO/), [The Swapper](https://store.steampowered.com/app/231160/The_Swapper/))."
+                    },
+                    {
+                        "type": "h4",
+                        "body": "Deduction and Induction"
+                    },
+                    {
+                        "type": "text",
+                        "body": "We furthermore encountered a difficulty differentiating between deduction and induction. According to @HendrikBrueckler [The Witness](https://store.steampowered.com/app/210970/The_Witness/) would be a perfect fit regarding induction, while @arielmant0 mentiones chants of sennar. Especially the induction tag was a callenge since deduction was found to be a direct consequence of induction. It was therefore difficult to show in which scenario the induction tag would be correct. Baba is you was another example: here you know the rules but you still need to figure out how to correctly apply them."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _contradiction_, _deduction_, _induction_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Add new tags _can find contradictions_, _has contradictions_, _must find contradictions_ to _contradiction_",
+                            "(06.04, TAG ITERATION A-Z) Group _contradiction_, _deduction_, _induction_ to _reasoning_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _subversion of expectation gamemechanic_, _subversion of expectation storytelling_ to _contradiction_",
+
+                            "(13.04, TAG ITERATION A-Z) Append subtree _reasoning_ from _root_ to _problem solving_",
+                            "(13.04, TAG ITERATION A-Z) Merge _deduction_, _rules_ to _apply rules_",
+                            "(13.04, TAG ITERATION A-Z) Rename _induction_ to _discover or learn rules_",
+
+                            "(14.04, TAG ITERATION A-Z) Append _reasoning_ subtree from _problem solving_ to _problem solving techniques_",
+
+                            "(15.04, TREE ITERATION I) Appended _social deduction_ from _communication_ to _reasoning_",
+                            "(15.04, TREE ITERATION I) To Append _has contradictions_, _can find contradictions_ from _contradiction_ to _misc_",
+                            "(15.04, TREE ITERATION I) Append _contradiction_ from _reasoning_ to _topics_",
+                            "(15.04, TREE ITERATION I) Rename _subversion of expectation storytelling_ to _subversion: storytelling_",
+                            "(15.04, TREE ITERATION I) Rename _subversion of expectation gamemechanic_ to _subversion: gamemechanic_",
+                            "(15.04, TREE ITERATION I) Append _subversion: storytelling_ from _contradiction_ to _topics_",
+                            "(15.04, TREE ITERATION I) Append _subversion: gamemechanic_ from _contradiction_ to _topics_",
+
+                            "(15.04, TREE ITERATION II) To Append _strategic planning_ from _strategy_ to _reasoning_",
+
+                            "(15.04, TREE ITERATION III) Remove tag _must find contradictions_",
+                            "(15.04, TREE ITERATION III) Append _puzzle pieces_ from _logic puzzles_ to _reasoning_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/)",
+                            "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) (Story turns)",
+                            "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/)",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)",
+                            "[METAL GEAR SOLID - Master Collection Version](https://store.steampowered.com/app/2131630/METAL_GEAR_SOLID__Master_Collection_Version/)",
+                            "[Call of Juarez: Gunslinger](https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/) (Unreliable narrator)",
+                            "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) (NPCs can be exposed)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:55:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#32",
+                                "#33"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:45:00Z"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree spatial navigation",
+        "created_at": "2024-04-16T05:10:00Z",
+        "updated_at": "2024-04-16T05:10:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "How to tag signs that show the way? (@HendrikBrueckler)",
+                            "markerpingundso IST DOOF (@Arielmant0)",
+                            "map overlay (text or colored areas) (@Arielmant0)",
+                            "Information Overlay (@rwarnking)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:high",
+            "priority:critical"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "New related Issue:",
+                            "body": [
+                                "#47"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-05-07T21:00:00Z"
+        }
+    ]
+}

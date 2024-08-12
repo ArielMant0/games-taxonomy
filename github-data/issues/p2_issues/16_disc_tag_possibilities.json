@@ -1,0 +1,97 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag possibilities (pseudo), possibilities",
+        "created_at": "2024-04-06T22:30:00Z",
+        "updated_at": "2024-04-16T05:20:00Z",
+        "closed_at": "2024-04-16T05:20:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _possibilities (pseudo)_, _possibilities_ to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Move _possibilities (pseudo)_ from _root_ to _possibilities_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _narrative choices_, _non trivial choices_, _trivial choices_ to _possibilities_",
+
+                            "(14.04, TAG ITERATION A-Z) Appended _possibilities_ from _root_ to _problem types_",
+
+                            "(15.04, TREE ITERATION II) Rename _possibilities (pseudo)_ to _misleading choices_",
+                            "(15.04, TREE ITERATION II) Appended _moral and emotional challenges_ from _problem types_ to _possibilities_",
+
+                            "(15.04, TREE ITERATION III) Appended _red herings_ from _logic puzzles_ to _possibilities_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Hexologic](https://store.steampowered.com/app/785890/Hexologic/)",
+                            "[Hexcells](https://store.steampowered.com/app/265890/Hexcells/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:30:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#40"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:20:00Z"
+        }
+    ]
+}

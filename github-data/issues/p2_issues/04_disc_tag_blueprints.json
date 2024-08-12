@@ -1,0 +1,113 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags blueprints, pseudo blueprints, reusable blueprints",
+        "created_at": "2024-04-01T22:30:00Z",
+        "updated_at": "2024-04-16T04:20:00Z",
+        "closed_at": "2024-04-16T04:20:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of these tags."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Some games provide blueprints that allow the player to reuse informations already aquired or even copy paste parts that the player already did in the game for example when building a structure. Multiple fine grained differences can be found for this feature: Some games only provide predefined blueprints, that can be reused but not modified. Other games allow to specify custom blueprints. These fall into the cathegory of templates. Similar features are marker blueprints where the player can mark an area for later without actually using it, or recipes which provide an easy tool for saving requirement information."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "We discussed the following tags in detail:",
+                        "body": [
+                            "_blueprint_",
+                            "_pseudo blueprint_",
+                            "_template_",
+                            "_recipe_",
+                            "_copypaste_",
+                            "_customizable_",
+                            "_preset_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _blueprint_, _pseudo blueprint_, _reusable blueprints_,  to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Rename _reusable blueprints_ to _template_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _recipe_ to _root_",
+                            "(06.04, TAG ITERATION A-Z) Group _blueprint_, _pseudo blueprint_, _template_, _recipe_ to _planning_",
+                            "(06.04, TAG ITERATION A-Z) Add new tags _copypaste_, _customizable_, _preset_ to _planning_",
+                            "(06.04, TAG ITERATION A-Z) To Append _strategy (optional)_ from _strategy_ to _planning_",
+
+                            "(13.04, TAG ITERATION A-Z) Append subtree _planning_ from _root_ to _problem solving_",
+
+                            "(14.04, TAG ITERATION A-Z) Rename subtree _planning_ to _building & crafting_",
+                            "(14.04, TAG ITERATION A-Z) Append _building & crafting_ subtree from _problem solving_ to _problem solving techniques_",
+
+                            "(15.04, TREE ITERATION I) Rename _pseudo blueprint_ to _exploit as blueprint_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)",
+                            "[Rimworld](https://store.steampowered.com/app/294100/RimWorld/)",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/)",
+                            "[Banished](https://store.steampowered.com/app/242920/Banished/)",
+                            "[Minecraft](https://www.minecraft.net/en-us)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T16:30:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#27"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:20:00Z"
+        }
+    ]
+}

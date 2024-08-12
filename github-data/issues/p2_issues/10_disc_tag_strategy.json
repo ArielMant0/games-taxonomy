@@ -1,0 +1,122 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags strategy",
+        "created_at": "2024-04-02T00:35:00Z",
+        "updated_at": "2024-04-16T04:50:00Z",
+        "closed_at": "2024-04-16T04:50:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this subtree."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "After the Phase 1 tagging the taxonomy contained multiple tags related to strategy. Two of which were _device strategy_ and _strategy (optional)_. The latter was specifically tailored to games that provide the tools for the player to play strategically without explicitly expecting the player to device a strategy to succeed. These and other tags were combined under the strategy subtree, which got multiple reworks which included a rename to _strategic planning_ and mergings to a _resource management_ subtree."
+                    },
+                    {
+                        "type": "text",
+                        "body": "A abgrezung was made from strategic planning to executing recipes like they can be found in games like starcraft in form of build orders."
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _devise strategy_, _strategy (optional)_, _organization_, to _root_",
+
+                            "(06.04, TAG ITERATION A-Z) Group _devise strategy_, _strategy (optional)_, _organization_ to _strategy_",
+                            "(06.04, TAG ITERATION A-Z) Append _strategy (optional)_ from _strategy_ to _planning_",
+
+                            "(13.04, TAG ITERATION A-Z) Add new tag _teamcreation skilltree skillitem etc_ to _strategy_",
+
+                            "(14.04, TAG ITERATION A-Z) Append subtree _strategy_ from _root_ to _problem solving_",
+                            "(14.04, TAG ITERATION A-Z) Append _strategy_ subtree from _problem solving_ to _problem solving techniques_",
+                            "(14.04, TAG ITERATION A-Z) Append _organization_ from _strategy_ to _problem solving techniques_",
+
+                            "(15.04, TREE ITERATION I) Move _organization of game resources_ from _organization_ to _strategy_",
+                            "(15.04, TREE ITERATION I) Add new tag _org: consumables_ to _organization of game resources_",
+                            "(15.04, TREE ITERATION I) Add new tag _org: npc_ to _organization of game resources_",
+                            "(15.04, TREE ITERATION I) Add new tag _org: skillpoints_ to _organization of game resources_",
+                            "(15.04, TREE ITERATION I) Add new tag _org: compose team_ to _organization of game resources_",
+                            "(15.04, TREE ITERATION I) To Append _teamcreation skilltree skillitem etc_ from _resource management_ to _misc_",
+
+                            "(15.04, TREE ITERATION II) Rename _devise strategy_ to _strategic planning_",
+                            "(15.04, TREE ITERATION II) Append _strategic planning_ from _strategy_ to _reasoning_",
+                            "(15.04, TREE ITERATION II) Merge _strategy_, _organization of game resources_, _strategy (optional)_ to _resource management_",
+                            "(15.04, TREE ITERATION II) Rename _org: skillpoints_ to _mng: skills und items_",
+                            "(15.04, TREE ITERATION II) Rename _org: npc_ to _mng: units_",
+                            "(15.04, TREE ITERATION II) Rename _org: compose team_ to _mng: compose team_",
+                            "(15.04, TREE ITERATION II) Rename _org: consumables_ to _mng: consumables_",
+                            "(15.04, TREE ITERATION II) Add new tag _mng: time_ to _resource management_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[StarCraft](https://en.wikipedia.org/wiki/StarCraft)",
+                            "[Factorio](https://store.steampowered.com/app/427520/Factorio/)",
+                            "[Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)",
+                            "[Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#34"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T04:50:00Z"
+        }
+    ]
+}

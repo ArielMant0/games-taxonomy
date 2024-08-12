@@ -1,0 +1,145 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree game structure",
+        "created_at": "2024-06-01T17:00:00Z",
+        "updated_at": "2024-06-01T17:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Spawned by:",
+                        "body": [
+                            "#50"
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#40",
+                            "#42",
+                            "#53",
+                            "#55"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Additionally we added a different subtree displaying the structure of a game. This subtree is supposed to show the structured form the game uses to present its content. A key distinction to be made was a game being a match or a game containing matches. Especially for this we added the match based identifier, which allows us to tag the structure of a game as what the player regularly encounters i.e. during a match, while indicating that the game has matches that most likely offer the same content repeatedly. In contrast to that, the cyclic tag provides the user to tag games that encourage the player to repeat the game after a playthrough by providing information or assets that can be migrated to the next playthrough i.e. via new game+ modi. Furthermore we added order to indicate the manner in which the content can be consumed. For the open tag the player must be able to freely choose in which order actions are taken, resulting in missable content or such."
+                    },
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "**order** (one or the other)",
+                            [
+                                "**linear** ~~narrative~~ (Banner Saga / Starcraft)",
+                                "**branches** / ~~treelike~~",
+                                "**open** ~~world~~ / parallel"
+                            ],
+                            "**chunkiness**",
+                            [
+                                "**paketweise**, stepwise / häppchen / level (isolated)",
+                                "**continuous** (~~nahtlos~~)"
+                            ],
+                            "**match based**, instance based (the same but different)",
+                            [
+                                "basic gameplay that is repeated every time",
+                                "complete content is available"
+                            ],
+                            "**Spielerlebnis** (verschiedene Modi, z.B. Mass Effect)",
+                            [
+                                "**homogen**",
+                                "**heterogen**"
+                            ],
+                            "**cyclic**"
+                        ]
+                    },
+                    {
+                        "type": "table",
+                        "body": [
+                            "Game | @HendrikBrueckler | @ArielMant0 | @rwarnking",
+                            "-- | -- | -- | --",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) | open<br> continuous<br> match based<br> homogen | open<br> continuous<br> match based<br> homogen<br> cyclic :red_circle: | open<br> continuous<br> match based<br> homogen<br> cyclic :red_circle:",
+                            "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | open<br> continuous<br> homogen | open<br> continuous<br> homogen | open<br> continuous<br> heterogen :red_circle:",
+                            "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) | branches<br> continuous :red_circle:<br> heterogen | branches<br> paketweise :red_circle:<br> heterogen | open  :red_circle:<br> paketweise :red_circle:<br> ~~continuous~~ :no_entry: <br> heterogen",
+                            "Minecraft | open<br> continuous<br> homogen | open<br> continuous<br> heterogen :red_circle: | open<br> continuous<br> homogen",
+                            "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | branches<br> continuous :red_circle:<br> homogen | branches<br> paketweise :red_circle:<br> homogen | open?  :red_circle:<br> paketweise :red_circle:<br> ~~continuous~~ :no_entry:<br> homogen<br> cyclic :red_circle:",
+                            "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) | open<br> continuous<br> match based<br> heterogen | open<br> paketweise :red_circle:<br> continuous<br> match based<br> heterogen<br> cyclic :red_circle: | open<br> ~~paketweise~~ :no_entry:<br> continuous<br> match based<br> heterogen<br> ~~cyclic~~ :no_entry:",
+                            "[Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | linear<br> continuous :red_circle:<br> match based :red_circle:<br>homogen | linear<br> paketweise :red_circle:<br> homogen | branches :red_circle:<br> open :red_circle:<br> paketweise :red_circle:<br> ~~continuous~~ :no_entry:<br> homogen",
+                            "[The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/) | open<br> continuous<br> homogen :red_circle: | open<br> continuous<br> heterogen :red_circle: | branches :red_circle:<br> open<br> ~~paketweise~~ :no_entry:<br> continuous<br> homogen :red_circle:<br> ~~heterogen~~ :no_entry:",
+                            "[Life is Strange](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) | branches<br> continuous<br> homogen | linear :red_circle:<br> continuous<br> homogen | branches<br>paketweise :red_circle:<br> ~~continuous~~ :no_enty:<br> homogen<br> heterogen",
+                            "[Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) | branches<br> paketweise<br> heterogen | linear :red_circle:<br> paketweise<br> heterogen | branches<br> paketweise<br> ~~continuous~~ :no_entry:<br> heterogen",
+                            "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) | linear :red_circle:<br> continuous :red_circle:<br> homogen | branches :red_circle:<br> paketweise :red_circle:<br> continuous :red_circle:<br> homogen | branches :red_circle:<br> open :red_circle:<br> paketweise :red_circle:<br> ~~continuous~~ :no_entry:<br> heterogen :red_circle:",
+                            "[Portal](https://store.steampowered.com/app/400/Portal/) | linear<br> continuous :red_circle:<br> homogen | linear<br> paketweise<br> homogen | linear :question:<br> paketweise<br> homogen",
+                            "Schach | branches<br> continuous<br> match based<br> homogen | open :red_circle:<br> continuous<br> match based<br> homogen | branches<br> continuous<br> match based<br> homogen<br> cyclic :red_circle:",
+                            "[Banished](https://store.steampowered.com/app/242920/Banished/) | open :red_circle:<br> continuous<br> homogen | branches :red_circle:<br> continuous<br> homogen | linear :red_circle:<br> ~~branches~~ :no_entry:<br> paketweise :red_circle:<br> heterogen :red_circle:",
+                            "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | open :red_circle:<br> continuous<br> homogen | branches :red_circle:<br> continuous<br> homogen<br> cyclic :red_circle: | ~~linear~~ :no_entry:<br> branches :red_circle:<br> continuous<br> homogen<br> ~~heterogen~~ :no_entry:",
+                            "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | linear<br> paketweise<br> homogen | linear<br> paketweise<br> homogen | branches<br> paketweise<br> homogen<br> ~~heterogen~~ :no_entry:",
+                            "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | branches<br> paketweise<br> homogen | branches<br> paketweise<br> homogen | branches<br> paketweise<br> homogen<br> heterogen",
+                            "[Gone Home](https://store.steampowered.com/app/232430/Gone_Home/) | open<br> continuous<br> homogen | open<br> continuous<br> homogen | linear :red_circle:<br> continuous<br> homogen<br> cyclic :red_circle:",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | branches<br> continuous<br> homogen :red_circle: | branches<br> continuous<br> heterogen :red_circle:<br> cyclic :red_circle: | branches<br> continuous<br> heterogen :red_circle:",
+                            "[Dead Space](https://store.steampowered.com/app/17470/Dead_Space_2008/) | linear :red_circle:<br> continuous<br> homogen | branches :red_circle:<br> continuous<br> homogen | linear :red_circle:<br> ~~branches~~ :no_entry:<br> ~~open~~ :no_entry:<br> paketweise :red_circle:<br> ~~continuous~~ :no_entry:<br> homogen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.06, Phase 4) Add new tag _structure_ to _metamechanics_",
+                            "(01.06, Phase 4) Add new tags _order_, _chunkiness_, _spielerlebnis_, _match based_, _cyclic_ to _structure_",
+                            "(01.06, Phase 4) Add new tags _linear_, _branches_, _open_ to _order_",
+                            "(01.06, Phase 4) Add new tags _package wise_, _continous_ to _chunkiness_",
+                            "(01.06, Phase 4) Add new tags _homogen_, _heterogen_ to _spielerlebnis_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "New Tag?: open world or similar (@rwarnking)",
+                            "Analog to narrative choices, introduce choices as a game mechanic. (Assassin's Creed, Thief, Freespace 2, Hand of Fate, Kingdom Come)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:critical"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "For now we define cyclic as 'The game is designed in a way that can be experienced to full extent only by replaying the game a large (but not concretely defined) number of times'. This should be seen mostly disconnected from concerns of replayability and motivation/incentive/rewards. We use the above list as a basis for tagging the Game Structure in the next tagging round and will revisit it afterwards for evaluation."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-08-04T14:28:00Z"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree automation",
+        "created_at": "2024-04-16T04:15:00Z",
+        "updated_at": "2024-04-16T04:15:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "07.04, Tag Iteration A-Z:",
+                        "body": [
+                            "How do strategy games relate to automation?",
+                            "Is it important for this feature to be a mandatory part of the game?",
+                            "How to differentiate between basic and advanced automisation?",
+                            "How to differentiate between auto assemble vs configure?",
+                            "Talk about [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) specifically!"
+                        ]
+                    },
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "What is the difference to a queue?"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:critical"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

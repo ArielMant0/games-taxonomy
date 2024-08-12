@@ -1,0 +1,49 @@
+{
+    "issue": {
+        "title": "⚔️ Judge tag choose dialog option",
+        "created_at": "2024-04-16T04:35:00Z",
+        "updated_at": "2024-04-16T04:35:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#7"
+                        ]
+                    },
+                    {
+                        "type": "warning",
+                        "body": "Based on issue #7 we created the tag _ginfo: dialog_ previously known as _choose dialog option_."
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "07.04, Tag Iteration A-Z:",
+                        "body": [
+                            "should it be called AI communication",
+                            "like this it is difficult to diffirentiate between content and type",
+                            "differentiate between dialog that are import or not important for the game progress (Main-Dialog, non trivial choices, narrative choices, possibilities tag)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

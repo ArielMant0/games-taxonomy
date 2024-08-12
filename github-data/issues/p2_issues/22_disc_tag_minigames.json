@@ -1,0 +1,96 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tag minigames",
+        "created_at": "2024-04-14T14:10:00Z",
+        "updated_at": "2024-04-16T05:50:00Z",
+        "closed_at": "2024-04-16T05:50:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "add subtags to minigames since this is highly unspecific",
+                            "vgl logic puzzles -> puzzle pieces (bioshock)",
+                            "taschendiebstahl schlösserknacken",
+                            "among us, connect, order, remember, assign, timing, precision",
+                            "MINIGAME SCHEIßE"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tag _minigames_ to _root_",
+
+                            "(14.04, TAG ITERATION A-Z) Appended _minigames_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _logic minigame_, _skill minigame_, _busywork minigame_  to _minigames_",
+
+                            "(15.04, TREE ITERATION IV) Rename _skill minigame_ to _mini: skill_",
+                            "(15.04, TREE ITERATION IV) Rename _busywork minigame_ to _mini: busywork_",
+                            "(15.04, TREE ITERATION IV) Rename _logic minigame_ to _mini: logic_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "#45"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T18:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#28"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:50:00Z"
+        }
+    ]
+}

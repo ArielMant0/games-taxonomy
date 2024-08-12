@@ -1,0 +1,99 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree metamechanics",
+        "created_at": "2024-04-14T13:30:00Z",
+        "updated_at": "2024-04-16T05:45:00Z",
+        "closed_at": "2024-04-16T05:45:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(13.04, TAG ITERATION A-Z) Add new tag _metamechanics_ to _root_",
+
+                            "(14.04, TAG ITERATION A-Z) Add new tags _secrets_, _randomness_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Appended _queues_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Appended _multiplayer_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Appended _spatial navigation_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Appended _personalization_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Append _minigames_ from _root_ to _metamechanics_",
+                            "(14.04, TAG ITERATION A-Z) Append _point and click_ from _root_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION I) Appended _tutorial_ from _communication_ to _metamechanics_",
+                            "(15.04, TREE ITERATION I) Add new tag _misc_ to _metamechanics_",
+                            "(15.04, TREE ITERATION I) Append _has contradictions_, _can find contradictions_ from _contradiction_ to _misc_",
+                            "(15.04, TREE ITERATION I) Append _teamcreation skilltree skillitem etc_ from _resource management_ to _misc_",
+                            "(15.04, TREE ITERATION I) Add new tag _quicktime events_ to _misc_",
+                            "(15.04, TREE ITERATION I) Add new tag _character editor_ to _misc_",
+                            "(15.04, TREE ITERATION I) Appended _motor skills_ from _problem solving techniques_ to _metamechanics_",
+                            "(15.04, TREE ITERATION I) Append _pew pew_ from _root_ to _misc_",
+                            "(15.04, TREE ITERATION I) Append _point and click_ from _metamechanics_ to _misc_",
+
+                            "(15.04, TREE ITERATION II) Rename _teamcreation skilltree skillitem etc_ to _skilltree_",
+                            "(15.04, TREE ITERATION II) Move _tutorial_, _secrets_, _randomness_ from _metamechanics_ to _misc_",
+
+                            "(15.04, TREE ITERATION III) Add new tag _high replayvalue_ to _misc_",
+
+                            "(15.04, TREE ITERATION IV) Rename _randomness_ to _random components_",
+
+                            "(12.05, Phase 4) To Append _iso perspective_ from _camera type_ to _misc_",
+                            "(12.05, Phase 4) Append _possibilities_ from _problem types_ to _metamechanics_",
+                            "(12.05, Phase 4) Append _solution space_ from _problem types_ to _metamechanics_",
+                            "(12.05, Phase 4) Append _topics_ from _problem types_ to _metamechanics_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Issue was closed without follow up issue."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:55:00Z"
+        }
+    ]
+}

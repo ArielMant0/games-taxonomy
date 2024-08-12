@@ -1,0 +1,70 @@
+{
+    "issue": {
+        "title": "❔ Miscellaneous",
+        "created_at": "2024-08-10T17:00:00Z",
+        "updated_at": "2024-08-10T17:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "This is a collection issue for all types of tasks. Here we will collect tagging ideas that are not yet relevant enough to varant a whole issue."
+                    }
+                ]
+            },
+            {
+                "title": "Potential New Tags and Issues",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "body": [
+                            "Aussichtspunkte (might be part of motivations) (@rwarnking)",
+                            "level editor (@rwarnking)",
+                            "mod support (@rwarnking)",
+                            "bonuslevel (plants vs zombies, super meat boy) (Origin: #45) (@rwarnking)",
+                            "sandbox (GTA) (Origin: #45) (@rwarnking)",
+                            "arcade (Origin: #45) (@ArielMant0)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open tasks",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "body": [
+                            "Rework point and click (input functionality)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Problems",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "body": [
+                            "can not tag Scribblenauts mechanic (ArielMant0) (problematic games)",
+                            "gamename Event[0] (@rwarnking) (technical problem)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "body": [
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 6
+    },
+    "comments": [
+    ]
+}

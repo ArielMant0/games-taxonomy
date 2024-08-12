@@ -1,0 +1,301 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree replayability and cyclic structure",
+        "created_at": "2024-06-01T18:00:00Z",
+        "updated_at": "2024-08-04T14:25:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Spawned by:",
+                        "body": [
+                            "#54"
+                        ]
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Related issues:",
+                        "body": [
+                            "#50",
+                            "#53"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We discussed the structure tags that each of us gave the games of the list. This led to a heterogeneous distribution of tags across the three participants. Due to time constraints we choose to only talk about the cyclic tag. We found that it is difficult to pinpoint which games should be tagged as such. In general we discussed a lot of games that have similar components or features that could be classified as cyclic but vary largely."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Games that were part of the discussion were:",
+                        "body": [
+                            "[Tetris® Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/)",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/)",
+                            "[Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/)",
+                            "[Hades](https://store.steampowered.com/app/1145360/Hades/)",
+                            "[World of Warcraft](https://worldofwarcraft.blizzard.com/de-de/)",
+                            "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/)",
+                            "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)",
+                            "[FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/) (Rogue Likes)",
+                            "[Banished](https://store.steampowered.com/app/242920/Banished/)",
+                            "[Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/)",
+                            "[Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/)",
+                            "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/)",
+                            "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/)",
+                            "[Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)",
+                            "[Portal](https://store.steampowered.com/app/400/Portal/)"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "Each of these games has gameplay features that can be classified as cyclic but each of them has a highly varying impact on the gameplay. The main focus of this tag were games like FTL, that give the player an incentive to play the game again and again after a finished round. Finishing a round unlocks game elements that impact future runs. This content provides new challenges for the player for example in terms of difficulty. Generally similarities to new game+ modi can be found, but even if a second run allows to solve previously unsolvable puzzles the difficulty stays the same and the player is not forced to adjust his strategy. Similarly games like The Stanley Parable allow the player to adjust his playstyle based on information collected in previous runs or require the player to repeatedly play the story to gain access to the complete narrative. Finally it must be mentioned that curiosity is not sufficient to call a game cyclic since this is an internal player motivation. Furthermore games like Banished and Anno provide an opposite gameplay loop because these games are open ended."
+                    },
+                    {
+                        "type": "h3",
+                        "body": "Results"
+                    },
+                    {
+                        "type": "text",
+                        "body": "We propose a subtree that classifies the replayability of a game. Using a combination of different tags the user can express the replayability of a game and which feature the game provides to increase the replayability."
+                    },
+                    {
+                        "type": "table",
+                        "body": [
+                            ". | [Tetris® Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | [Dota 2](https://store.steampowered.com/app/570/Dota_2/ )| [Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/) | [Hades](https://store.steampowered.com/app/1145360/Hades/) | [World of Warcraft](https://worldofwarcraft.blizzard.com/de-de/) | [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/) | [Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/) | [Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/) | [Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | [SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | [Portal](https://store.steampowered.com/app/400/Portal/)",
+                            "-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --",
+                            "~~cyclic~~ | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry:",
+                            "new game+ |    |     |    |    |    | :heavy_multiplication_x: |    |    |    | :heavy_multiplication_x: |    |    |    |    ",
+                            "narrative branches |    |     |    |    |    |    | :heavy_multiplication_x: |    |    |    |    |    |    |    ",
+                            "gameplay branches | :question: | :question: | :question: | :question: | :question: | :question: | :heavy_multiplication_x: |    |    |    |    | :heavy_multiplication_x: |    |    ",
+                            "random | :heavy_multiplication_x: | :question: | :question: | :question: | :question: | :question: |    | :heavy_multiplication_x: | :heavy_multiplication_x: |    |    |    |    |    ",
+                            "~~new content~~ | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry:",
+                            "unlock content |    |     | :grey_question: |    |    | :grey_question: |    | :heavy_multiplication_x: |    | :heavy_multiplication_x: |    |    | :heavy_multiplication_x: |    ",
+                            "unlock narrative |    |     |    | :heavy_multiplication_x: |    |    | :heavy_multiplication_x: |    |    |    |    |    |    |    ",
+                            "meta progression |    | :question: |    |    |    |    | :x: | :question: |    |    |    | :question: | :question: |    ",
+                            "~~completionist~~ | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: | :no_entry: ",
+                            "match based | :heavy_multiplication_x: | :heavy_multiplication_x: |    |    |    |    |    |    | :heavy_multiplication_x:  |    |    |    |    |    ",
+                            "backtracking |    |    |    |    |    |    | :grey_question: |    |    |    | :grey_question: |    |    |    ",
+                            "open end |    |     | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    |    |    | :heavy_multiplication_x: |    |    |    |    |    "
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(05.06, Phase 4) Add new tag _replayability_ to _metamechanics_",
+                            "(05.06, Phase 4) Add new tags _narrative branches_, _gameplay branches_, _randomness_, _meta progression_, _unlock content_ to _replayability_",
+                            "(05.06, Phase 4) Add new tags _rnd: ability outcome_, _rnd: ability select_, _rnd: enemies_, _rnd: loot_, _rnd: world generation_ to _randomness_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:critical",
+            "started"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We continued talking about tags that are connected to cyclic gameplay. Using a table with the different tags and which games would be tagged with, we were able to discuss in detail and find problems in definition or assignment. The replayability tag should in general indicate why a player would be interested in playing a game a second time – Why would the player want that and what changes such that that might be interesting?"
+                        },
+                        {
+                            "type": "h3",
+                            "body": "Results"
+                        },
+                        {
+                            "type": "h4",
+                            "body": "Removed tags"
+                        },
+                        {
+                            "type": "explanation",
+                            "body": [
+                                [
+                                    "cyclic",
+                                    "We came to the conclusion that games which would be tagged with cyclic must be represented via a combination of other tags, since defining what exactly cyclic means and how one can differentiate it from other tags is difficult. Therefore tags like randomness should be used to indicate that there might be an incentive to repeatedly play the game."
+                                ],
+                                [
+                                    "completionist",
+                                    "This tag was removed since it is player specific and can be assigned to every game. A game does not provide a concrete mechanic such that the player will play it to its limit. This is something a player would decide on their own. Furthermore, defining when something is completionist behavior is difficult when it is not possible to clearly state what content requires completionist behavior to be played."
+                                ],
+                                [
+                                    "new content",
+                                    "This tag was removed, since it overlaps with unlock content and is therefore redundant."
+                                ]
+                            ]
+                        },
+                        {
+                            "type": "h4",
+                            "body": "Moved tags"
+                        },
+                        {
+                            "type": "explanation",
+                            "body": [
+                                [
+                                    "new game+",
+                                    "Similar to cyclic we decided for new game+ not to be part of the replayability tree and instead add it as a meta mechanic. This allows the user to indicate that the game itself calls it new game+ while the tag itself does not provide an explanation of what this really means in form of gameplay or game content."
+                                ],
+                                [
+                                    "backtracking",
+                                    "We defined backtracking but did not yet decide to which subtree it should finally belong – but we agreed that it is not related to replayability. https://www.giantbomb.com/backtracking/3015-239/"
+                                ],
+                                [
+                                    "open end",
+                                    "This tag is also not finally assigned a subtree but will most likely be part of the structure tree. A definition is still pending."
+                                ]
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                ". | [Tetris® Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | [Dota 2](https://store.steampowered.com/app/570/Dota_2/ )| [Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/) | [Hades](https://store.steampowered.com/app/1145360/Hades/) | [World of Warcraft](https://worldofwarcraft.blizzard.com/de-de/) | [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/) | [Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/) | [Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/) | [Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | [SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | [Portal](https://store.steampowered.com/app/400/Portal/)",
+                                "-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --",
+                                "new game+ |    |    |    |    |    | :heavy_multiplication_x: |    |    |    | :heavy_multiplication_x: |    |    |    |    ",
+                                "backtracking |    |     | :heavy_multiplication_x: | :grey_question: | :heavy_multiplication_x: | :grey_question: |    |    |   | :grey_question: | :heavy_multiplication_x: |    |    |    ",
+                                "open end |    |     | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :grey_question: |    |    |   | :heavy_multiplication_x: |   |    |    |    "
+                            ]
+                        },
+                        {
+                            "type": "h3",
+                            "body": "Randomness tag rework"
+                        },
+                        {
+                            "type": "text",
+                            "body": "The importance of this tag increased due to the introduction of the replayability tree since it can be a strong incentive to play a game again (because of variety) while in some games being only an unimportant feature for minor details. Given this we discussed multiple options to emphasize the importance of randomness in a game for example by adding a minor and major classifier."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Finally we settled for a new subtree that could contain tags like:",
+                            "body": [
+                                "random world generation",
+                                [
+                                    "random starting conditions??? (No Man's Sky)",
+                                    "random spawn (Minecraft)"
+                                ],
+                                "random (drops) loot",
+                                "random enemies / units / characters\n - random ability selection (mosalina)",
+                                [
+                                    "random card game drawing"
+                                ],
+                                "random ability outcomes"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Unfortunately this opened up a new problem since it is difficult to decide whether this subtree should be part of replayability since it might as well be a subtree for another tag. Further discussion revealed an overlap with procedural generation (non handmade content), this allowed us for the moment to add the randomness as a replayability subtree while representing specific randomness components in the meta mechanics. This was especially related to games like No Man's Sky, where a game component is generated randomly once at game start but not during the game itself. One idea was to only tag replayability randomness if game components change at the beginning of the game – this proposal was discarded until further discussion, since random components during the game are a vital part of replayability. Finally it was proposed to add a difficulty scaling tag to the meta progression tree."
+                        },
+                        {
+                            "type": "h3",
+                            "body": "Replayability Tags"
+                        },
+                        {
+                            "type": "table",
+                            "caption": "Further discussion about the replayability tree led to the following tags besides randomness",
+                            "body": [
+                                ". | [Tetris® Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | [Dota 2](https://store.steampowered.com/app/570/Dota_2/ )| [Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/) | [Hades](https://store.steampowered.com/app/1145360/Hades/) | [World of Warcraft](https://worldofwarcraft.blizzard.com/de-de/) | [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/) | [Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/) | [Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/) | [Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | [SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | [Portal](https://store.steampowered.com/app/400/Portal/)",
+                                "-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --",
+                                "narrative branches |    |     |    |    |    |    | :heavy_multiplication_x: |    |    |    |    |    |    |    ",
+                                "gameplay branches | :question: | :question: | :question: | :question: | :question: | :question: | :heavy_multiplication_x: |    |    |    |    | :heavy_multiplication_x: |    |    ",
+                                "unlock content |    |     |  :heavy_multiplication_x::grey_question: |    |    | :heavy_multiplication_x::grey_question: |    | :heavy_multiplication_x: |    | :heavy_multiplication_x: |    |    | :heavy_multiplication_x: |     ",
+                                "unlock narrative |    |     |    | :heavy_multiplication_x: |    |    | :heavy_multiplication_x: |    |    |    |    |    |    |       ",
+                                "meta progression |    | :x::question: |    |    |    |    | :x: | :x::question: |    |    |    | :x::question: | :x::question: |      ",
+                                "match based | :heavy_multiplication_x: | :heavy_multiplication_x: |    |    |    |    |    |    | :heavy_multiplication_x: |    |    |    |    |    "
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "On top of these we discussed in detail the differences between new game+ modi and other games like FTL in which the player plays a similar portion of the game over and over again (cyclic). Here it is apparent that randomness plays an important role in the player replaying the game. But we also found that the duration of a playthrough highly influences the impact of randomness and therefore of the replayability. This can have various characteristics, for example a game that was only played 5 hours might still contain content that the player did not see and that is new, original and exciting – while a longer game might use all its resources in one playthrough even if further playthroughs change specific values like health points or similar. (Borderlands). This all can be seen as part of the level of suspense or fun which might decrease over time and might impact the players readiness to start a second round. In conclusion we opted to add two tags, one for games with a short cycle (<5h) and one for games with a long cycle (>5h). Still unclear are games that also have an open ended cycle."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "Tag | Definition",
+                                "-- | --",
+                                "new game+ | MOVED TO META MECHANICS",
+                                "narrative branches |  ",
+                                "gameplay branches |  ",
+                                "randomness | ADD SUBTREE",
+                                "unlock content/gameplay | Gameplay elements that are incrementally added to the game between subsequent playthroughs, such as Items/Abilities/Enemies/Areas/Maps/Cosmetics etc.Explicitly not for difficulty scaling, random elements that are not specific to the current playthrough",
+                                "unlock narrative | pls merge into content or rename content to gameplay (elements) :)",
+                                "meta progression |  ",
+                                "completionist |  ",
+                                "match based |  ",
+                                "backtracking | Backtracking is the act of navigating through previously explored areas, usually for the purpose of progressing in an objective-based adventure game.",
+                                "open end |  "
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-06-12T01:00:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "h3",
+                            "body": "04.08 Discussion"
+                        },
+                        {
+                            "type": "text",
+                            "body": "We again discussed how we could incorporate a tag to show a cyclic gameplay structure. This was mainly caused by the last discussiong of the motivation issue (#53). The basic fear was that even though we wanted to portray the cyclic structure using other tags like randomness this might be difficult to understand. Therefore we discussed adding an additional cyclic tag as a metatag. This would be used as a basis for the next tagging round allowing us to test, how well the replayability tags overlap with the metatag and if it is still needed."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "The next steps would be:",
+                            "body": [
+                                "Introduce replayability tags",
+                                "Introduce cyclic tag",
+                                "Start Phase 5 and tag all games again",
+                                "Evaluate overlap of replayability tags and cyclic tag",
+                                "Remove or refine tags"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "To determine which games might have a cyclic structure, we defined the _cyclic_ tag as follows: **The game experience is predominently shaped by completing multiple runs of the game."
+                        },
+                        {
+                            "type": "text",
+                            "body": "After this we discussed the tag and its definition using a few example games:"
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "Game | Cyclic? | Explanation",
+                                "-- | -- | --",
+                                "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) | :heavy_check_mark: | Since it is necessary to complete mulitple matches to see most content and learn all mechanics.",
+                                "[Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/) | :question: | Difficult since the game is designed to be played multiple times, but only such that the loot improves. The endgame is openended and allows for repetition, especially for some level that are good for farming. Furthermore the player might need to unlock different difficulties to increase droprates or the loot quality.",
+                                "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | :x: | It has a new game+ but this has not the same design features and could also be tagged seperatly.",
+                                "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | :x: | Repeating a level or subsections of it, is not cyclic game structure but rather trail and error.",
+                                "[Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | :x: | Repeating a level or subsections of it, is not cyclic game structure but rather trail and error. "
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-08-04T14:24:00Z"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tags location display, guidance, markers, mapdrawing",
+        "created_at": "2024-04-06T21:30:00Z",
+        "updated_at": "2024-04-16T05:00:00Z",
+        "closed_at": "2024-04-16T05:00:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Define and discuss the basics of this tag."
+                    }
+                ]
+            },
+            {
+                "title": "Discussion",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "map",
+                            "map predefined symbols",
+                            "map placeable symbols",
+                            "map drawing",
+                            "map trail/paths",
+                            "map quicktravel",
+                            "objectbased quicktravel",
+                            "minimap",
+                            "arrow indicator/compass",
+                            "ingame pfade/trail",
+                            "marker ping",
+                            "location command",
+                            "fog of war",
+                            "location display",
+                            "location display == predefined location marker"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(01.04) Init tags _location display_, _location guidance_, _map drawing_, _location markers_, to _root_",
+
+                            "(14.04, TAG ITERATION A-Z) Init tag _spatial navigation_ to _root_",
+                            "(14.04, TAG ITERATION A-Z) Add new tag _map_ to _spatial navigation_",
+                            "(14.04, TAG ITERATION A-Z) Rename _location guidance_ to _direction display_",
+                            "(14.04, TAG ITERATION A-Z) Move _direction display_ from _root_ to _spatial navigation_",
+                            "(14.04, TAG ITERATION A-Z) Rename _location markers_ to _placeable symbols_",
+                            "(14.04, TAG ITERATION A-Z) Rename _location display_ to _predefined symbols_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _quicktravel_, _minimap_, _trailpath_ to _map_",
+                            "(14.04, TAG ITERATION A-Z) Move _placeable symbols_, _predefined symbols_, _map drawing_ from _root_ to _map_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _objectquicktravel_, _cameraperspective_ to _spatial navigation_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _arrow indicator_, _compass_, _ingame pathtrail_, _markerpingundso_ to _direction display_",
+                            "(14.04, TAG ITERATION A-Z) Add new tags _freedetached camera_, _third person_, _first person_, _iso perspective_ to _cameraperspective_",
+                            "(14.04, TAG ITERATION A-Z) Append _spatial navigation_ from _root_ to _metamechanics_",
+
+                            "(15.04, TREE ITERATION II) Rename _cameraperspective_ to _camera perspective_",
+
+                            "(15.04, TREE ITERATION IV) Move _markerpingundso_ from _direction display_ to _spatial navigation_"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Example Games",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "[The Banner Saga](https://store.steampowered.com/app/237990/The_Banner_Saga/)",
+                            "[Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/) (map quicktravel)",
+                            "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/)",
+                            "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) (map quicktravel)",
+                            "[DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/) (objectbased quicktravel)",
+                            "[Sacred Gold](https://store.steampowered.com/app/12320/Sacred_Gold/) (objectbased quicktravel)",
+                            "[Batman: Arkham Asylum Game of the Year Edition](https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/) (arrow indicator/compass)",
+                            "[Remember Me](https://store.steampowered.com/app/228300/Remember_Me/) (arrow indicator/compass)",
+                            "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) (arrow indicator/compass)",
+                            "[Dead Space](https://store.steampowered.com/app/1693980/Dead_Space/) (ingame pfade/trail)",
+                            "[The First Tree](https://store.steampowered.com/app/555150/The_First_Tree/) (ingame pfade/trail)",
+                            "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) (marker ping)",
+                            "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) (location command )"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [],
+        "milestone": 2
+    },
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.04 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": ""
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-15T17:10:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                                "#37"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-04-16T05:00:00Z"
+        }
+    ]
+}

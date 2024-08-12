@@ -1,0 +1,54 @@
+{
+    "issue": {
+        "title": "🌳 Discuss subtree communication",
+        "created_at": "2024-04-16T04:30:00Z",
+        "updated_at": "2024-04-16T04:30:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "07.04, Tag Iteration A-Z:",
+                        "body": [
+                            "how does communication in [Portal 2](https://store.steampowered.com/app/620/Portal_2/) work",
+                            "how does communication in [Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) work",
+                            "search for VR games with gestures",
+                            "[Journey](https://store.steampowered.com/app/638230/Journey/) motivation behind actions",
+                            "Think about limits of communication and problems like toxic behaviour?"
+                        ]
+                    },
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "move to metamechanic"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:high"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

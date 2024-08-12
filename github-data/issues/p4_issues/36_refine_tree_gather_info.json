@@ -1,0 +1,52 @@
+{
+    "issue": {
+        "title": "💎 Refine subtree gather information",
+        "created_at": "2024-04-16T05:05:00Z",
+        "updated_at": "2024-04-16T05:05:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "Exploration & Scouting are very similar (@HendrikBrueckler)",
+                            "monitor resources, strategy or building games where I constantly need to monitor my resources (@Arielmant0)",
+                            "How do i collect information (text search, scouting, ...)",
+                            "remember self, explizit/implizit, Move to organize information?",
+                            "find + uncover vs uncover information",
+                            "Move predefined notes to metamechanic?",
+                            "Rename to data collection",
+                            "Parenting organize information and data collection",
+                            "guided und free open independent",
+                            "Merge ginfo: dialog und ginfo: predefined notes oder exploration"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:low",
+            "priority:low"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}

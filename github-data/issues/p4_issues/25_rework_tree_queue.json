@@ -1,0 +1,60 @@
+{
+    "issue": {
+        "title": "🛠️ Rework subtree queue",
+        "created_at": "2024-04-16T04:10:00Z",
+        "updated_at": "2024-04-16T04:10:00Z",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Open questions",
+                "body": [
+                    {
+                        "type": "boxes",
+                        "caption": "07.04, Tag Iteration A-Z:",
+                        "body": [
+                            "Investigate the queue in [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) in particular.",
+                            "Investigate the relationship between queues and the game interface."
+                        ]
+                    },
+                    {
+                        "type": "boxes",
+                        "caption": "15.04, Tree Iteration IV:",
+                        "body": [
+                            "almost every game is a _queue game_, what is the purpose of it and how can we still mark such game features",
+                            [
+                                "Games in question are:",
+                                [
+                                    "Dorfromantik",
+                                    "Card games"
+                                ],
+                                "New Tag?: Turn based"
+                            ],
+                            "merge _actionqueue_ into _queueplayer_, rename _queue: game_, rename _queues_ to _action queues_"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:critical"
+        ],
+        "milestone": 4
+    },
+    "comments": [
+    ]
+}
