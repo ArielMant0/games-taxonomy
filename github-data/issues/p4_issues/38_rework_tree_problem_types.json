@@ -57,7 +57,7 @@
                     },
                     {
                         "type": "table",
-                        "caption": "Games that each of us played:",
+                        "caption": "In the following table each participant assigned problem types to the listed games. To allow for easy comparission only games that were played by each participant were listed. Note: The list contains the result after an iteration as a group in which participants were allowed to justify and adjust their initial selection.",
                         "legend": [
                             ":heavy_check_mark: Mostly identical",
                             ":warning: Similar tags but varying order",

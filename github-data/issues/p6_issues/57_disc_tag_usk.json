@@ -24,7 +24,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Not yet discussed!"
+                        "body": "In the previous issue we discussed the addition of usk related tags. Consequently we shorty talked about the main attributes that USK and PEGI use for their ratings. We concluded that the taxomony already contains similar features (#43, #46) which should be finished before additional tags are added, while the ratings would either be ignored or crawled by the tool."
                     }
                 ]
             },
