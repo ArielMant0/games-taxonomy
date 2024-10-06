@@ -189,11 +189,11 @@
                             "body": [
                                 "random world generation",
                                 [
-                                    "random starting conditions??? (No Man's Sky)",
-                                    "random spawn (Minecraft)"
+                                    "random starting conditions??? ([No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/))",
+                                    "random spawn ([Minecraft](https://www.minecraft.net/en-us))"
                                 ],
                                 "random (drops) loot",
-                                "random enemies / units / characters\n - random ability selection (mosalina)",
+                                "random enemies / units / characters\n - random ability selection ([Mosa Lina](https://store.steampowered.com/app/2477090/Mosa_Lina/))",
                                 [
                                     "random card game drawing"
                                 ],
@@ -202,7 +202,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "Unfortunately this opened up a new problem since it is difficult to decide whether this subtree should be part of replayability since it might as well be a subtree for another tag. Further discussion revealed an overlap with procedural generation (non handmade content), this allowed us for the moment to add the randomness as a replayability subtree while representing specific randomness components in the meta mechanics. This was especially related to games like No Man's Sky, where a game component is generated randomly once at game start but not during the game itself. One idea was to only tag replayability randomness if game components change at the beginning of the game – this proposal was discarded until further discussion, since random components during the game are a vital part of replayability. Finally it was proposed to add a difficulty scaling tag to the meta progression tree."
+                            "body": "Unfortunately this opened up a new problem since it is difficult to decide whether this subtree should be part of replayability since it might as well be a subtree for another tag. Further discussion revealed an overlap with procedural generation (non handmade content), this allowed us for the moment to add the randomness as a replayability subtree while representing specific randomness components in the meta mechanics. This was especially related to games like [No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/), where a game component is generated randomly once at game start but not during the game itself. One idea was to only tag replayability randomness if game components change at the beginning of the game – this proposal was discarded until further discussion, since random components during the game are a vital part of replayability. Finally it was proposed to add a difficulty scaling tag to the meta progression tree."
                         },
                         {
                             "type": "h3",
