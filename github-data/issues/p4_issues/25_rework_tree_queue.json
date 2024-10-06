@@ -56,5 +56,123 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "12.08 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "According to issue #25 we discussed the queue subtree."
+                        },
+                        {
+                            "type": "itemize",
+                            "h3": "Queue game",
+                            "caption": "We began by discussing the two most basic scenarios:",
+                            "body": [
+                                "A. The game gives the player a queue that needs to be processed by the player.",
+                                "B. The player defines a queue in the game that need to be processed for example by NPCs."
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Scenario A was supposed to be indicated by the _queue game_ tag. Unfortunately we found, that deciding when a game falls into this category was difficult, since ultimately every game gives the player a list or queue of tasks that needs to be processed. Ultimately making every game a _queue game_, which would be a useless information to tag. Originally originating from games like [Dorfromantik](https://store.steampowered.com/app/1455840/Dorfromantik/) that for example display a representation of a queue in form of a card stack this tag was found to be badly named and misplaced."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Instead we concluded that it might be more promising to add a tag _turnbased_ as part of the mechanics subtree and or a tag _card game_. The first tag would generally allow to indicate the pacing of a game, while the second one focusses on games that specifically choose to represent a feature in a certain way for example in form of a card stack similar to a skin([Hand of Fate](https://store.steampowered.com/app/266510/Hand_of_Fate/), [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)). Here it might be interesting to note, that unlike in real life the medium does not have any restrictions that would require the game to present a random queue in form of a card stack and is done purely for aesthetic reasons."
+                        },
+                        {
+                            "type": "text",
+                            "h3": "Player queues subtree",
+                            "body": "Further discussion of the _player queue_ subtree revealed that the depiction of queues in general might be overfitted since it originally seemed to be highly relevant for the externalization question. Based on this we decided to simplify the tree such that is less difficult to choose the tags."
+                        },
+                        {
+                            "type": "text",
+                            "h4": "Direct & indirect, parallel & sequential queues",
+                            "body": "We began by discussing the _direct_ and _indirect_ tag. These are supposed to represent games in which the player can either directly assign tasks to an individual unit ([The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/)) or where the game lists the tasks inside of a queue but assigns the tasks on its own to the NPCs ([Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)). Even though we agreed that there is a difference it was unclear why this features needs to be represented by its own tag. It could be argued that this would clearly differentiate games that use this special approach, but it would still only apply to a few games and might therefore be to detailed."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Following this we found further examples that made the classification more difficult: In [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/) the game directly adds the commands to a queue, but there are also games like Warcraft or [Banished](https://store.steampowered.com/app/242920/Banished/) that allow the player to give a selected group a task like harvest trees - these tasks are also managed by the game and most likely implemented using a queue. This on the one hand introduces more nuances (like _queue: continuous_) but at the other hand makes it more difficult to access whether it should be tagged as a queue at all since the game might not provide a visual representation of the queue."
+                        },
+                        {
+                            "type": "text",
+                            "body": "This discussion coincides with the _parallel_ and the _sequential_ tag, since they often appear in combination. Here the important differentiation is, that a _parallel_ queue is processed by multiple units while in a _sequential_ queue only one item is processed at a time."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Based on our discussion we decided to remove all these tags in general. Even though the proposition was made to rename the _direct_ and _indirect_ tag to _queue: individual_ & _queue distributed_ it appeared to be easier to remove these tags altogether after a short review of which games where already tagged with these tags."
+                        },
+                        {
+                            "type": "text",
+                            "h4": "Input buffer",
+                            "body": "This tag was inspired that provide a very short input queue that main purpose is to allow the player to queue actions in a time critical fighting scenario ([DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)). When discussing the specifics of this tag multiple problems where apparent: Firstly this type is queue is usually not visually represented, leading to the player not even knowing that a queue is used. This would also make detection difficult, since this must be recognized to be in a game to be tagged. Secondly in contrast to a lot of other tags this is a highly implementation specific feature, where it might be difficult to grasp how the queue works or how many elements can be queued."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Even though it can generally be interesting to represent implementation specific features, such that an analyst might get new information of a game, we agreed that this would be out of scope for this subtree and at most a discussion for the future. Therefore leaving this tag to be to specific for the current subtree and leading to its removal from the tree."
+                        },
+                        {
+                            "type": "text",
+                            "h4": "Realtime",
+                            "body": "Finally the last tag of this subtree was the _realtime_ tag. It was added for games like [Dota 2](https://store.steampowered.com/app/570/Dota_2/) and opposing to games that pause the game or dilate time to allow the player to queue actions ([Fallout 3](https://store.steampowered.com/app/22300/Fallout_3/), [Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/), [Transistor](https://store.steampowered.com/app/237930/Transistor/)). Similar to the other tags this was agreed upon to be removed. For this tag the argument was mainly that this feature is only relevant as a game mechanic and for the pacing of a game, not for the queue itself."
+                        },
+                        {
+                            "type": "text",
+                            "h4": "Conclusion",
+                            "body": "We agreed to focus on cleaning up this tree. For this we decided to remove all tags of the queue subtree, such that the tag only indicated whether a game contains a queue or not. We also defined the tag to be only applicable when a game visually represents some player inputs as a queue. Invisible queues will not be tagged via this tag. Regarding the special cases a follow up discussion might arise naturally in one of the next phases, but for the moment we agreed that it is not necessary to differentiate between them."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Proposed actions:",
+                            "body": [
+                                "Delete _queue game_",
+                                "Delete _action queue_",
+                                "Delete _direct_, _indirect_",
+                                "Delete _parallel_, _sequential_",
+                                "Delete _input buffer_",
+                                "Add _card game_ to _unknown tree_",
+                                "Add _turnbased_ to _unknown tree_",
+                                "Revisit pause screen or dilate time as a game mechanic",
+                                "Revisit special cases later on"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "h3": "Game table",
+                            "body": [
+                                "game | queue | visually | indirect | direct | parallel | sequential | turn based",
+                                "-----|-----|-----|-----|-----|-----|-----|-----",
+                                "Transistor | :heavy_multiplication_x: | | | :heavy_multiplication_x: | | | | |",
+                                "Sims | :heavy_multiplication_x: | :heavy_multiplication_x: | | :heavy_multiplication_x: | | :heavy_multiplication_x: |",
+                                "Banner saga | :heavy_multiplication_x: | :heavy_multiplication_x: | | | | | :heavy_multiplication_x:",
+                                "project highrise | :heavy_multiplication_x: | | :heavy_multiplication_x: | | |:heavy_multiplication_x: | |",
+                                "banished | :heavy_multiplication_x: | | :heavy_multiplication_x: | | |:heavy_multiplication_x: | |",
+                                "starcraft | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "h3": "Supplement",
+                            "body": "Following our original discussion we again discussed games that manage the tasks that the players inputs. Especially games like Banished or Starcraft allow the player to assign tasks like harvesting resources, where the tasks itself are managed by the game and assigned to the individual units by the game. Here the important distinction must be made that these queues are usually not visible to the player. Furthermore this is a highly specific and technical aspect of the game functions."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "The currently most important factors for a queue getting tagged as a queue are:",
+                            "body": [
+                                "A. visual representation of the queue",
+                                "B. the player chooses the content of the queue"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Other features would need to be represented via a technical aspect subtree, which most likely should not be added at all, since this would be highly speculative anyway. (Example: Internally this game uses queues.)"
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-08-12T23:59:59Z"
+        }
     ]
 }

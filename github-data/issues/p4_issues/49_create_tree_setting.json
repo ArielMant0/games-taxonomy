@@ -2,7 +2,7 @@
     "issue": {
         "title": "🌱 Create subtree setting",
         "created_at": "2024-05-12T21:00:00Z",
-        "updated_at": "2024-05-12T21:00:00Z",
+        "updated_at": "2024-08-12T23:59:59Z",
         "content": [
             {
                 "body": [
@@ -25,7 +25,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Based on the results of isses 43 we added some dummy settings to the tree using [this resource](https://upload.wikimedia.org/wikipedia/commons/d/d7/Timeline_of_World_History.png)."
+                        "body": "Based on the results of issue 43 we added some dummy settings to the tree using [this resource](https://upload.wikimedia.org/wikipedia/commons/d/d7/Timeline_of_World_History.png)."
                     }
                 ]
             },
@@ -51,5 +51,114 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "12.08 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We began our disussion based on the three previously aggreed on subcategories _Topics_, _Settings_ and _Themes_. Since we did not yet discuss a clear definition for these terms we tried to approach the terms by talking about different games and what could fit into these categories."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Generally speaking we decided that the settings tags should give an impression of the game content in regards to the atmosphere or environment. This could for example indicate which items or persons can be found in the game, how the environment looks like, or maybe what topics or themes might be present in the game. Unfortunately this will make it difficult to walk the line between not representing all hypothetically possible settings and not choose terms that are too abstract to give an impression of the game. Futhermore the concrete meaning of each category was still illusive even though we used examples to see how they could fit into the categories. Since we were not able to find a clear differentiation between the terms we chose to iterate a list of games and just collect terms that would descibe the game. These terms should than be used to create a mindmap where we can sort them into categories."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "Game | tags",
+                                "-------|-----",
+                                "Fighter games | armed conflict?, tournament, competition, gore, duel (to the death)",
+                                "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) | war, armed conflict, competition, fantasy, nature",
+                                "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | war, fantasy, medieval, colonialization, independence, seizing power, political conflict, nature, urban, the chosen one?, racism?, ~~adventuring~~, ~~dragon~~",
+                                "[Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) | science fiction, future, space, space travel, interpersonal relationships, political conflict, non human lifeforms, ai sentience, synthetic life, race?, racism?, race conflicts?, interspecies conflict?, sexism?, mind-control?, brainwashing?, (extinction), (war)",
+                                "Minecraft | survival, fantasy?, ~~ecosystems~~, nature, monsters?, creatures?, horror?, ~~mining~~, ~~fishing~~, ~~hard labor~~, ~~civilization~~",
+                                "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | aliens, post apocalypse?, space, futuristic?, gore, treasure hunting, ~~space cowboys~~, humor, magic, violence",
+                                "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) | space, space ship, hard labor, horror, murder mystery, competition",
+                                "[Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | zombies apocalypse, gore, grossness, survival, America, modern times",
+                                "[The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/) | Family, ~~simulation~~, god?",
+                                "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | nature, nothing, abstract?",
+                                "Tetris | nothing, abstract?",
+                                "[Frostpunkt](https://store.steampowered.com/app/323190/Frostpunk/) | survival, nature, alternate reality"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Based on these results we closed the discussion to continue it the next time via the mindmap. The last addition was, that it might be useful to tag the mood or atmosphere of a game in terms of seriousness and humor. This might include: light hearted, dark, humoristic, slapstick. Due to the complexity of this topic we postponed further discussion to a future phase, since it would similar to settings require careful tag selection due to the interpretation space."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-08-12T22:59:59Z"
+        },
+        {
+            "content": [
+                {
+                    "title": "18.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "caption": "",
+                            "body": "Since we were not able to assign or differentiate between topics and themes even though we had the terms visually represented. We focused on differentiating settings from topics and themes. In the hopes that we would lose nothing of value when merging topics and themes."
+                        },
+                        {
+                            "type": "text",
+                            "caption": "",
+                            "body": "We began by assigning all terms to the four categories settings, topics, themes and motifs. Afterwards we were able to create three subcategories of the settings: time, location and genre. While genre is still unclear whether the term is the best to represent it."
+                        },
+                        {
+                            "type": "text",
+                            "caption": "",
+                            "body": "Generally we defined that if a term can be a setting it is a setting otherwise it is a topic. you can say that every setting is a topic, but not every topic is a setting therefore everything that is not a setting will be a topic"
+                        },
+                        {
+                            "type": "itemize",
+                            "body": [
+                                "choose one from each category - one from time, location and genre",
+                                "no nothing tag, the absence of tags is enough",
+                                "we aid us in the processes we searched for definitions of each term in the internet.",
+                                "- motifs in literary texts are essentially repeated patterns of language, sounds, images, symbols and or concepts",
+                                "- a literary theme is the main idea or underlying meaning a writer explores in a novel, short story or other literary work",
+                                "we devided topics/themes postits into subcategories",
+                                "beginning with conflict"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "caption": "Final result",
+                            "body": [
+                                ". | time | location | genre?",
+                                "--|------|----------|--------",
+                                "settings | medival, future, futuristic, modern times | nature, urban, space, space ship, America | post apocalypse, zombie apocalypse, science fiction, fantasy, space western, horror, crime, adventure, ~~simulation realism~~"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                ". | supernatural phenomena | metaphysics | conflict | ethics, culture & society | forms of life",
+                                "--|------------------------|-------------|----------|---------------------------|---------------",
+                                "topics/themes | time travel, magic | ? | violence, armed conflict, political conflict, race conflicts, interspecies conflict, war, seizing power | racism?, AI sentience, religion, brainwashing, colonialization, sexism?, race?, civilization, family, interpersonal relationships, mindcontrol?, independence | non human lifeforms, god(s)?, dragon, monsters?, creatures?, ecosystems, synthetic life, aliens, (extinction)"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "caption": "Remaining",
+                            "body": [
+                                ". | tags",
+                                "--|--",
+                                "this is what characters do | competition, survival, treasure hunting, space travel, fishing, hard labor, mining emotions | grossness, happyness, fear, grief, sadness stilmittel | gore, humor, jump scares motifs | the chosen one plot-narrative | herostory"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "caption": "",
+                            "body": "There were still problems when assigning tags to the genre category. Especially when talking about _survival_ (this is what characters do) and _simulation realism_."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-18T23:59:59Z"
+        }
     ]
 }
