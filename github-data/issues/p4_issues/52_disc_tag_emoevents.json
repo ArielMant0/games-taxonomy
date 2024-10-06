@@ -21,11 +21,22 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "01.06 Discussion",
                 "body": [
                     {
-                        "type": "text",
-                        "body": "How to deal with different components (01.06) plot twists (Bioshock) humoristic events -> aufdröseln, da humor auch emotional suspenseful, sims (entspannend) loss, sadness, grief Krieg, death, aging, ..."
+                        "type": "itemize",
+                        "caption": "How to deal with the different components:",
+                        "body": [
+                            "plot twists ([BioShock™](https://store.steampowered.com/app/7670/BioShock/))",
+                            "humoristic events ",
+                            "relaxing content ([The Sims™ 3](https://store.steampowered.com/app/47890/The_Sims_3/))",
+                            "loss",
+                            "sadness",
+                            "grief",
+                            "war",
+                            "death",
+                            "ageing"
+                        ]
                     }
                 ]
             }

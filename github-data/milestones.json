@@ -22,19 +22,19 @@
             "title": "Phase 4",
             "state": "open",
             "description": "Discuss tree and rework and refine on demand",
-            "due_on": "2024-08-31T23:59:59Z"
+            "due_on": "2024-10-14T23:59:59Z"
         },
         {
             "title": "Phase 5",
             "state": "open",
             "description": "Tagging phase",
-            "due_on": "2024-09-30T23:59:59Z"
+            "due_on": "2024-10-21T23:59:59Z"
         },
         {
             "title": "Phase 6",
             "state": "open",
             "description": "Tagging phase",
-            "due_on": "2024-10-31T23:59:59Z"
+            "due_on": "2024-11-05T23:59:59Z"
         }
     ]
 }
