@@ -113,32 +113,57 @@
                             "body": "Generally we defined that if a term can be a setting it is a setting otherwise it is a topic. you can say that every setting is a topic, but not every topic is a setting therefore everything that is not a setting will be a topic"
                         },
                         {
+                            "type": "text",
+                            "caption": "",
+                            "body": "In the final tree the goal would be, that the user chooses one from each category (time, location and genre) resulting in a combination that would portray the setting. In contrast to that the absence of any tag would clearly indicate special cases."
+                        },
+                        {
+                            "type": "text",
+                            "caption": "",
+                            "body": "Finally we used definitions of the terms motif and theme to aid us in distinction of the terms and divided the topics/themes category into multiple subcategories. Especially this step made it more easy to group tags into the categories."
+                        },
+                        {
                             "type": "itemize",
                             "body": [
-                                "choose one from each category - one from time, location and genre",
-                                "no nothing tag, the absence of tags is enough",
-                                "we aid us in the processes we searched for definitions of each term in the internet.",
-                                "- motifs in literary texts are essentially repeated patterns of language, sounds, images, symbols and or concepts",
-                                "- a literary theme is the main idea or underlying meaning a writer explores in a novel, short story or other literary work",
-                                "we devided topics/themes postits into subcategories",
-                                "beginning with conflict"
+                                "motifs in literary texts are essentially repeated patterns of language, sounds, images, symbols and or concepts",
+                                "a literary theme is the main idea or underlying meaning a writer explores in a novel, short story or other literary work"
                             ]
                         },
                         {
                             "type": "table",
-                            "caption": "Final result",
+                            "h3": "Final result",
+                            "caption": "Settings",
                             "body": [
-                                ". | time | location | genre?",
-                                "--|------|----------|--------",
-                                "settings | medival, future, futuristic, modern times | nature, urban, space, space ship, America | post apocalypse, zombie apocalypse, science fiction, fantasy, space western, horror, crime, adventure, ~~simulation realism~~"
+                                "time        | location   | genre?",
+                                "-------------|------------|--------",
+                                "medival      | nature     | post apocalypse",
+                                "future       | urban      | zombie apocalypse",
+                                "futuristic   | space      | science fiction",
+                                "modern times | space ship | fantasy",
+                                "&nbsp;       | America    | space western",
+                                "&nbsp;       | &nbsp;     | horror",
+                                "&nbsp;       | &nbsp;     | crime",
+                                "&nbsp;       | &nbsp;     | adventure",
+                                "&nbsp;       | &nbsp;     | ~~simulation realism~~"
                             ]
                         },
                         {
                             "type": "table",
                             "body": [
-                                ". | supernatural phenomena | metaphysics | conflict | ethics, culture & society | forms of life",
-                                "--|------------------------|-------------|----------|---------------------------|---------------",
-                                "topics/themes | time travel, magic | ? | violence, armed conflict, political conflict, race conflicts, interspecies conflict, war, seizing power | racism?, AI sentience, religion, brainwashing, colonialization, sexism?, race?, civilization, family, interpersonal relationships, mindcontrol?, independence | non human lifeforms, god(s)?, dragon, monsters?, creatures?, ecosystems, synthetic life, aliens, (extinction)"
+                                "ethics, culture & society   | forms of life       | conflict              | supernatural phenomena | metaphysics",
+                                "----------------------------|---------------------|-----------------------|------------------------|-------------",
+                                "racism?                     | non human lifeforms | violence              | time travel            | ?",
+                                "AI sentience                | god(s)?             | armed conflict        | magic                  |",
+                                "religion                    | dragon              | political conflict    | &nbsp;                 |",
+                                "brainwashing                | monsters?           | race conflicts        | &nbsp;                 |",
+                                "colonialization             | creatures?          | interspecies conflict | &nbsp;                 |",
+                                "sexism?                     | ecosystems          | war                   | &nbsp;                 |",
+                                "race?                       | synthetic life      | seizing power         | &nbsp;                 |",
+                                "civilization                | aliens              | &nbsp;                | &nbsp;                 |",
+                                "family                      | (extinction)        | &nbsp;                | &nbsp;                 |",
+                                "interpersonal relationships | &nbsp;              | &nbsp;                | &nbsp;                 |",
+                                "mindcontrol?                | &nbsp;              | &nbsp;                | &nbsp;                 |",
+                                "independence                | &nbsp;              | &nbsp;                | &nbsp;                 |"
                             ]
                         },
                         {
@@ -147,7 +172,11 @@
                             "body": [
                                 ". | tags",
                                 "--|--",
-                                "this is what characters do | competition, survival, treasure hunting, space travel, fishing, hard labor, mining emotions | grossness, happyness, fear, grief, sadness stilmittel | gore, humor, jump scares motifs | the chosen one plot-narrative | herostory"
+                                "this is what characters do | competition, survival, treasure hunting, space travel, fishing, hard labor, mining",
+                                "emotions | grossness, happyness, fear, grief, sadness",
+                                "stilmittel | gore, humor, jump scares",
+                                "motifs | the chosen one",
+                                "plot-narrative | herostory"
                             ]
                         },
                         {
