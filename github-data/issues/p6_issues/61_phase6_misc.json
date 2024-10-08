@@ -34,7 +34,9 @@
                     {
                         "type": "boxes",
                         "body": [
-                            "Rework point and click (input functionality)"
+                            "Rework point and click (input functionality)",
+                            "Revisit _accusation_ (Origin: #24)",
+                            "Revisit _contradiction_ (Origin: #33)"
                         ]
                     }
                 ]

@@ -48,5 +48,42 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "30.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "The proposal for this tag was also to delete it, especially since the topics already contain multiple instances of violence. What would get lost in the process would be the information in which games the player explicitly enacts violence or in which the player does not. As a result we found, that _vio: enact_ might fit into the _problem solving techniques_ tree, since it is a valid strategy and directly opposes reasoning. In this case it might even be useful to further divide this category into violence against other lifeforms, objects (destruction) or emotional violence, but this was postponed to later discussions."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "The key results of our discussion were:",
+                            "body": [
+                                "_vio: enact_ as a _problem solving techniques_",
+                                "_vio: experience_ is part of _topics_ and _emotional challenges_"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T05:05:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T04:05:00Z"
+        }
     ]
 }

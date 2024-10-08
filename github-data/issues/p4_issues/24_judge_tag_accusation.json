@@ -48,5 +48,70 @@
         ],
         "milestone": 4
     },
-    "comments": []
+    "comments": [
+        {
+            "content": [
+                {
+                    "title": "30.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "As previously discussed this tag might be redundant or to low level to be included. It was not categorized as a topic or theme and mostly part of detective work. The other part of accusation would be the mechanical implications like when the game provides mechanics to accuse someone for example in form of dialog options. This might not be represented in the tree well enough, but for this another term would be required, since even though the accusation tag implies a mechanical feature it does not describe it. Especially the difference to usual dialog options is unclear and heavily dependent on the context. This makes it difficult, since it might be useful to differentiate between detective games, that provide these mechanics and those which do not, but concurrently this would specializes the tree for those games."
+                        },
+                        {
+                            "type": "text",
+                            "body": "When comparing normal dialog options to an accusation, it can be observed that an accusation is likely to have **consequences** in the game. Unfortunately not every dialog option with a consequence is an accusation, making differentiation difficult again. Furthermore accessing the relevance of a consequence or the impact of an accusation is also difficult, for example a game showing accusations without the input of the player via cutscenes could be difficult to judge depending on the context or when choosing one out of N options, does the number of possibilities impact the tag?"
+                        },
+                        {
+                            "type": "text",
+                            "body": "We concluded that accusation might not even include a signature mechanic but rather is impacted by the semantic. Here we differentiate games that give the player a list of tasks to do followed by an accusation and games that give more freedom resulting in the player being required to make a decision under uncertainty. In both cases this might be part of narrative choices and branches since both cases do not result in the player replaying the section, but instead the game continuing with the made choice."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "game | tag | mechanic",
+                                "---|---|---",
+                                "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) | _social deduction_ | voting",
+                                "[Life is Strange](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) | _choose dialog option_ | accuse person of something",
+                                "[Paradise Killer](https://store.steampowered.com/app/1160220/Paradise_Killer/) | _choose dialog option_ | accuse person of something",
+                                "[Her Story](https://store.steampowered.com/app/368370/Her_Story/) | ? | intern not in the game",
+                                "[Heavy Rain](https://store.steampowered.com/app/960910/Heavy_Rain/) | ? | ?",
+                                "[Papers Please](https://store.steampowered.com/app/239030/Papers_Please/) | overfitting? | just decide whether to accuse or not"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Finally we decided to delete _accusation_ until further notice and revisit this in further iterations."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Up until then _accusation_ is supposed to be part of:",
+                            "body": [
+                                "_detective work_ (topic)",
+                                "_narrative branches_ (semantic)",
+                                "_choose dialog options_ (mechanic)",
+                                "_gather information_ (problem solving)"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T16:20:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T04:05:00Z"
+        }
+    ]
 }

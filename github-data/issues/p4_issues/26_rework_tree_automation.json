@@ -50,5 +50,75 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "30.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "The problem with the automation subtree are mostly the _basic_ and _advanced_ tag, since they are difficult to differentiate. Additionally _assemble_ and _configure_ were not used consistently most likely due to a vage definition. The idea was to show the conceptual difference between choosing values for automation or combining parts to create an automation."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "tag        | definition",
+                                "------------|--------",
+                                "_assemble_  | build a automata e.g. building blocks",
+                                "_configure_ | chose settings for automata"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Since the goal was mainly to clean up this subtree, we agreed to keep these tags and remove the tags indicating the complexity - possibly adding _assemble_ to the _building and crafting_ subtree."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Nevertheless we discussed some special cases based on the games that were assigned these tags."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "game   | tag                   | notes",
+                                "-------|-----------------------|--------",
+                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | ? | unit attack on their own",
+                                "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | configure |",
+                                "[Minecraft](https://www.minecraft.net/en-us) | assemble, configure | configure after building, externalization blueprint via mods",
+                                "[Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/) | (assemble?), configure | configure after creation",
+                                "[Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) | (configure?) | craft menu, different complexity"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "In general we found that _auto: basic_ could be misunderstood in cases where the game itself add basic automations like units that attack on their own. Generally it can be said, that 'Everything that is not done manually happens automatically.' ([@HendrikBrueckler](https://github.com/HendrikBrueckler))."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Furthermore we saw that there might also be a special case when when building a automata (_build_) using a recipe or blueprint instead of assembling it freely. This is similar to depicting the complexity of an automation, for which an alternative representation using _high level_ and _low level_ was proposed. This differentiation might especially be important for externalization features, since it could be more likely that a game with complex automations provides some tool for that. In contrast to that a _configure_ automation might be likely to be shown via an interface allowing only to select components or values."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Especially due to the externalization component it might be important to revisit this discussion in the future, such that more features can be portrayed."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T17:15:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T04:05:00Z"
+        }
     ]
 }

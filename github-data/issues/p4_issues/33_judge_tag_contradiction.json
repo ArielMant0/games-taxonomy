@@ -56,6 +56,72 @@
                 }
             ],
             "created_at": "2024-08-07T23:12:00Z"
+        },
+        {
+            "content": [
+                {
+                    "title": "30.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Similarly to _accusation_ _contradiction_ is a tag that depicts a concrete game feature or a part of a game, that allows or expects the player to experience content in a certain way."
+                        },
+                        {
+                            "type": "text",
+                            "body": "To start of it is important to note, that _contradiction_ is not equal to exclusion principle (Ausschlussprinzip). This is expected to be part of _logic puzzles_ and _apply rules_ or similar tags, therefore excluding games like [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/) or [Hexcells](https://store.steampowered.com/app/265890/Hexcells/), since the data the game provides does not in itself contradict itself. These games provide logic puzzles or riddles that can be solved by applying certain techniques, but are not tailored around contradiction. Consequently such games do not provide a specific mechanic to e.g. mark contradictions, which also applies to [Among Us](https://store.steampowered.com/app/945360/Among_Us/) where only the statements of players can contradict and even in these cases there is no specific game mechanic for it."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Games that are more critical are for example [The Great Ace Attorney Chronicles](https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/) where the some kind of lie detection or fact checking takes place. This can also influence the mechanics the game provides, but is also dependent on the semantic. Especially based on [Her Story](https://store.steampowered.com/app/368370/Her_Story/) we found, that the player also brings a certain mindset to the game - in this case the goal to find inconsistencies. Which might be sufficiently be portrayed by _detective work_, _social deduction_ or _gather information_."
+                        },
+                        {
+                            "type": "table",
+                            "body": [
+                                "game | terms | description",
+                                "---|---|---",
+                                "[The Great Ace Attorney Chronicles](https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/) | detect lies | mechanic, logic components",
+                                "[Her Story](https://store.steampowered.com/app/368370/Her_Story/) | social deduction | find inconsistencies",
+                                "[Papers Please](https://store.steampowered.com/app/239030/Papers_Please/) | fact checking / spot the difference | investigation",
+                                "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | subversion | riddles",
+                                "[Primordia](https://store.steampowered.com/app/227000/Primordia/) | imperfect information | narrative world building"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Finally we decided to delete all _contradiction_ tags until further notice and revisit this in further iterations."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "The key results of our discussion were:",
+                            "body": [
+                                "the exclusion principle is part of _logic puzzles_",
+                                "_contradiction_ is related to _deduction_ or logical deduction",
+                                "finding inconsistencies might need to be added, but could be part of _gather information_",
+                                "detect lies might be a mechanic that needs to be added - detective work is underrepresented in  mechanics tree",
+                                "also depends on the definition of _apply rules_ -> rework",
+                                "manual type of data analysis",
+                                "_contradiction_ can be part of _narrative branches_, when NPCs lie (semantic)"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T16:20:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T04:05:00Z"
         }
     ]
 }

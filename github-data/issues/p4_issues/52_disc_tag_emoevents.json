@@ -48,5 +48,42 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "30.09 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "This tag is also related to topics and multiple of the terms mentioned in the issue are also present in the the mindmap we created. Here we found that games can either address emotions as a topic, talking about sadness, helplessness or loss while a game might also evoke emotions by the player. These are difficult to separate since they most likely both mean that the player experiences emotional events."
+                        },
+                        {
+                            "type": "text",
+                            "body": "In general it would be possible to tag the emotions the player feels when playing the game, similar to _personal challenges_. One problem with this would be the disconnect between what happens in the game and what the player feels - even though a game might be about grief the player might still feel happiness ([Gris](https://store.steampowered.com/app/683320/GRIS/)). This might or might not be worth tagging anyway, since it might also be interesting and remarkable when such games would be tagged with positive emotions."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Finally both the tagging of emotions as topics and the felt emotions were moved to a new issue and the discussion was postponed until the next phase."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T05:05:00Z"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T04:05:00Z"
+        }
     ]
 }
