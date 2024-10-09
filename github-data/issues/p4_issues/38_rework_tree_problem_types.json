@@ -103,7 +103,7 @@
                         "body": [
                             "**challenge-less**",
                             [
-                                "rename to problemtype-todo or delete in the future? (-> Änderungsbedarfs Tag)",
+                                "rename to problemtype-todo or delete in the future? (→ Änderungsbedarfs Tag)",
                                 "search examples for this tag"
                             ],
                             "game of skill or dexterity",
@@ -124,7 +124,7 @@
                                 "Formal logic is interested in deductively [valid](https://en.wikipedia.org/wiki/Validity_(logic)) arguments, for which the truth of their premises ensures the truth of their conclusion",
                                 "Formal logic is interested in deductively valid arguments, for which the truth of their premises ensures the truth of their conclusion",
                                 "inference, deduction",
-                                "global rules + instances — (logic) -> correctly infer gaps in instances"
+                                "global rules + instances — (logic) → correctly infer gaps in instances"
                             ],
                             "moral and emotional challenges",
                             [
@@ -215,7 +215,7 @@
                             "caption": "Emotional Events:",
                             "body": [
                                 "plot twists (Bioshock)",
-                                "humoristic events -> aufdröseln, da humor auch emotional\n suspenseful, sims (entspannend)",
+                                "humoristic events → aufdröseln, da humor auch emotional\n suspenseful, sims (entspannend)",
                                 "loss, sadness, grief",
                                 "Krieg, death, aging, ..."
                             ]
@@ -262,7 +262,7 @@
                                 "Use *time spend* as part of the definition – *The player should use most of the game time doing X* (22.05) [01.06]",
                                 [
                                     "mini, medium and main component (problem type) with mini being minigames",
-                                    "This might allow to differentiate between games like Adventure Capitalist, Banner Saga and Starcraft -> in Adventure Capitalist you will be waiting most of the time, while in Starcraft you need to continuously play strategically"
+                                    "This might allow to differentiate between games like Adventure Capitalist, Banner Saga and Starcraft → in Adventure Capitalist you will be waiting most of the time, while in Starcraft you need to continuously play strategically"
                                 ],
                                 "Are there challenge less games or todo-tags? (22.05) [01.06]",
                                 "Games that provide an explorative narrative but nothing else. (12.05) [01.06]",

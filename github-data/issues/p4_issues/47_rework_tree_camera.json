@@ -40,7 +40,7 @@
                         "caption": "camera degree of freedom",
                         "body": [
                             "",
-                            "free detached -> free movement",
+                            "free detached → free movement",
                             "character attached (following)",
                             "camera on rails (with rotation)",
                             "camera on rails (without rotation) (cinematic, no control, game control)",

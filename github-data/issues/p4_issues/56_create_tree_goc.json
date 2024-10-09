@@ -31,7 +31,7 @@
                         "body": [
                             "end state - nicht nur das erfolgreiche ende sondern auch tod is du musst von vorne anfangen.",
                             "Win und failure conditions.",
-                            "game over condition -> complete main quest line, kill endboss, --- siehe oben aufgezähltes",
+                            "game over condition → complete main quest line, kill endboss, --- siehe oben aufgezähltes",
                             "gegen goal of game weil schwer zu definieren. goc unabhängig von goal of game.",
                             "nicht jedes game muss eine goc haben.",
                             "Franziska: reframing von den tags die da stehen, wann sagt das spiel dir wann is vorbei",
@@ -83,8 +83,8 @@
                             "gutes maß zwischen kleinteiligkeit und abstraction zu finden",
                             "skyrim hebt nicht hervor das es eine abfolge von quests ist!!!",
 
-                            "Discuss tagging goal of a game schließen -> follow up issue game over condition / end condition",
-                            "vorlaufiges spiel ende nicht unterscheiden -> sterben und neuladen könnte doof sein",
+                            "Discuss tagging goal of a game schließen → follow up issue game over condition / end condition",
+                            "vorlaufiges spiel ende nicht unterscheiden → sterben und neuladen könnte doof sein",
 
                             "möglichst auf technischer ebene bleiben und nicht von gut und bad ending unterscheiden"
                         ]

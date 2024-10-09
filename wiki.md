@@ -21,5 +21,5 @@ TODOs
   - potentially delete this issue
 - Discuss subtree topics
   - chosen problem types ... ganz unten
-- 43 topics -> translate german parts
+- 43 topics → translate german parts
 - see if issue 45 Discuss tagging game structure can be closed
