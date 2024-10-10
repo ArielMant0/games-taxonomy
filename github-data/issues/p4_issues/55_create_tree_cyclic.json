@@ -274,7 +274,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "To determine which games might have a cyclic structure, we defined the _cyclic_ tag as follows: **The game experience is predominently shaped by completing multiple runs of the game."
+                            "body": "To determine which games might have a cyclic structure, we defined the _cyclic_ tag as follows: **The game experience is predominantly shaped by completing multiple runs of the game.**"
                         },
                         {
                             "type": "text",
@@ -289,7 +289,7 @@
                                 "[Diablo® IV](https://store.steampowered.com/app/2344520/Diablo_IV/) | :question: | Difficult since the game is designed to be played multiple times, but only such that the loot improves. The endgame is openended and allows for repetition, especially for some level that are good for farming. Furthermore the player might need to unlock different difficulties to increase droprates or the loot quality.",
                                 "[Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) | :x: | It has a new game+ but this has not the same design features and could also be tagged seperatly.",
                                 "[SUPERHOT](https://store.steampowered.com/app/322500/SUPERHOT/) | :x: | Repeating a level or subsections of it, is not cyclic game structure but rather trail and error.",
-                                "[Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | :x: | Repeating a level or subsections of it, is not cyclic game structure but rather trail and error. "
+                                "[Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) | :x: | Repeating a level or subsections of it, is not cyclic game structure but rather trail and error."
                             ]
                         }
                     ]

@@ -38,14 +38,14 @@
         {
             "content": [
                 {
-                    "title": "04.08 Discussion",
+                    "title": "04.08.2024 Discussion",
                     "body": [
                         {
                             "type": "itemize",
                             "caption": "In this Issue we discuss these main questions:",
                             "body": [
                                 "What qualifies as a minigame?",
-                                "How should features be tagged, that have similarities to minigames can not be categorized as such?",
+                                "How should features be tagged, that have similarities to minigames but can not be categorized as such?",
                                 "In what granularity should minigames be tagged?"
                             ]
                         },
@@ -59,7 +59,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "Firstly we discussed the basic understanding of a minigame. Generally speaking a minigame can be understood as a game within a game, made to break up the gameplay and entertain over a short period. [wikipedia](https://en.wikipedia.org/wiki/Minigame) In most cases the minigame appears differently than the maingame, for example by altering the UI, disableing physics or a different control sceme. While there are minigames that have near trivial content there are also those that still have complex rules for example in form of a card game. Additionally a minigame can be seen as a task of lesser importance and with a low frequency of repetition, meaning that the player is not forced to play the minigame multiple times or over a long period."
+                            "body": "Firstly we discussed the basic understanding of a minigame. Generally speaking a minigame can be understood as a game within a game, made to break up the gameplay and entertain over a short period [wikipedia](https://en.wikipedia.org/wiki/Minigame). In most cases the minigame appears differently than the maingame, for example by altering the UI, disabling physics or by a different control scheme. While there are minigames that have near trivial content there are also those that still have complex rules for example in form of a card game. Additionally a minigame can be seen as a task of lesser importance and with a low frequency of repetition, meaning that the player is not forced to play the minigame multiple times or over a long period."
                         },
                         {
                             "type": "h4",
@@ -67,7 +67,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "Following this we discussed if a minigames needs to be optional content or if such a gameelement can still be called minigame if it is manditory. Often minigames are required to gain access to specific rewards (unlocking chests) but these rewards are usually not required to end or progress in a game. **It is still unclear if there are games that would softlock the player when not able to win a minigame, we specifically mentioned BioShock in this case and if that changes if something is a minigame.** Similarly Skyrim has a lockpicking minigame, but it is not needed to complete the game, while it is manditory for some questlines. !!! Rewrite: Minigames can be mandatory but there might exist some"
+                            "body": "Following this we discussed if a minigames needs to be optional content or if such a game element can still be called minigame if it is mandatory. Often minigames are required to gain access to specific rewards (unlocking chests). While these rewards are usually not required to end a game, they can be mandatory to complete some quests which allow the player to progress ([The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)). In those cases the player would be hindered from finishing the questline (soft lock) when the player is not able to beat or win the minigame. In some games this might also happen during the main story ([BioShock™](https://store.steampowered.com/app/7670/BioShock/)). Based on this we concluded, that whether a minigame is mandatory or not does not impact its state as a minigame."
                         },
                         {
                             "type": "h4",
@@ -75,53 +75,25 @@
                         },
                         {
                             "type": "text",
-                            "body": "Furthermore we discussed quicktimeevents (for example L.A. Noire). These have similar attributes like minigames like the usually small timeframes in which the player encounters them. For the moment we decided to exclude quicktimeevents from minigames and tag them seperatly. **WHY?** Therefore it should also not be part of the minigames subtree."
-                        },
-                        {
-                            "type": "itemize",
-                            "body": [
-                                "!!! Quicktimeevent sind schon verwand aber nicht direkt geschwister",
-                                "quicktimeevents sind eine mechanic und kein richtiges spiel",
-                                "eine taste auf timer gedrückt ",
-                                "keine regeln, simplifiziert, mangelnde komplexität",
-                                "kein in sich geschlossenes minigame",
-                                "minigames können quicktime events enthalten, aber ein quicktime event ist nicht unbedingt ein quicktime event"
-                            ]
+                            "body": "Furthermore we discussed quicktime events (for example [L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire/)). Even though minigames and quicktime events are similar in terms of the short time period the player interacts with them and the often enclosed appearance, they have multiple key differences, that made us not include quicktime events as minigames. Basically a quicktime event is a section in the game in which the player needs to press one button or a sequence of buttons as soon as it is displayed on the screen. This does test the reaction time of the player and the ability to find the correct key fast enough. Even though it is possible to view this as a minigame we decided to categorize it as a mechanic, mainly due to the simple rules and the low complexity. Therefore while a quicktime event is not regarded as a minigame, a minigame can still contain quicktime evets."
+
                         },
                         {
                             "type": "text",
-                            "body": "es ist schwierig die abgrenzung von minigame zu gamecontent zufinden, aber auch von trivialer gamemechanic zu minigame"
+                            "h4": "Necessary and sufficient condition",
+                            "body": "Similar to quicktime events it is generally difficult to differentiate minigames from the 'normal' gamecontent, but also minigames from a game mechanic. Hence we chose some necessary and sufficient conditions to identify a minigame."
                         },
                         {
-                            "type": "itemize",
+                            "type": "table",
                             "body": [
-                                "abgeschlossener bereich, abgeschlosses system",
-                                "wann ist es einfach nur ne meachnic",
-                                "vgl angeln in pokemon",
-                                "ist das ein quicktime event"
-                            ]
-                        },
-                        {
-                            "type": "text",
-                            "body": "ist es mechnisch anders vom spiel, design anders vom spiel"
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "hinreichende und notwendige kriterien!",
-                            "body": [
-                                "Visuel: GUI-Elemente die außerhalb dieses Kontexts nicht verwendet werden",
-                                "Mechanisch: Steuerungsvarianten, die außerhalb dieses Kontexts nicht verwendet werden",
-                                "Regeln: die außerhalb dieses Kontexts nicht verwendet werden, und die Erfolg und Scheitern ermöglichen",
-                                "Abgeschlossenheit: Es gibt einen wahrnehmbaren Übergang von einem in den anderen Kontext",
-                                "(optional) Hauptmechanic: Sollte keine Hauptmechanic zum progressen sein (sollte nicht zu viel prozent des spiels ausmachen)",
-                                "(optional) Komplexität: die Komplexität des Minigames sollte nicht die Komplexität des Maingames übersteigen (Was enthällt das Spiel wenn die Minigames weg wären) (Weniger Scope - differenz von Minigame zu Gesamtspiel) (vollwertiges Spiel auch ohne Minispiel - siehe Doom Doom oder Gwent - professor layout → individuelles spiel)"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "body": [
-                                "guitar hero",
-                                "metal hellsinger (rythm game)"
+                                "Type | Name | Description",
+                                "---|---|---",
+                                "Necessary | Visually | GUI-elements that are only used in the minigame context",
+                                "Necessary | Mechanically | Control-elements that are only used in the minigame context",
+                                "Necessary | Rules | Rules that are only used in the minigame context and are essential for wining or losing",
+                                "Necessary | Enclosed | Changing the context can be perceived e.g. by a transition",
+                                "Sufficient | Main mechanic | Minigame mechanics should not make up to much percent of the game content",
+                                "Sufficient | Complexity | The complexity of a minigame should not exceed the complexity of the main game. (less scope) (What would the game be made of without this minigame? Complete game even without this minigame.)"
                             ]
                         },
                         {
@@ -130,7 +102,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "For clarification we decided that it **must** be possible to provide evidence for a minigame, for example in form of a screenshot (@HendrikBrueckler). It is to be expected that a person who played the game would recognize the display scene and would understand why it might be a minigame. Generally the screenshot should suggest a subgame inside of the actual game."
+                            "body": "For clarification we decided that it **must** be possible to provide evidence for a minigame, for example in form of a screenshot. It is to be expected that a person who played the game would recognize the display scene and would understand why it might be a minigame. Generally the screenshot should suggest a subgame inside of the actual game."
                         },
                         {
                             "type": "h3",
@@ -142,23 +114,23 @@
                         },
                         {
                             "type": "text",
-                            "body": "Our discussion revealed a direct connection between the game structure and minigames. A game which is packed with minigames would most likely also be tagged as heterogen (Professor Layton, vario ware). The combinations of tags will allow to differentiate between games for example with homogen + minigames and heterogen + minigames."
+                            "body": "Our discussion revealed a direct connection between the game structure and minigames. A game which is packed with minigames would most likely also be tagged as heterogen ([Professor Layton](https://www.laytonseries.com/naen/), [WarioWare](https://de.wikipedia.org/wiki/WarioWare)). The combinations of tags will allow to differentiate between games for example with homogen + minigames and heterogen + minigames."
                         },
                         {
                             "type": "text",
-                            "body": "To clarify this we specifically discussed A Short Hike which is homogen (@HendrikBrueckler) but still contains minigames that are directly embedded in the game. The game qualifies as a minigame because it changes the mechanics of the game to a more skill oriented focus."
+                            "body": "To clarify this we specifically discussed [A Short Hike](https://store.steampowered.com/app/1055540/A_Short_Hike/) which is homogen but still contains minigames that are directly embedded in the game. These qualify as a minigame because it changes the mechanics of the game to a more skill oriented focus."
                         },
                         {
                             "type": "text",
-                            "body": "Another example would be Animal Crossing or Pokemon (fishing) where the player also encounters directly embedded gamecomponents without special windows or UI elemens. **For these cases it is especially difficult to define if they are a minigame.**"
+                            "body": "Another example would be [Animal Crossing](https://de.wikipedia.org/wiki/Animal_Crossing) or [Pokemon](https://en.wikipedia.org/wiki/Pokémon) (fishing) where the player also encounters directly embedded game components without special windows or UI elements. **For these cases it is especially difficult to define if they are a minigame.**"
                         },
                         {
                             "type": "h4",
-                            "body": "Lesser Gamecomponents"
+                            "body": "Lesser Game Components"
                         },
                         {
                             "type": "text",
-                            "body": "Finally we began discussing the use of this tag for gamecomponents that are part of the game but are of low relevance or only secondary. For example if a game might contain skill based sections but these would be overrepresented if one would tag the game with motor skill tags, since this would it make difficult to differentiate between continously high skill games and those that only have a small portion or section of it. **For the moment we concluded that this should not be represented by minigames to prevent multiple meanings for these tags. Therefore a new tag will be needed!**"
+                            "body": "Finally we began discussing the use of this tag for game components that are part of the game but are of low relevance or only secondary. For example if a game might contain skill based sections, but these would be overrepresented if one would tag the game with motor skill tags, since this would it make difficult to differentiate between continuously high skill games and those that only have a small portion or section of it. **For the moment we concluded that this should not be represented by minigames to prevent multiple meanings for these tags. Therefore a new tag will be needed!**"
                         },
                         {
                             "type": "h3",
@@ -170,7 +142,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "It is allowed for a game to be tagged with multiple minigame tags, but for each tag the game needs a seperate minigame, meaning that a minigame can either be _mini: skill_ or _mini: busywork_ but not both. Ergo if a game has n minigames the game can but does not need to have n minigame tags."
+                            "body": "It is allowed for a game to be tagged with multiple minigame tags, but for each tag the game needs a separate minigame, meaning that a minigame can either be _mini: skill_ or _mini: busywork_ but not both. Ergo if a game has N minigames the game can - but does not need to have N minigame tags."
                         },
                         {
                             "type": "itemize",
@@ -182,67 +154,60 @@
                         },
                         {
                             "type": "text",
-                            "body": "We opted to iterate multiple games and their minigames to get an overview of minigames that exist. Using this we would decide which cathegories are needed to adequatly portray these."
+                            "body": "We opted to iterate multiple games and their minigames to get an overview of minigames that exist. Using this we would decide which categories are needed to adequately portray these."
                         },
                         {
                             "type": "table",
                             "body": [
-                                "Game | minigame | tag",
-                                "-- | -- | --",
-                                "LA Noiare | quicktimeevents | quicktimeevents",
-                                "Deus Ex Human Revolution | socialising | its a skill/hack SO NO MINIGAME",
-                                "Skyrim | lockpicking | mini: skill (vom design her), mini: busywork, PASST DAS ??",
-                                "bioshock | lockpicking | ~~mini: skill, mini: luck~~, mini: logic",
-                                "Skyrim | taschendiebstahl | ~~(mini: skill), **mini: luck**, mini: busywork~~ eher mechanic",
-                                "among us | | mini: skill, mini: busywork, mini: logic",
-                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | minigame level | heterogen, level based, mini: skill, gleiches level aber mechanic ändert sich - !!! additional content, challenges, portal, bastion mit waffen üben / perfektionieren, aber in der welt platziert nicht außerhalb --- verschieden modi des selben spiels, verschiedene level des selben spiels",
-                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | gießen | mini: busywork, weniger spiel als eine aktivität, misserfolg exitiert nicht wirklich, außerhalb des spiels",
-                                "pokemon | glücksspielautomaten | mini: luck",
-                                "pokemon | angeln | kein wahrnehmbarer kontextwechsel --- aktivität ??? @HendrikBrueckler sagt nein Nein NEIN NEIN @ArielMant0 sagt mini: aktivität @HendrikBrueckler is very verzweifelt",
-                                "risen 2 | lockpicking | mini busy",
-                                "Harvest Moon | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing?",
-                                "Spiritfarer | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing?",
-                                "Animal Crossing | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing?",
-                                "Animal Crossing | bug catching | ~~mini: activity~~ ~~meta~~mechanic: fishing?",
-                                "Pokémon | fishing | ~~mini-skill~~",
-                                "Pokémon | beauty competition | mini-luck, mini-strategy??",
-                                "Deus Ex: Human Revolution | hacking | ~~mini-busy~~, mini-strategy eigentlich braindead aber die gui schreit strategy das es zu eiunfach ist ist ja eher einbalancing issue, mini-speed",
-                                "Skyrim | lockpicking | mini-skill ",
-                                "Bioshock | hacking | mini-logic ",
-                                "Detroit: Become Human | qte | - ",
-                                "Professor Layton | puzzles | mini-logic? ",
-                                "Pyre | basketball | ??? levelbased, langer übergang, übergang zwischen spiel und story, HETEROGEN",
-                                "Dave the Diver | sushi bar, etc. | mini-busy, mini-rhythm, jede art von minigame?",
-                                "GTA IV | | minigame heavy --- @rwarnking findet das doof, weiß aber auch nicht wie genau man damit umgehen soll. @rwarnking unterscheidung zwischen hauptspiel und minigame fällt mir schwer, das spiel ist an sich zu ~~heterogen~~ (@HendrikBrueckler sagt die experience ist zu nahtlos um es heterogen zu nennen) als das ich mir nicht vorstellen kann, dass es sich nicht generel um eine Mission handelt (z.b. differnt gui elemtns)",
-                                "GTA san andreas | sport machen | max ~~activität~~, kein minigame",
-                                "GTA san andreas | missionen im allgemeinen |",
-                                "GTA san andreas | areal befreien |",
-                                "The Witcher: Wild Hunt | gwent | mini: strategy ",
-                                "Kingom Come: Deliverance | würfeln | mini: luck",
-                                "Kingom Come: Deliverance | taschendiebstahl | mini: skill, (mini: busy)",
-                                "Day of the Tentacle | maniac mansion | mini: game oder _gameception_ tag (vorschlag von @HendrikBrueckler, spiel ist nicht _mini_, sind schach oder gwent mini? wie legt sich der scope fest für das eine oder andere?) unterscheide zwischen game in a game und minigame, wann wird ein minigame zum game in a game. Nutze Copyrighted IP um das abzugrenzen. IGNORIEREN für den moment. es ist zu schwer zu entscheiden ob eine gameception vorliegt. z.b. easteregg game in a game - deutet auf klaren intent hin das der entwickler ein spiel im spiel einbringen wollte.",
-                                "Doom Eternal | Doom | mini: game oder _gameception_ tag",
-                                "Pokemon | Fishing | ~~Mini-Skill~~",
-                                "Fallout NV | Caravan | Mini-Strategy (Card Game)",
-                                "Witcher | Dingens | Mini-Strategy (Card Game)",
-                                "Wario Ware | <alles> | Mini-Skill",
-                                "GTA SA/4/5 | Sport-Minigames | Tendenz zu Mini-Skill",
-                                "GTA SA/4/5 | Stunt-Sprünge | ~~Mini-Skill~~",
-                                "Professor Layton | Puzzles/Point and Click | Mini-Busywork/Mini-Logic",
-                                "Maniac Mansion II: Day of the tentacle | Maniac Mansion 1 | Mini-logic/Mini-Busywork",
-                                "Undertale | Dodging | ~~Mini-Skill~~ eher Mechanik",
-                                "Sonic The Hedgehog | Chaos Emerald Level | ~~Mini-Skill~~ weil zu ähnlich zu restlichen Levels",
-                                "Henry Hatsworth Puzzling Adventure | Puzzling | ~~Mini-Strategy~~ weil zentrale Spielmechanik"
+                                "Game | game component | tag | description",
+                                "-- | -- | -- | --",
+                                "[L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire/) | quicktime events | - | quicktime event",
+                                "[Deus Ex: Human Revolution - Director's Cut](https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution__Directors_Cut/) | socializing | - | its a skill/hack",
+                                "[Deus Ex: Human Revolution - Director's Cut](https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution__Directors_Cut/) | hacking | ~~mini-busy~~, mini-strategy, mini-speed | low complexity, but GUI suggests strategy",
+                                "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) | lockpicking | ~~mini: skill, mini: luck~~, mini: logic |",
+                                "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) | hacking | mini-logic |",
+                                "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | lockpicking | mini: skill, mini: busywork | based on the design",
+                                "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | pickpocketing | ~~(mini: skill), **mini: luck**, mini: busywork~~ | more like an mechanic",
+                                "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) | everything | mini: skill, mini: busywork, mini: logic |",
+                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | boss level | ~~mini: skill~~ | level based and heterogen",
+                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | challenges | - | additional content, challenges ([Bastion](https://store.steampowered.com/app/107100/Bastion/), [Metal: Hellsinger](https://store.steampowered.com/app/1061910/Metal_Hellsinger/))",
+                                "[Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) | gießen | activity | failure is not possible, not part of the actual game",
+                                "[Pokemon](https://en.wikipedia.org/wiki/Pokémon) | gambling machines | mini: luck |",
+                                "[Pokemon](https://en.wikipedia.org/wiki/Pokémon) | fishing | ~~Mini-Skill~~, activity | no context transition",
+                                "[Pokemon](https://en.wikipedia.org/wiki/Pokémon) | beauty competition | mini-luck, mini-strategy? |",
+                                "[Risen 2: Dark Waters](https://store.steampowered.com/app/40390/Risen_2_Dark_Waters/) | lockpicking | mini busy |",
+                                "[Harvest Moon](https://de.wikipedia.org/wiki/Harvest_Moon_(Computerspielreihe,_2007)) | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing? |",
+                                "[Spiritfarer®: Farewell-Edition](https://store.steampowered.com/app/972660/Spiritfarer_FarewellEdition/) | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing? |",
+                                "[Animal Crossing](https://de.wikipedia.org/wiki/Animal_Crossing) | fishing | ~~mini: activity~~ ~~meta~~mechanic: fishing? |",
+                                "[Animal Crossing](https://de.wikipedia.org/wiki/Animal_Crossing) | bug catching | ~~mini: activity~~ ~~meta~~mechanic: fishing? |",
+                                "[Detroit: Become Human](https://store.steampowered.com/app/1222140/Detroit_Become_Human/) | quicktime events | - | quicktime event",
+                                "[Professor Layton](https://www.laytonseries.com/naen/) | puzzles | mini: busy, mini: logic |",
+                                "[Pyre](https://store.steampowered.com/app/462770/Pyre/) | basketball | - | level based and heterogen, long sections with transitions between game and story |",
+                                "[Dave the Diver](https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/) | sushi bar | mini: busy, mini: rhythm, every type of minigame? |",
+                                "[Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | special missions | - | very clean transition between game, missions and activities - sometimes the GUI elements might be different",
+                                "[Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | sport activities | activity, mini: skill |",
+                                "[Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | occupy area | activity? |",
+                                "[Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | Stunt-Sprünge | ~~mini: skill~~ |",
+                                "[The Witcher 3: Wild Hunt](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/) | Gwent | mini: strategy | (Card Game)",
+                                "[Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/) | rolling dice | mini: luck |",
+                                "[Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/) | pickpocketing | mini: skill, (mini: busy) |",
+                                "[Day of the Tentacle Remastered](https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/) | Maniac Mansion 1 | mini: game,  _gameception_ | difference between game in a game and minigame is difficult - use eastereggs as tag?",
+                                "[Doom Eternal](https://store.steampowered.com/app/782330/DOOM_Eternal/) | Doom | mini: game oder _gameception_ tag |",
+                                "[Fallout: New Vegas](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) | Caravan | mini: strategy | Card Game",
+                                "[WarioWare](https://de.wikipedia.org/wiki/WarioWare) | everything | mini: skill |",
+                                "[Undertale](https://store.steampowered.com/app/391540/Undertale/) | Dodging | ~~mini: skill~~ | it is a mechanic",
+                                "[Sonic the Hedgehog: Ultimate Bundle](https://store.steampowered.com/bundle/13382/Sonic_the_Hedgehog_Ultimate_Bundle/) | Chaos Emerald Level | ~~Mini-Skill~~ | too similar to the other levels",
+                                "[Henry Hatsworth in the Puzzling Adventure](https://en.wikipedia.org/wiki/Henry_Hatsworth_in_the_Puzzling_Adventure) | Puzzling | ~~Mini-Strategy~~ | central game mechanic"
                             ]
                         },
                         {
                             "type": "table",
-                            "caption": "Beispiel für untergeordnete rolle einer gamecomponent",
+                            "caption": "Examples for other game components",
                             "body": [
-                                "Game | minigame | tag",
+                                "Game | game component | tag",
                                 "-- | -- | --",
-                                "Tomb raider | dungeons | abgeschlossene level, anfang und ende, kein kontext wechsel",
-                                "Legend of zelda | | abgeschlossene level, anfang und ende, kein kontext wechsel"
+                                "Tomb raider | dungeons | enclosed level without transition",
+                                "Legend of zelda | dungeons | enclosed level without transition"
                             ]
                         },
                         {
@@ -262,7 +227,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "We furthermore added follow up issues for  _gameception_ which was a major difficulty when discussing games that contain complete games as a minigame and _activities_. Further idea were added to issue #61."
+                            "body": "We furthermore added follow up issues for _gameception_ which was a major difficulty when discussing games that contain complete games as a minigame and _activities_. Further idea were added to issue #61."
                         }
                     ]
                 }

@@ -134,7 +134,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "For now we define cyclic as 'The game is designed in a way that can be experienced to full extent only by replaying the game a large (but not concretely defined) number of times'. This should be seen mostly disconnected from concerns of replayability and motivation/incentive/rewards. We use the above list as a basis for tagging the Game Structure in the next tagging round and will revisit it afterwards for evaluation."
+                            "body": "For now we define cyclic as 'The game is designed in a way that can be experienced to full extent only by replaying the game a large (but not concretely defined) number of times'. This should be seen mostly disconnected from concerns of replayability and motivation/incentive/rewards. We use the above list as a basis for tagging the game structure in the next tagging round and will revisit it afterwards for evaluation."
                         }
                     ]
                 }
