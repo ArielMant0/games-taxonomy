@@ -92,7 +92,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "We discussed the need for tagging the goal of a game again and came to the conclusion that is not needed. The mayn purpose of this tag was to indicate why a player plays a game but since this is part of the motivations subtree (#53) now this tag is not needed. However our discussion revealed the possibility to tag the game over condition of a game. This resulted in a new issue."
+                            "body": "We discussed the need for tagging the goal of a game again and came to the conclusion that is not needed. The main purpose of this tag was to indicate why a player plays a game but since this is part of the motivations subtree (#53) now this tag is not needed. However our discussion revealed the possibility to tag the game over condition of a game. This resulted in a new issue."
                         },
                         {
                             "type": "itemize",

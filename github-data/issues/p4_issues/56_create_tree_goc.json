@@ -24,87 +24,69 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Since it was difficult for us to define the goal of a game and we already included tags for motivations @HendrikBrueckler proposed to add tags for the game over condition. This would yield a very similar result but might be more clearly defineable."
+                        "body": "Since it was difficult for us to define the goal of a game and we already included tags for motivations it was proposed to add tags for the game over condition. This would yield a very similar result but might be more clearly definable."
+                    },
+                    {
+                        "type": "text",
+                        "body": "A game over condition is generally independent of the goal or the end of a game, since the game can also be over when the player dies. Therefore the game over condition is directly related to conditions that let the player win or lose. Hence every end state that is available was reached by triggering a game over condition. This in turn means, that a game that does not have an end state would also not have a game over condition. Basically this tag identifies situations in which the game itself stops the player from continuing to play - this does also include situations in which the player would resolve the issue by reloading."
+                    },
+                    {
+                        "type": "text",
+                        "body": "Especially noteworthy here are games, that integrate the player death into the game ([DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)), creating a different approach to process a potential game over. The difference between those games and others would be visible via these tags, allowing the analyst to obtain information about the structure of the game."
+                    },
+                    {
+                        "type": "text",
+                        "body": "While it is important to differentiate the game over condition from the goal of a game, since both can differ a lot, we choose to not differentiate between a good and bad game overs like death or finishing the game. Furthermore we decided for now to not include a special tag for loading a savegame since it is a very mechanical feature and usual for many games."
                     },
                     {
                         "type": "itemize",
+                        "caption": "In general a lot of potential game over conditions would be of technical nature:",
                         "body": [
-                            "end state - nicht nur das erfolgreiche ende sondern auch tod is du musst von vorne anfangen.",
-                            "Win und failure conditions.",
-                            "game over condition → complete main quest line, kill endboss, --- siehe oben aufgezähltes",
-                            "gegen goal of game weil schwer zu definieren. goc unabhängig von goal of game.",
-                            "nicht jedes game muss eine goc haben.",
-                            "Franziska: reframing von den tags die da stehen, wann sagt das spiel dir wann is vorbei",
-                            "hendrik: death ALternative zu ueberlebe lange",
-                            "endure missions",
-                            "enthällt beides positiv als auch negativ",
-                            "wenn laden dann ist es kein of ne GOC",
-                            "nicht anders als zuende spielen",
-                            "viele spielen hätten dann death",
-                            "valide das zu taggen",
-                            "das gibt einem informationen wie ein spiel stukturiert ist.",
-
-                            "dark souls integriert das in das spiel keine GOC",
-                            "mit purpose gelößt statt billig",
-                            "load and save taggen???",
-                            "das sagt einem was über spiele potentiell.",
-                            "eher technischer natur, weniger abstract sondern eher auf mechanic ebene",
-                            "nicht zwischen gut und schlecht unterscheiden, auch wenn es die theoretisch gibt.",
-                            "vermeiden von nicht klarzuordneunen sachen,",
-                            "entkoppeln von goal ist gut, goal kann stark abweichen.",
-                            "mit set an spielen durchspielen.",
-
-                            "auf welcher ebene taggen`?",
-                            "story: letzte quest beendet das spiel vs wenn die story zuende ist",
-                            "storyline bringt order rein, lässt auch offen das du skippen kannst.",
-
-                            "quest beendet ist sehr technisch",
-                            "reach exit point? final location? auch technisch",
-                            "stanley parable",
-                            "return of the obra dinn",
-                            "gone home",
-                            "portal (kill final boss)",
-
-                            "wie sehr will man technisch runtergehen",
-
-                            "gibt teilweise auch hint was die challenge eines spiels ist",
-                            "priorisierung: questline over location,",
-                            "more specific",
-                            "ist das spiel zuende weil die story zuende ist oder endet die story weil spiel zuende",
-                            "both ...",
-                            "letzte mainquest beenden",
-                            "spezifische quest beenden",
-
-                            "story die nicht an quests gebunden ist",
-                            "[Gris](https://store.steampowered.com/app/683320/GRIS/), thin storyline, deswegen letzte location erreichen.",
-
-                            "subtree ganz in ordnung",
-
-                            "gutes maß zwischen kleinteiligkeit und abstraction zu finden",
-                            "skyrim hebt nicht hervor das es eine abfolge von quests ist!!!",
-
-                            "Discuss tagging goal of a game schließen → follow up issue game over condition / end condition",
-                            "vorlaufiges spiel ende nicht unterscheiden → sterben und neuladen könnte doof sein",
-
-                            "möglichst auf technischer ebene bleiben und nicht von gut und bad ending unterscheiden"
+                            "finish last quest of the game",
+                            "reach final location",
+                            "kill final boss",
+                            "endure challenge"
                         ]
                     },
                     {
+                        "type": "text",
+                        "body": "Basically this tag should also give a hint as to what the challenge of the game is, on a more technical level than the _problem types_ subtree."
+                    },
+                    {
                         "type": "itemize",
-                        "caption": "For test purposes we reused information from issue #50 and descided on the following tags to choose from:",
+                        "caption": "For the moment we reused information from issue #50 and decided on the following tags to choose from:",
                         "body": [
                             "win match",
-                            "beat final level, kill endboss",
-                            "get high score / survive as long as possible",
+                            "beat final level",
+                            "kill endboss",
+                            "get high score",
+                            "survive as long as possible",
                             "solve big level/puzzle/riddle",
-                            "Reach end of storyline/bring story to end/follow storyline/participate, complete main quest line",
+                            "reach end of storyline",
+                            "bring story to end",
+                            "follow storyline",
+                            "complete main quest line",
                             "complete game",
                             "no explicit goal",
                             "death"
                         ]
                     },
                     {
+                        "type": "text",
+                        "body": "These tag might be detailed enough while still given some abstraction level. To select the correct tag we agreed to prioritize quests and questlines over location based tags."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Ongoing problems that already were found are:",
+                        "body": [
+                            "Does the game end because the story is finished, or is the story finished because the game has ended?",
+                            "What about story that are not bound to quests?",
+                            "Games might not tell the player that there is a questline and not just one quest."
+                        ]
+                    },
+                    {
                         "type": "table",
+                        "caption": "Nevertheless to validate our list we will iterate a list of games and assign those potential tags.",
                         "body": [
                             "Game | @HendrikBrueckler | @ArielMant0 | @rwarnking",
                             "-- | -- | -- | --",
@@ -119,7 +101,7 @@
                             "[Life is Strange](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) | | | ",
                             "[Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) | | | ",
                             "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) | | | ",
-                            "[Portal](https://store.steampowered.com/app/400/Portal/) | | | ",
+                            "[Portal](https://store.steampowered.com/app/400/Portal/) | kill final boss | | ",
                             "Schach | | | ",
                             "[Banished](https://store.steampowered.com/app/242920/Banished/) | | | ",
                             "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | | | ",
@@ -127,7 +109,9 @@
                             "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) | | | ",
                             "[Gone Home](https://store.steampowered.com/app/232430/Gone_Home/) | | | ",
                             "[The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) | | | ",
-                            "[Dead Space](https://store.steampowered.com/app/17470/Dead_Space_2008/) | | | "
+                            "[Dead Space](https://store.steampowered.com/app/17470/Dead_Space_2008/) | | | ",
+                            "[Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/) | | | ",
+                            "[Gris](https://store.steampowered.com/app/683320/GRIS/) | | reach final destination | "
                         ]
                     }
                 ]

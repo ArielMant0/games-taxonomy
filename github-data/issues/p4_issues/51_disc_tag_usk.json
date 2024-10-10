@@ -49,27 +49,27 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Related tags would have the purpose to indicate who is playing the game. This might be culturel interesting but also would give a brought overview about the conent of the game: Does the game contain violent visuals? Or does it contain drug use or heavy language? Is it viable for kids to play it? and so on."
+                            "body": "Related tags would have the purpose to indicate who is playing the game. This might be cultural interesting but also would give a brought overview about the content of the game: Does the game contain violent visuals? Or does it contain drug use or heavy language? Is it viable for kids to play it? and so on."
                         },
                         {
                             "type": "text",
-                            "body": "When discussing this topic we found multiple problems regarding ratings. Firstly it is difficult to access this as an uninformed person that does not do this professionally since it might require in depth game knowledge and generally a system to compare games to each other. Such a tag would simple be more difficult to tag than for example tags related to minigames or visual features. Secoundly it is not guaranteed that a user would rate a game consistently at different time points, meaning the values would be subject to change, which in turn would require the user to regularly update corelated tags."
+                            "body": "When discussing this topic we found multiple problems regarding ratings. Firstly it is difficult to access this as an uninformed person that does not do this professionally since it might require in depth game knowledge and generally a system to compare games to each other. Such a tag would simple be more difficult to tag than for example tags related to minigames or visual features. Secondly it is not guaranteed that a user would rate a game consistently at different time points, meaning the values would be subject to change, which in turn would require the user to regularly update corelated tags."
                         },
                         {
                             "type": "text",
-                            "body": "We finally concluded that it would be unreasonable to add such a tag by ourselfs, simply because we would probably rebuild rating systems that already exist from big organizations like the [USK](https://usk.de/en/) or [PEGI](https://pegi.info). We therefore shifted the focus to a technical solution: Instead of using tags we aim to add a feature to the [collacode](https://github.com/ArielMant0/collacode) application allowing it to crawl various informations about the games from said rating organizations. This would allow for updates when ratings change and would also shift the responsibility for correct data to the organizations."
+                            "body": "We finally concluded that it would be unreasonable to add such a tag by ourselves, simply because we would probably rebuild rating systems that already exist from big organizations like the [USK](https://usk.de/en/) or [PEGI](https://pegi.info). We therefore shifted the focus to a technical solution: Instead of using tags we aim to add a feature to the [collacode](https://github.com/ArielMant0/collacode) application allowing it to crawl various information about the games from said rating organizations. This would allow for updates when ratings change and would also shift the responsibility for correct data to the organizations."
                         },
                         {
                             "type": "text",
-                            "body": "Despite this we discussed whether there might be features that can and should be tagged anyway. The proposition was to reorientate the focus to gameplay relevant elements. Like this simple occurances of nudity or violence would not automatically require the related tag."
+                            "body": "Despite this we discussed whether there might be features that can and should be tagged anyway. The proposition was to re-orientate the focus to gameplay relevant elements. Like this simple occurrences of nudity or violence would not automatically require the related tag."
                         },
                         {
                             "type": "text",
-                            "body": "**welche inhalte gibt, wie ist das ins gameplay eingewoben, real oder comic, das sind sachen die aus verschiedenen bereichen kommen um aussagen treffen zu können serious, realism, slapstick.**"
+                            "body": "**Which content exists in the game and how is it contained in the gameplay. There are various areas that can influence this topic, like optics (real vs comic) or the seriousness of the game (slapstick).**"
                         },
                         {
                             "type": "text",
-                            "body": "**Since we also found relations to subtrees like #43 or #46 we opted to discuss these trees first before adding a pontential new subtree. Consequently we closed this issue and created a new issue for the next milestone.**"
+                            "body": "**Since we also found relations to subtrees like #43 or #46 we opted to discuss these trees first before adding a potential new subtree. Consequently we closed this issue and created a new issue for the next milestone.**"
                         },
                         {
                             "type": "text",
@@ -81,14 +81,14 @@
                             "body": [
                                 "Chapter | subtree",
                                 "-- | --",
-                                "4.1 Visuelle und akustische Umsetzung der Spielidee | NEU: grafikstil, realistisch, cartoon, rendered, drawn, stylised, reallife video cutscenes",
-                                "4.2. Gameplay | :no_entry_ ",
-                                "4.3. Atmosphäre | THINK ABOUT IT: aber sehr schwer, immersion, immersionsgrad, mechanics die zur immersion beitragen sollen - minimum UI, ambient sounds, ...",
-                                "4.4. Realismus | siehe grafikstil und simulation",
-                                "4.5. Glaubwürdigkeit | siehe grafikstil und simulation",
+                                "4.1 Visuelle und akustische Umsetzung der Spielidee | NEW: graphical style, realism, cartoon, rendered, drawn, stylized, reallife video cutscenes",
+                                "4.2. Gameplay | :no_entry:",
+                                "4.3. Atmosphäre | Might be worth thinking about, but would be difficult to tag. Keywords: immersion mechanics that influence immersion - minimum UI, ambient sounds, ...",
+                                "4.4. Realismus | see graphical style and simulation",
+                                "4.5. Glaubwürdigkeit | see graphical style and simulation",
                                 "4.6. Menschenähnlichkeit | we do not care",
                                 "4.7. Jugendaffinität und Identifikationspotenzial | we do not care",
-                                "4.8. Handlungsdruck | THINK ABOUT IT: pacing, zeitdruck, flow (mirror edge), kontrollverlust",
+                                "4.8. Handlungsdruck | Might be worth thinking about. Keywords: pacing, flow ([Mirror's Edge™](https://store.steampowered.com/app/17410/Mirrors_Edge/)), losing of control",
                                 "4.9. Gewalt | violence",
                                 "4.10. Krieg | TOPICs",
                                 "4.11. Angst und Bedrohung | TOPICs (gore, psycho horror, ((jump-)scares)",
@@ -103,16 +103,16 @@
                             "type": "table",
                             "caption": "PEGI ([source](https://pegi.info/de/node/59)):",
                             "body": [
-                                "Cathegory | subtree",
+                                "Category | subtree",
                                 "-- | --",
                                 "Gewalt | vgl 4.9",
                                 "Schimpfwörter | vgl 4.14 Sprache",
                                 "Angst | vgl 4.11",
-                                "Glücksspiel | als mechanic, lootboxen metamechanics / rewards",
+                                "Glücksspiel | as mechanic, lootboxen metamechanics / rewards",
                                 "Sex | vgl 4.12",
                                 "Drogen | vgl 4.15",
                                 "Diskreminierung | vgl 4.13",
-                                "Käufe im Spiel | THINK ABOUT IT: cheaten, problem solving technique, misc, SPIELPREIS - FREE TO PLAY"
+                                "Käufe im Spiel | Might be worth thinking about. Keywords: cheats, problem solving technique, misc, crawl the price of the game"
                             ]
                         }
                     ]
