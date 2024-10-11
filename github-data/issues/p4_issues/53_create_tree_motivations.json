@@ -83,170 +83,116 @@
         {
             "content": [
                 {
+                    "title": "10.07 Discussion",
                     "body": [
                         {
-                            "type": "itemize",
-                            "caption": "vorfreude, neugierde",
-                            "body": [
-                                "das spiel wird getagt, deswegen das taggen was das spiel einem gibt um einen zu triggern",
-                                "mechanics abstrahiert",
-                                "incentive before you did something",
-                                "rewards after you did something",
-                                "incentive zum abbilden von sachen die man machen kann ohne direkt rewarded zu werden (dota 2 üben)",
-                                "game gibt dir was vs ???",
-                                "intrinsische vs extrinsische",
-                                "neue struktur",
-                                [
-                                    "incentives",
-                                    "punishments",
-                                    "rewards"
-                                ],
-                                "replayability / randomness an motivation",
-                                "novelty as reward / incentive?",
-                                "reward: aktive reaktion des spiels basierend auf aktionen des spielers",
-                                "internal motivation - novelty (i feel good ...)",
-                                "randomness als mechanic",
-                                "reward",
-                                [
-                                    "progression - hat das eine Verbesserungs Konnotation?",
-                                    "upgrade",
-                                    "novelty",
-                                    "unterschiede verbesserungen vs neuen inhalt"
-                                ],
-                                "wo kommt motivation hin?",
-                                "wann tagge ich das nicht?",
-                                "abstrakte variante über bord werfen"
-                            ]
+                            "type": "text",
+                            "body": "Games generally contain content that needs to actively experienced by the player. This means, that the player for example needs to fulfill tasks or overcome challenges. Consequently the game needs to provide content that incentivizes the player to continue playing or keep going. With this tag we want to find an abstraction for mechanics that trigger such behavior."
                         },
                         {
                             "type": "itemize",
-                            "caption": "Example rewards as a game mechanic:",
+                            "caption": "Generally Motivations can be divided into three groups:",
                             "body": [
-                                "NOVELTY",
-                                "USABLE PROGRESSION (direct gameimpact)",
-                                [
-                                    "Character Properties (number go up) - new/more skills",
-                                    "More Resources (number go up)"
-                                ],
-                                "FEELGOOD",
-                                [
-                                    "performance feedback",
-                                    "Yes/No",
-                                    "Gradual",
-                                    "Comparative (Other players)",
-                                    "Highscore (number go up)",
-                                    "complete game given tasks",
-                                    "feedback das du was gut gemacht hast",
-                                    "man bekommt ja eigentlich immer ne belohnung (XP, items)",
-                                    "visual or auditory feedback (low level)",
-                                    "audio-jingle (bing)",
-                                    "Dota streak mechanic (announcer, visuals)",
-                                    "PVP ranking system",
-                                    "Dota endscreen post game board",
-                                    "leaderboard",
-                                    "competition??? – triumph, superiority (kommt nicht vom spiel)",
-                                    "comparison"
-                                ],
-                                "Puzzle Spiel Belohnungen? unlock new content",
-                                "universell einsetzbare Währung",
-                                "unterscheide puzzles vs RPGs",
-                                "[Gris](https://store.steampowered.com/app/683320/GRIS/)/antichamber vs skyrim",
-                                [
-                                    "antichamber resource ist kein reward"
-                                ]
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "antichamber",
-                            "body": [
-                                "unlock new content, level, riddles",
-                                "progression, new skill/mechanic (weapon)",
-                                "global progress tracker (overview map)"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "skyrim",
-                            "body": [
-                                "get consumables (minerals, ingredients)",
-                                "get items",
-                                "get money",
-                                "get companion",
-                                "unlock new content, new quests, new areas",
-                                "progression (continue story)",
-                                "win battles (intrinsisch), XP, Level up, character progression",
-                                "progress log (quest log) (information storage)"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "FTL",
-                            "body": [
-                                "get consumables (Treibstoff)",
-                                "get items (progression)",
-                                "get money",
-                                "get units (progression)",
-                                "unlock new content, spaceships",
-                                "win battles (intrinsisch)??",
-                                "permadeath (punishment)",
-                                "risikobereites spielen um gain zu maximieren (intrinsisch??)",
-                                "Spiel bietet Challenge / Herausforderung (intrinsisch??)"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "Dark Souls",
-                            "body": [
-                                "scheitern teil des spiels (punishment)"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "body": [
-                                "cycle length not part of motivation",
-                                "combine getter to get resources/units",
-                                "progress tracker vs progress log",
-                                [
-                                    "was fehlt noch (wege die ins nichts führen) vs was ist schon",
-                                    "progress angezeigt",
-                                    "keine vorstellung davon wie viel insgesamt existiert"
-                                ],
-                                "limit games in collacode to the N games that we all played to reduce tagging time"
-                            ]
-                        },
-                        {
-                            "type": "h4",
-                            "body": "Discussion"
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "We discussed the subtree motivation the should be defined by three main categories:",
-                            "body": [
-                                "punishments (negative consequences)",
-                                "incentives",
-                                "rewards"
-                            ]
-                        },
-                        {
-                            "type": "itemize",
-                            "caption": "How should different motivational components be distributed across the main categories and which components should be available.",
-                            "body": [
-                                "new regions to be explored",
-                                "completionist",
-                                "competition",
-                                "challenges and high skill ceiling (i.e. roguelikes)",
-                                [
-                                    "permanent death, losing stuff when death",
-                                    "adaptive difficulty",
-                                    "new game+"
-                                ],
-                                "multiple storylines"
+                                "incentive before doing something (triggers anticipation and curiosity)",
+                                "rewards after doing something",
+                                "punishments"
                             ]
                         },
                         {
                             "type": "text",
-                            "body": "Quelle: https://docs.idew.org/project-video-game/project-instructions/1-discover-and-define-problem/1.2-incentives-and-flow"
+                            "body": "Incentives usually do not directly reward the player, but the reward could be implizit or rather intrinsic for example when practicing a game in the hopes of improvement ([Dota 2](https://store.steampowered.com/app/570/Dota_2/)). Extrinsic motivations on the other hand directly reward the player with new content like better weapons or experience points. This can be understood as an active reaction of the game to what the player is doing. Finally punishments are on the opposite side, trying to either challenge the player or enforcing a certain behavior."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Other less clear motivations are randomness and novelty. While randomness is a mechanic often used to motivate playing a game multiple times, novelty is an internal motivation allowing the player to feel good when experiencing new content."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Following this we wondered whether rewards can be divided again. For the moment we came up with these options:",
+                            "body": [
+                                "progression",
+                                "upgrade",
+                                "novelty"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Unfortunately it is difficult to clearly define the differences between progression and upgrade, which both imply a type of improvement and between upgrade and novelty, since upgrades certainly imply new and unseen content."
+                        },
+                        {
+                            "type": "itemize",
+                            "h4": "Example rewards as a game mechanic",
+                            "caption": "To get a better overview across possible abstractions and what they entail we collected game features on a mechanical level.",
+                            "body": [
+                                "improve character",
+                                [
+                                    "skills",
+                                    "stats",
+                                    "resources"
+                                ],
+                                "mechanical feedback",
+                                [
+                                    "visual feedback",
+                                    [
+                                        "highlight ([Dota 2](https://store.steampowered.com/app/570/Dota_2/) streaks)",
+                                        "win/lose screen",
+                                        "progress log",
+                                        "progress tracker"
+                                    ],
+                                    "auditory feedback",
+                                    [
+                                        "audio-jingles (bing)",
+                                        "announcer ([Dota 2](https://store.steampowered.com/app/570/Dota_2/) streaks)",
+                                        "praise by NPCs"
+                                    ],
+                                    "ranking systems",
+                                    [
+                                        "leaderboard",
+                                        "post game review",
+                                        "highscores"
+                                    ],
+                                    "unlock content",
+                                    "rewards (XP, items)",
+                                    "difficulty",
+                                    [
+                                        "permanent death",
+                                        "adaptive difficulty"
+                                    ]
+                                ],
+                                "triumphant feelings (superiority)",
+                                "completionist",
+                                "multiple storylines"
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "caption": "We also iterated some games and assigned them some keywords according to the categories.",
+                            "body": [
+                                "game | progression | upgrade | novelty | incentive | punishment",
+                                "---|---|---|---|---|---",
+                                "[Antichamber](https://store.steampowered.com/app/219890/Antichamber/) | global progress tracker (overview map) | new skill/mechanic (weapon) | unlock new content, level, riddles |",
+                                "[The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) | continue story, quest log | XP, Level up, character progression | get consumables, items, money, companion | win battles",
+                                "[FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/) | get consumables, money | get items, units | unlock spaceships | win battles, maximize gain, challenging | permadeath",
+                                "[DARK SOULS™: REMASTERED](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/) | - | - | - | - | permadeath",
+                                "[Gris](https://store.steampowered.com/app/683320/GRIS/) | | | | |"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Searching for definitions related to this issue, we found a graphic that was similar to our ideas, but had some differences. Even though it was and might be helpful in the future we still were not able to pinpoint the concrete tags and categories we wanted to use moving forward."
+                        },
+                        {
+                            "type": "text",
+                            "body": "![Four motivational categories (avoid punishment, gaine rewards, avoid feeling bad, feel good)](https://docs.idew.org/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FravICxRA6w9ohbY4TZQu%2Fblobs%2Fw8V6CzujFHXYoBCXDM0V%2Finternal-external-motivations.png&width=400&dpr=2&quality=100&sign=d93f20d0&sv=1) [Quelle](https://docs.idew.org/project-video-game/project-instructions/1-discover-and-define-problem/1.2-incentives-and-flow)"
+                        },
+                        {
+                            "type": "itemize",
+                            "h3": "Open Questions",
+                            "body": [
+                                "**Clear up when which tag should be used.**",
+                                "**Where does the motivation subtree go?**",
+                                "**Add Feature to collacode that allows to limit the view to games that everyone tagged.**"
+                            ]
                         }
                     ]
                 }
