@@ -1,8 +1,8 @@
 {
     "issue": {
         "title": "🛠️ Rework subtree queue",
-        "created_at": "2024-04-16T04:10:00Z",
-        "updated_at": "2024-04-16T04:10:00Z",
+        "created_at": "2024-04-16T04:10:00+02:00",
+        "updated_at": "2024-04-16T04:10:00+02:00",
         "content": [
             {
                 "body": [
@@ -172,7 +172,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-08-12T23:59:59Z"
+            "created_at": "2024-08-12T23:59:59+02:00"
         }
     ]
 }

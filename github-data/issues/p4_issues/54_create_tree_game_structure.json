@@ -1,8 +1,8 @@
 {
     "issue": {
         "title": "🌱 Create subtree game structure",
-        "created_at": "2024-06-01T17:00:00Z",
-        "updated_at": "2024-06-01T17:00:00Z",
+        "created_at": "2024-06-01T17:00:00+02:00",
+        "updated_at": "2024-06-01T17:00:00+02:00",
         "content": [
             {
                 "body": [
@@ -139,7 +139,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-08-04T14:28:00Z"
+            "created_at": "2024-08-04T14:28:00+02:00"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "issue": {
         "title": "🔖 Discuss tag pew pew & point and click",
-        "created_at": "2024-04-14T14:30:00Z",
-        "updated_at": "2024-04-16T05:55:00Z",
-        "closed_at": "2024-04-16T05:55:00Z",
+        "created_at": "2024-04-14T14:30:00+02:00",
+        "updated_at": "2024-04-16T05:55:00+02:00",
+        "closed_at": "2024-04-16T05:55:00+02:00",
         "content": [
             {
                 "body": [
@@ -87,7 +87,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-04-15T18:05:00Z"
+            "created_at": "2024-04-15T18:05:00+02:00"
         },
         {
             "content": [
@@ -103,7 +103,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-04-16T05:55:00Z"
+            "created_at": "2024-04-16T05:55:00+02:00"
         }
     ]
 }
