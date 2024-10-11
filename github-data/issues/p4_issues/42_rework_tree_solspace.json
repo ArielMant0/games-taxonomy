@@ -35,12 +35,12 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Define solution space many (@rwarnking)",
-                            "Every shooter ever? (Call of Juarez) - Is there a connection to strategy problem?",
-                            "New Tag?: sol: none"
+                            {"state": "todo", "value": "Define solution space many (@rwarnking)"},
+                            {"state": "todo", "value": "Every shooter ever? (Call of Juarez) - Is there a connection to strategy problem?"},
+                            {"state": "todo", "value": "New Tag?: sol: none"}
                         ]
                     }
                 ]

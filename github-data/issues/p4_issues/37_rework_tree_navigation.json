@@ -23,13 +23,13 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "How to tag signs that show the way? (@HendrikBrueckler)",
-                            "markerpingundso IST DOOF (@Arielmant0)",
-                            "map overlay (text or colored areas) (@Arielmant0)",
-                            "Information Overlay (@rwarnking)"
+                            {"state": "todo", "value": "How to tag signs that show the way? (@HendrikBrueckler)"},
+                            {"state": "todo", "value": "markerpingundso IST DOOF (@Arielmant0)"},
+                            {"state": "todo", "value": "map overlay (text or colored areas) (@Arielmant0)"},
+                            {"state": "todo", "value": "Information Overlay (@rwarnking)"}
                         ]
                     }
                 ]

@@ -33,16 +33,16 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.05:",
                         "body": [
-                            "Is it defined via the level of detail?",
-                            "How relevant is realism?",
-                            "How relevant is the correctness of the simulation (numbers)?",
-                            "What is the difference to a strategy game?",
-                            "Example Prison Architect (Building game)",
-                            "Does this depend on the internal gamelogic?",
-                            "Is there a difference between how the game works and how i have to solve the problems?"
+                            {"state": "todo", "value": "Is it defined via the level of detail?"},
+                            {"state": "todo", "value": "How relevant is realism?"},
+                            {"state": "todo", "value": "How relevant is the correctness of the simulation (numbers)?"},
+                            {"state": "todo", "value": "What is the difference to a strategy game?"},
+                            {"state": "todo", "value": "Example [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/) (Building game)"},
+                            {"state": "todo", "value": "Does this depend on the internal gamelogic?"},
+                            {"state": "todo", "value": "Is there a difference between how the game works and how I have to solve the problems?"}
                         ]
                     }
                 ]

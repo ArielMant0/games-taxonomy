@@ -31,11 +31,11 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "how to proceed",
-                            "Rework pew pew since it is deprecated (@HendrikBrueckler)"
+                            {"state": "done", "value": "how to proceed"},
+                            {"state": "done", "value": "Rework pew pew since it is deprecated (@HendrikBrueckler)"}
                         ]
                     }
                 ]

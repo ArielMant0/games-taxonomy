@@ -23,28 +23,28 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            "how does last hitting in [DotA 2](https://store.steampowered.com/app/570/Dota_2/) fit into this",
-                            "how is it different from fetch quests?",
-                            "what about optional content? Untill now we tagged this when a substential part of the game is busywork",
-                            "split into multiple tags (greyscale)?",
-                            "improve differentiation between busywork and grinding!"
+                            {"state": "todo", "value": "how does last hitting in [DotA 2](https://store.steampowered.com/app/570/Dota_2/) fit into this?"},
+                            {"state": "todo", "value": "how is it different from fetch quests?"},
+                            {"state": "todo", "value": "what about optional content? Untill now we tagged this when a substential part of the game is busywork"},
+                            {"state": "todo", "value": "split into multiple tags (greyscale)?"},
+                            {"state": "todo", "value": "improve differentiation between busywork and grinding!"}
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Side Quests can be busy work but not all of them are. [Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) (@rwarnking)"
+                            {"state": "todo", "value": "Side Quests can be busy work but not all of them are. [Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) (@rwarnking)"}
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "12.05, Phase 4:",
                         "body": [
-                            "Is busywork a solving technique or a problem type?"
+                            {"state": "todo", "value": "Is busywork a solving technique or a problem type?"}
                         ]
                     }
                 ]

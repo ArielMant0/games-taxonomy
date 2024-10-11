@@ -23,10 +23,10 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Remove children of motor skills?"
+                            {"state": "todo", "value": "Remove children of motor skills?"}
                         ]
                     }
                 ]

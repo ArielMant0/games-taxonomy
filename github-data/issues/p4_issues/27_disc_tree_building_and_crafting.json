@@ -23,21 +23,21 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            "Should planning be reinstated as parent node?",
-                            "Are blueprints related to space?",
-                            "Is copypaste a blueprint (planning vs duplication)?",
-                            "Contains copy paste planning?"
+                            {"state": "todo", "value": "Should planning be reinstated as parent node?"},
+                            {"state": "todo", "value": "Are blueprints related to space?"},
+                            {"state": "todo", "value": "Is copypaste a blueprint (planning vs duplication)?"},
+                            {"state": "todo", "value": "Contains copy paste planning?"}
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Clarify _customizable_ and _preset_!",
-                            "Clarify _exploit as blueprint_ (Banished)!"
+                            {"state": "todo", "value": "Clarify _customizable_ and _preset_"},
+                            {"state": "todo", "value": "Clarify _exploit as blueprint_ (Banished)"}
                         ]
                     }
                 ]

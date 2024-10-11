@@ -27,12 +27,12 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            "should it be called AI communication",
-                            "like this it is difficult to diffirentiate between content and type",
-                            "differentiate between dialog that are import or not important for the game progress (Main-Dialog, non trivial choices, narrative choices, possibilities tag)"
+                            {"state": "todo", "value": "should it be called AI communication"},
+                            {"state": "todo", "value": "like this it is difficult to diffirentiate between content and type"},
+                            {"state": "todo", "value":  "differentiate between dialog that are import or not important for the game progress (Main-Dialog, non trivial choices, narrative choices, possibilities tag)"}
                         ]
                     }
                 ]

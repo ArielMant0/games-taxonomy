@@ -23,16 +23,16 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Different types of game object customization exist. Do payed cosmetics exist or are they identical to cosmetics? (@rwarnking)",
+                            {"state": "todo", "value": "Different types of game object customization exist. Do payed cosmetics exist or are they identical to cosmetics? (@rwarnking)"},
                             [
                                 "payed cosmetics",
                                 "cosmetics",
-                                "cosmetics with function (Freespace 2 - Spaceship, Adventure Capitalist)"
+                                "cosmetics with function ([Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) - Spaceship, [Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/))"
                             ],
-                            "What about loot and character modification? (@rwarnking)"
+                            {"state": "todo", "value": "What about loot and character modification? (@rwarnking)"}
                         ]
                     }
                 ]

@@ -23,21 +23,23 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            "How do strategy games relate to automation?",
-                            "Is it important for this feature to be a mandatory part of the game?",
-                            "How to differentiate between basic and advanced automisation?",
-                            "How to differentiate between auto assemble vs configure?",
-                            "Talk about [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) specifically!"
+                            {"state": "discarded", "value": "How do strategy games relate to automation?"},
+                            {"state": "todo", "value": "Is it important for this feature to be a mandatory part of the game?"},
+                            {"state": "discarded", "value": "How to differentiate between basic and advanced automisation?"},
+                            {"state": "done", "value": "How to differentiate between auto assemble vs configure?"},
+                            [
+                                "[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)"
+                            ]
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "What is the difference to a queue?"
+                            {"state": "todo", "value": "What is the difference to a queue?"}
                         ]
                     }
                 ]
@@ -110,10 +112,8 @@
                 {
                     "body": [
                         {
-                            "type": "itemize",
-                            "caption": "Follow up issues:",
-                            "body": [
-                            ]
+                            "type": "text",
+                            "body": "This tag was added to issue #61 after closing."
                         }
                     ]
                 }

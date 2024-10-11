@@ -23,19 +23,19 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Exploration & Scouting are very similar (@HendrikBrueckler)",
-                            "monitor resources, strategy or building games where I constantly need to monitor my resources (@Arielmant0)",
-                            "How do i collect information (text search, scouting, ...)",
-                            "remember self, explizit/implizit, Move to organize information?",
-                            "find + uncover vs uncover information",
-                            "Move predefined notes to metamechanic?",
-                            "Rename to data collection",
-                            "Parenting organize information and data collection",
-                            "guided und free open independent",
-                            "Merge ginfo: dialog und ginfo: predefined notes oder exploration"
+                            {"state": "todo", "value": "Exploration & Scouting are very similar (@HendrikBrueckler)"},
+                            {"state": "todo", "value": "monitor resources, strategy or building games where I constantly need to monitor my resources (@Arielmant0)"},
+                            {"state": "todo", "value": "How do i collect information (text search, scouting, ...)"},
+                            {"state": "todo", "value": "remember self, explizit/implizit, Move to organize information?"},
+                            {"state": "todo", "value": "find + uncover vs uncover information"},
+                            {"state": "todo", "value": "Move predefined notes to metamechanic?"},
+                            {"state": "todo", "value": "Rename to data collection"},
+                            {"state": "todo", "value": "Parenting organize information and data collection"},
+                            {"state": "todo", "value": "guided und free open independent"},
+                            {"state": "todo", "value": "Merge ginfo: dialog und ginfo: predefined notes oder exploration"}
                         ]
                     }
                 ]

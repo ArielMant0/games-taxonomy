@@ -23,21 +23,22 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            "how does communication in [Portal 2](https://store.steampowered.com/app/620/Portal_2/) work",
-                            "how does communication in [Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) work",
-                            "search for VR games with gestures",
-                            "[Journey](https://store.steampowered.com/app/638230/Journey/) motivation behind actions",
-                            "Think about limits of communication and problems like toxic behaviour?"
+                            {"state": "todo", "value": "how does communication in [Portal 2](https://store.steampowered.com/app/620/Portal_2/) work"},
+                            {"state": "todo", "value": "how does communication in [Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) work"},
+                            {"state": "todo", "value": "search for VR games with gestures"},
+                            {"state": "todo", "value": "[Journey](https://store.steampowered.com/app/638230/Journey/) motivation behind actions"},
+                            {"state": "todo", "value": "Think about limits of communication and problems like toxic behaviour?"}
+
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "move to metamechanic"
+                            {"state": "todo", "value": "move to metamechanic"}
                         ]
                     }
                 ]

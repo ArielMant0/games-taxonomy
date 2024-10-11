@@ -22,18 +22,6 @@
                         "body": "See previous issue #14 for pontentially open questions."
                     }
                 ]
-            },
-            {
-                "title": "Open questions",
-                "body": [
-                    {
-                        "type": "boxes",
-                        "caption": "15.04, Tree Iteration IV:",
-                        "body": [
-                            ""
-                        ]
-                    }
-                ]
             }
         ],
         "labels": [

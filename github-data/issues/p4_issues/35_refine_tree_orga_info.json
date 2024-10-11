@@ -23,24 +23,29 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration II:",
                         "body": [
-                            "Merge organization und organize information (@rwarnking)"
+                            {"state": "todo", "value": "Merge organization und organize information (@rwarnking)"}
                         ]
                     },
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Does _info: hide_ have multiple meanings? (@rwarnking)",
+                            {"state": "done", "value": "Does _info: hide_ have multiple meanings? (@rwarnking)"},
                             [
                                 "The player hides information or him self",
                                 "The player can withhold information.",
-                                "Examples: Among Us, Assassin's Creed, Thief, Hitman Absolution"
+                                [
+                                    "[Among Us](https://store.steampowered.com/app/945360/Among_Us/)",
+                                    "[Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/)",
+                                    "[Thief](https://store.steampowered.com/app/239160/Thief/)",
+                                    "[Hitman: Absolution™](https://store.steampowered.com/app/203140/Hitman_Absolution/)"
+                                ]
                             ],
-                            "player highlights information vs information is highlighted for the player (@rwarnking) (Bridge Constructor)",
-                            "New Tag: _info: connect_"
+                            {"state": "todo", "value": "player highlights information vs information is highlighted for the player (@rwarnking) ([Bridge Constructor](https://store.steampowered.com/app/250460/Bridge_Constructor/))"},
+                            {"state": "todo", "value": "New Tag: _info: connect_"}
                         ]
                     }
                 ]

@@ -23,10 +23,10 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "What is the difference between online co-op and online multiplayer? Can we merge them together, or is there a key difference? (@rwarnking)",
+                            {"state": "todo", "value": "What is the difference between online co-op and online multiplayer? Can we merge them together, or is there a key difference? (@rwarnking)"},
                             [
                                 "All random death match - online Multiplayer",
                                 "DotA - online Coop + online Multiplayer",

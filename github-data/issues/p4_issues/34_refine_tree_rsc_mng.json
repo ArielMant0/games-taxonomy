@@ -23,14 +23,14 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Differentiate between consumables and skills and items. (@rwarnking)",
+                            {"state": "todo", "value": "Differentiate between consumables and skills and items. (@rwarnking)"},
                             [
                                 "This originated from DotA where you have comsumable and non consumable items and skills. To clarify it might be usefull to add a clear definition and differentiation."
                             ],
-                            "New Tag?: equipment (neben skilltree) (resource management equipment, aber misc skilltree in eigene struktur) (@HendrikBrueckler)"
+                            {"state": "todo", "value": "New Tag?: equipment (neben skilltree) (resource management equipment, aber misc skilltree in eigene struktur) (@HendrikBrueckler)"}
                         ]
                     }
                 ]

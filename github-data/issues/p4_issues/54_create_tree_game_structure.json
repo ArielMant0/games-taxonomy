@@ -111,11 +111,18 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "New Tag?: open world or similar (@rwarnking)",
-                            "Analog to narrative choices, introduce choices as a game mechanic. (Assassin's Creed, Thief, Freespace 2, Hand of Fate, Kingdom Come)"
+                            {"state": "todo", "value": "New Tag?: open world or similar (@rwarnking)"},
+                            {"state": "todo", "value": "Analog to narrative choices, introduce choices as a game mechanic."},
+                            [
+                                "[Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/)",
+                                "[Thief](https://store.steampowered.com/app/239160/Thief/)",
+                                "[Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/)",
+                                "[Hand of Fate](https://store.steampowered.com/app/266510/Hand_of_Fate/)",
+                                "[Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)"
+                            ]
                         ]
                     }
                 ]

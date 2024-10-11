@@ -13,30 +13,22 @@
                 ]
             },
             {
-                "title": "Potential New Tags and Issues",
+                "title": "Open tasks and potential new issues",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "body": [
-                            "Aussichtspunkte (might be part of motivations) (@rwarnking)",
-                            "level editor (@rwarnking)",
-                            "mod support (@rwarnking)",
-                            "bonuslevel ([Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)) (Origin: #45) (@rwarnking)",
-                            "sandbox (GTA) (Origin: #45) (@rwarnking)",
-                            "arcade (Origin: #45) (@ArielMant0)"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Open tasks",
-                "body": [
-                    {
-                        "type": "boxes",
-                        "body": [
-                            "Rework point and click (input functionality)",
-                            "Revisit _accusation_ (Origin: #24)",
-                            "Revisit _contradiction_ (Origin: #33)"
+                            {"state": "todo", "value": "Rework point and click (input functionality)"},
+                            {"state": "todo", "value": "Revisit _accusation_ (Origin: #24)"},
+                            {"state": "todo", "value": "Revisit _queue_ (Origin: #25)"},
+                            {"state": "todo", "value": "Revisit _automation_ (Origin: #26)"},
+                            {"state": "todo", "value": "Revisit _contradiction_ (Origin: #33)"},
+                            {"state": "todo", "value": "Aussichtspunkte (might be part of motivations) (@rwarnking)"},
+                            {"state": "todo", "value": "level editor (@rwarnking)"},
+                            {"state": "todo", "value": "mod support (@rwarnking)"},
+                            {"state": "todo", "value": "bonuslevel ([Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)) (Origin: #45) (@rwarnking)"},
+                            {"state": "todo", "value": "sandbox (GTA) (Origin: #45) (@rwarnking)"},
+                            {"state": "todo", "value": "arcade (Origin: #45) (@ArielMant0)"}
                         ]
                     }
                 ]
@@ -45,20 +37,10 @@
                 "title": "Problems",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "body": [
-                            "can not tag Scribblenauts mechanic (ArielMant0) (problematic games)",
-                            "gamename Event[0] (@rwarnking) (technical problem)"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Open questions",
-                "body": [
-                    {
-                        "type": "boxes",
-                        "body": [
+                            {"state": "todo", "value": "can not tag Scribblenauts mechanic (ArielMant0) (problematic games)"},
+                            {"state": "todo", "value": "gamename Event[0] (@rwarnking) (technical problem)"}
                         ]
                     }
                 ]

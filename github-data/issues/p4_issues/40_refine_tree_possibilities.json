@@ -31,13 +31,13 @@
                 "title": "Open questions",
                 "body": [
                     {
-                        "type": "boxes",
+                        "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            "Merge with moralische Challenges",
-                            "Merge narrative choices & moral and emotional challenges",
-                            "Merge misleading choices & red herings",
-                            "non trivial choices & trivial choices are bad tags"
+                            {"state": "todo", "value": "Merge with moralische Challenges"},
+                            {"state": "todo", "value": "Merge narrative choices & moral and emotional challenges"},
+                            {"state": "todo", "value": "Merge misleading choices & red herings"},
+                            {"state": "todo", "value": "non trivial choices & trivial choices are bad tags"}
                         ]
                     }
                 ]
