@@ -9,12 +9,12 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Define and discuss the basics of this tag."
+                        "body": "Define and discuss the basics of these tags."
                     }
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "02.04.2024 Discussion",
                 "body": [
                     {
                         "type": "h4",
@@ -93,24 +93,10 @@
         {
             "content": [
                 {
-                    "title": "15.04 Discussion",
-                    "body": [
-                        {
-                            "type": "text",
-                            "body": ""
-                        }
-                    ]
-                }
-            ],
-            "created_at": "2024-04-15T16:55:00+02:00"
-        },
-        {
-            "content": [
-                {
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion from 15.04.2024 these Follow up issues were created:",
                             "body": [
                                 "#32",
                                 "#33"

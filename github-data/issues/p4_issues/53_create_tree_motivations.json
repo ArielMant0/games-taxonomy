@@ -8,7 +8,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Define and discuss the basics of this tag."
+                        "body": "Create this subtree and discuss basic structure."
                     },
                     {
                         "type": "itemize",
@@ -28,7 +28,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "01.06.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
@@ -83,7 +83,7 @@
         {
             "content": [
                 {
-                    "title": "10.07 Discussion",
+                    "title": "10.07.2024 Discussion",
                     "body": [
                         {
                             "type": "text",

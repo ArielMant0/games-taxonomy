@@ -9,16 +9,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Define and discuss the basics of this tag."
-                    }
-                ]
-            },
-            {
-                "title": "Discussion",
-                "body": [
-                    {
-                        "type": "text",
-                        "body": ""
+                        "body": "Create this subtree and discuss basic structure."
                     }
                 ]
             },
@@ -62,16 +53,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "title": "Example Games",
-                "body": [
-                    {
-                        "type": "itemize",
-                        "body": [
-                        ]
-                    }
-                ]
             }
         ],
         "labels": [
@@ -84,11 +65,11 @@
         {
             "content": [
                 {
-                    "title": "15.04 Discussion",
+                    "title": "15.04.2024 Discussion",
                     "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without follow up issue."
+                            "body": "This issue was closed without a follow-up issue."
                         }
                     ]
                 }

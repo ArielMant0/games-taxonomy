@@ -8,7 +8,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Define and discuss the basics of this tag."
+                        "body": "Create this subtree and discuss basic structure."
                     },
                     {
                         "type": "itemize",
@@ -28,7 +28,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "05.06.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
@@ -115,6 +115,10 @@
             "content": [
                 {
                     "body": [
+                        {
+                            "type": "h3",
+                            "body": "12.06.2024 Discussion"
+                        },
                         {
                             "type": "text",
                             "body": "We continued talking about tags that are connected to cyclic gameplay. Using a table with the different tags and which games would be tagged with, we were able to discuss in detail and find problems in definition or assignment. The replayability tag should in general indicate why a player would be interested in playing a game a second time – Why would the player want that and what changes such that that might be interesting?"
@@ -255,7 +259,7 @@
                     "body": [
                         {
                             "type": "h3",
-                            "body": "04.08 Discussion"
+                            "body": "04.08.2024 Discussion"
                         },
                         {
                             "type": "text",

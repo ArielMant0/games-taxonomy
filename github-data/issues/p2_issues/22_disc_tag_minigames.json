@@ -14,7 +14,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "14.04.2024 Discussion",
                 "body": [
                     {
                         "type": "itemize",
@@ -52,7 +52,8 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "#45"
+                            "[BioShock™](https://store.steampowered.com/app/7670/BioShock/) (logic puzzles → puzzle pieces)",
+                            "[Among Us](https://store.steampowered.com/app/945360/Among_Us/) (connect, order, remember, assign, timing, precision)"
                         ]
                     }
                 ]
@@ -65,24 +66,10 @@
         {
             "content": [
                 {
-                    "title": "15.04 Discussion",
-                    "body": [
-                        {
-                            "type": "text",
-                            "body": ""
-                        }
-                    ]
-                }
-            ],
-            "created_at": "2024-04-15T18:00:00+02:00"
-        },
-        {
-            "content": [
-                {
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion from 15.04.2024 these Follow up issues were created:",
                             "body": [
                                 "#28"
                             ]

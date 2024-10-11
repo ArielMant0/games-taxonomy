@@ -14,7 +14,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "01.04.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
@@ -99,7 +99,7 @@
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion from 15.04.2024 these Follow up issues were created:",
                             "body": [
                                 "#27"
                             ]

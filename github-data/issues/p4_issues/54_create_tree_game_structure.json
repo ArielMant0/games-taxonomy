@@ -8,7 +8,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Define and discuss the basics of this tag."
+                        "body": "Create this subtree and discuss basic structure."
                     },
                     {
                         "type": "itemize",
@@ -30,7 +30,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "01.06.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
@@ -132,6 +132,10 @@
             "content": [
                 {
                     "body": [
+                        {
+                            "type": "h3",
+                            "body": "04.08.2024 Discussion"
+                        },
                         {
                             "type": "text",
                             "body": "For now we define cyclic as 'The game is designed in a way that can be experienced to full extent only by replaying the game a large (but not concretely defined) number of times'. This should be seen mostly disconnected from concerns of replayability and motivation/incentive/rewards. We use the above list as a basis for tagging the game structure in the next tagging round and will revisit it afterwards for evaluation."

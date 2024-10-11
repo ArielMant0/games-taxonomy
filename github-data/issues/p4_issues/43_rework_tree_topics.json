@@ -8,7 +8,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "Follow up issue: Answer open questions and check definition again."
+                        "body": "Follow up issue: Rework this subtree."
                     },
                     {
                         "type": "itemize",
@@ -20,7 +20,7 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "12.05.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
@@ -129,7 +129,7 @@
         {
             "content": [
                 {
-                    "title": "30.09 Discussion",
+                    "title": "30.09.2024 Discussion",
                     "body": [
                         {
                             "type": "text",

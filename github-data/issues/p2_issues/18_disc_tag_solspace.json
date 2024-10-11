@@ -25,11 +25,11 @@
                 ]
             },
             {
-                "title": "Discussion",
+                "title": "14.04.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
-                        "body": ""
+                        "body": "When discussing problem solving techniques the _solutionspace_ was first mentioned. We agreed to introduce it to the tree without discussing it in depth."
                     }
                 ]
             },
@@ -67,24 +67,10 @@
         {
             "content": [
                 {
-                    "title": "15.04 Discussion",
-                    "body": [
-                        {
-                            "type": "text",
-                            "body": ""
-                        }
-                    ]
-                }
-            ],
-            "created_at": "2024-04-15T17:40:00+02:00"
-        },
-        {
-            "content": [
-                {
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion from 15.04.2024 these Follow up issues were created:",
                             "body": [
                                 "#42"
                             ]
