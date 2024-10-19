@@ -18,7 +18,7 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "In the discussion for another tag we found that it might be interesting to introduce information about taget groups for example in terms of age. This resulted in us adding a dummy tag _usk 18_ such that we could revisit this later on."
+                        "body": "In the discussion for another tag we found that it might be interesting to introduce information about target groups for example in terms of age. This resulted in us adding a dummy tag _usk 18_ such that we could revisit this later on."
                     }
                 ]
             },
@@ -29,7 +29,7 @@
                         "type": "itemize",
                         "body": [
                             "(12.05, Phase 4) Add new tag _usk 18_ to _misc_",
-                            "(27.05, Phase 4) Remove tag _usk 18_"
+                            "(25.07, Phase 4) Remove tag _usk 18_"
                         ]
                     }
                 ]

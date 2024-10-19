@@ -3,6 +3,7 @@
         "title": "🌳 Discuss subtree violence",
         "created_at": "2024-04-16T05:55:00+02:00",
         "updated_at": "2024-04-16T05:55:00+02:00",
+        "closed_at": "2024-09-30T23:16:00+02:00",
         "content": [
             {
                 "body": [
@@ -23,6 +24,19 @@
                         "body": [
                             "#43",
                             "#52"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(30.09, Phase 4) Appended _vio: enact_ from _violence_ to _problem solving techniques_",
+                            "(30.09, Phase 4) Remove tag _vio: experience_ from _violence_",
+                            "(30.09, Phase 4) Remove tag _violence_ from _topics_"
                         ]
                     }
                 ]
@@ -68,22 +82,20 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T05:05:00+02:00"
+            "created_at": "2024-09-30T22:00:00+02:00"
         },
         {
             "content": [
                 {
                     "body": [
                         {
-                            "type": "itemize",
-                            "caption": "Follow up issues:",
-                            "body": [
-                            ]
+                            "type": "text",
+                            "body": "This tag was added to issue #61 after closing."
                         }
                     ]
                 }
             ],
-            "created_at": "2024-09-30T04:05:00+02:00"
+            "created_at": "2024-09-30T23:15:00+02:00"
         }
     ]
 }

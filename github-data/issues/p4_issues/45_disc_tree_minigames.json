@@ -24,6 +24,18 @@
                         "body": [
                             "#54"
                         ]
+                    },
+                    {
+                        "title": "Related Changes",
+                        "body": [
+                            {
+                                "type": "itemize",
+                                "body": [
+                                    "(04.08, Phase 4) Add new tag _mini: luck_ to _minigames_",
+                                    "(04.08, Phase 4) Add new tag _mini: strategy_ to _minigames_"
+                                ]
+                            }
+                        ]
                     }
                 ]
             }

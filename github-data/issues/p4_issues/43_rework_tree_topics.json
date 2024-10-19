@@ -99,7 +99,14 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(12.05, Phase 4) Appended _topics_ from _problem types_ to _metamechanics_"
+                            "(12.05, Phase 4) Appended _topics_ from _problem types_ to _metamechanics_",
+                            "(30.09, Phase 4) Add new tags _top: conflict_, _top: supernatural phenomena_, _top: metaphysics_, _top: ethics_, _top: forms of life_ to _topics_",
+                            "(30.09, Phase 4) Add new tags _top: violence_, _top: war_, _top: conquest_, _top: colonialization_, _top: power struggle_ to _top: conflict_",
+                            "(30.09, Phase 4) Add new tags _top: time travel_, _top: magic_ to _top: supernatural phenomena_",
+                            "(30.09, Phase 4) Add new tag _top: ?_ to _top: metaphysics_",
+                            "(30.09, Phase 4) Add new tags _top: family_, _top: religion_, _top: racism_, _top: sexism_, _top: discrimination_, _top: friendship_, _top: romance_, top: economy_, _top: settlement_, _top: machine intelligence_, _top: free will_ to _top: ethics_",
+                            "(30.09, Phase 4) Add new tags _top: gods_, _top: synthetic life_, _top: monsters_, _top: creatures_, _top: aliens_, _top: plants_, _top: ecosystems_ to _top: forms of life_"
+
                         ]
                     }
                 ]
@@ -133,7 +140,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Since we discussed the violence tags shortly before we opted to discuss the categories of the new found topics/themes tags. Here multiple terms are very similar in terms of content, consequently requiring abstractions."
+                            "body": "Since we discussed the violence tags shortly before we opted to discuss the categories of the new found topics/themes tags (see issue #49). Here multiple terms are very similar in terms of content, consequently requiring abstractions."
                         },
                         {
                             "type": "text",
@@ -240,7 +247,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T05:05:00+02:00"
+            "created_at": "2024-09-30T22:10:00+02:00"
         },
         {
             "content": [
@@ -255,7 +262,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T04:05:00+02:00"
+            "created_at": "2024-09-30T23:20:00+02:00"
         }
     ]
 }

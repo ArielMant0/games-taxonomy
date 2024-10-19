@@ -3,6 +3,7 @@
         "title": "⚔️ Judge tag contradiction",
         "created_at": "2024-04-16T04:50:00+02:00",
         "updated_at": "2024-04-16T04:50:00+02:00",
+        "closed_at": "2024-09-30T23:11:00+02:00",
         "content": [
             {
                 "body": [
@@ -30,8 +31,21 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Rework can find contradictions"},
-                            {"state": "todo", "value": "Rework has contradictions"}
+                            {"state": "discarded", "value": "Rework can find contradictions"},
+                            {"state": "discarded", "value": "Rework has contradictions"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(30.09, Phase 4) Remove tag _can find contradictions_ from misc",
+                            "(30.09, Phase 4) Remove tag _has contradictions_ from misc",
+                            "(30.09, Phase 4) Remove tag _contradictions_ from topics"
                         ]
                     }
                 ]
@@ -97,7 +111,7 @@
                                 "the exclusion principle is part of _logic puzzles_",
                                 "_contradiction_ is related to _deduction_ or logical deduction",
                                 "finding inconsistencies might need to be added, but could be part of _gather information_",
-                                "detect lies might be a mechanic that needs to be added - detective work is underrepresented in  mechanics tree",
+                                "detect lies might be a mechanic that needs to be added - detective work is underrepresented in mechanics tree",
                                 "also depends on the definition of _apply rules_ → rework",
                                 "manual type of data analysis",
                                 "_contradiction_ can be part of _narrative branches_, when NPCs lie (semantic)"
@@ -106,7 +120,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T16:20:00+02:00"
+            "created_at": "2024-09-30T21:50:00+02:00"
         },
         {
             "content": [
@@ -119,7 +133,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T04:05:00+02:00"
+            "created_at": "2024-09-30T23:10:00+02:00"
         }
     ]
 }
