@@ -39,7 +39,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            {"state": "todo", "value": "can not tag Scribblenauts mechanic (ArielMant0) (problematic games)"},
+                            {"state": "todo", "value": "can not tag Scribblenauts mechanic (@ArielMant0) (problematic games)"},
                             {"state": "todo", "value": "gamename Event[0] (@rwarnking) (technical problem)"}
                         ]
                     }

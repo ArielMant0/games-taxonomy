@@ -208,16 +208,16 @@
                         },
                         {
                             "type": "text",
-                            "body": "Since emotional or moral events are not a challenge these will not be part of the personal challenges tree. Instead a new category for emotional events will be created. For an emotional event to be a challenge the event is required to force an input or action from the player (i.e. Bioshock, killing little sisters). These tags are for emotional taxing scenes or narratives that can not be controlled. Similarly to the personal challenges these tags are also subjective and may vary across different players."
+                            "body": "Since emotional or moral events are not a challenge these will not be part of the personal challenges tree. Instead a new category for emotional events will be created. For an emotional event to be a challenge the event is required to force an input or action from the player (e.g. [BioShock™](https://store.steampowered.com/app/7670/BioShock/), killing little sisters). These tags are for emotional taxing scenes or narratives that can not be controlled. Similarly to the personal challenges these tags are also subjective and may vary across different players."
                         },
                         {
                             "type": "itemize",
                             "caption": "Emotional Events:",
                             "body": [
-                                "plot twists (Bioshock)",
+                                "plot twists ([BioShock™](https://store.steampowered.com/app/7670/BioShock/))",
                                 "humoristic events → aufdröseln, da humor auch emotional\n suspenseful, sims (entspannend)",
                                 "loss, sadness, grief",
-                                "Krieg, death, aging, ..."
+                                "war, death, aging, ..."
                             ]
                         },
                         {
@@ -243,7 +243,7 @@
                             "body": [
                                 "Revisit and checkup",
                                 [
-                                    "Games like Among us",
+                                    "Games like [Among Us](https://store.steampowered.com/app/945360/Among_Us/)",
                                     "emotional and moral challenges"
                                 ]
                             ]
@@ -262,17 +262,17 @@
                                 "Use *time spend* as part of the definition – *The player should use most of the game time doing X* (22.05) [01.06]",
                                 [
                                     "mini, medium and main component (problem type) with mini being minigames",
-                                    "This might allow to differentiate between games like Adventure Capitalist, Banner Saga and Starcraft → in Adventure Capitalist you will be waiting most of the time, while in Starcraft you need to continuously play strategically"
+                                    "This might allow to differentiate between games like [Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/), [The Banner Saga](https://store.steampowered.com/app/237990/The_Banner_Saga/) and [StarCraft](https://en.wikipedia.org/wiki/StarCraft) → in [Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/) you will be waiting most of the time, while in [StarCraft](https://en.wikipedia.org/wiki/StarCraft) you need to continuously play strategically"
                                 ],
                                 "Are there challenge less games or todo-tags? (22.05) [01.06]",
                                 "Games that provide an explorative narrative but nothing else. (12.05) [01.06]",
                                 [
-                                    "Dear Esther (Walking Simulator)",
+                                    "[Dear Esther](https://store.steampowered.com/app/520720/Dear_Esther_Landmark_Edition/) (Walking Simulator)",
                                     "Sol: Discovery"
                                 ],
                                 "challenge less games? (12.05) [01.06]",
                                 [
-                                    "Adventure Capitalist (Cooky Clicker)"
+                                    "[Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/) (Cooky Clicker)"
                                 ],
                                 "problem types",
                                 [

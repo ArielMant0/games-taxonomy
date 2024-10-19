@@ -28,7 +28,7 @@
                         "body": [
                             {"state": "todo", "value": "Differentiate between consumables and skills and items. (@rwarnking)"},
                             [
-                                "This originated from DotA where you have comsumable and non consumable items and skills. To clarify it might be usefull to add a clear definition and differentiation."
+                                "This originated from [Dota 2](https://store.steampowered.com/app/570/Dota_2/) where you have comsumable and non consumable items and skills. To clarify it might be usefull to add a clear definition and differentiation."
                             ],
                             {"state": "todo", "value": "New Tag?: equipment (neben skilltree) (resource management equipment, aber misc skilltree in eigene struktur) (@HendrikBrueckler)"}
                         ]
