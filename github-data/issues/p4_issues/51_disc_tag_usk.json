@@ -146,7 +146,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without further issues. An implementation issue was added to the collacode project: ."
+                            "body": "Issue was closed without further issues. An implementation issue was added to the collacode project: [collacode Issue 52](https://github.com/ArielMant0/collacode/issues/52)."
                         }
                     ]
                 }

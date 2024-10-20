@@ -1,6 +1,6 @@
 {
     "issue": {
-        "title": "🔖 Discuss tagging USK",
+        "title": "🔖 Discuss tagging emotions",
         "created_at": "2024-07-25T23:59:00+02:00",
         "updated_at": "2024-07-25T23:59:00+02:00",
         "content": [
@@ -14,17 +14,16 @@
                         "type": "itemize",
                         "caption": "Previous Issues:",
                         "body": [
-                            "#51"
                         ]
                     }
                 ]
             },
             {
-                "title": "25.07.2024 Discussion",
+                "title": "??.??.2024 Discussion",
                 "body": [
                     {
                         "type": "text",
-                        "body": "In the previous issue we discussed the addition of usk related tags. Consequently we shorty talked about the main attributes that USK and PEGI use for their ratings. We concluded that the taxomony already contains similar features (#43, #46) which should be finished before additional tags are added, while the ratings would either be ignored or crawled by the tool."
+                        "body": ""
                     }
                 ]
             },
