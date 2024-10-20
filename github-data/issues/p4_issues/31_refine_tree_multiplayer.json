@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree multiplayer",
         "created_at": "2024-04-16T04:40:00+02:00",
         "updated_at": "2024-04-16T04:40:00+02:00",
+        "closed_at": "2024-10-15T16:54:00+02:00",
         "content": [
             {
                 "body": [
@@ -20,13 +21,28 @@
                 ]
             },
             {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(16.10, Phase 4) Remove _online coop_ from _coop_",
+                            "(16.10, Phase 4) Move _couch coop_ from _coop_ to _multiplayer_",
+                            "(16.10, Phase 4) Move _local coop_ from _coop_ to _multiplayer_",
+                            "(16.10, Phase 4) Remove _coop_ from _multiplayer_",
+                            "(16.10, Phase 4) Move _multiplayer_ from _metamechanics_ to _mechanics_"
+                        ]
+                    }
+                ]
+            },
+            {
                 "title": "Open questions",
                 "body": [
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "What is the difference between online co-op and online multiplayer? Can we merge them together, or is there a key difference? (@rwarnking)"},
+                            {"state": "done", "value": "What is the difference between online co-op and online multiplayer? Can we merge them together, or is there a key difference? (@rwarnking)"},
                             [
                                 "All random death match - online Multiplayer",
                                 "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) - online Coop + online Multiplayer",
@@ -46,5 +62,23 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We decided that _online coop_ can not be differentiated from _online multiplayer_. Therefore we removed it from the tree. Following this we also removed the parent to clean up. Finally we moved the subtree to _mechanics_."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Issue was closed without follow up issue."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T16:54:00+02:00"
+        }
     ]
 }

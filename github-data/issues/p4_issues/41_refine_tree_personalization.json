@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree personalization",
         "created_at": "2024-04-16T05:30:00+02:00",
         "updated_at": "2024-04-16T05:30:00+02:00",
+        "closed_at": "2024-10-18T09:42:00+02:00",
         "content": [
             {
                 "body": [
@@ -26,13 +27,13 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Different types of game object customization exist. Do payed cosmetics exist or are they identical to cosmetics? (@rwarnking)"},
+                            {"state": "discarded", "value": "Different types of game object customization exist. Do payed cosmetics exist or are they identical to cosmetics? (@rwarnking)"},
                             [
                                 "payed cosmetics",
                                 "cosmetics",
                                 "cosmetics with function ([Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) - Spaceship, [Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/))"
                             ],
-                            {"state": "todo", "value": "What about loot and character modification? (@rwarnking)"}
+                            {"state": "discarded", "value": "What about loot and character modification? (@rwarnking)"}
                         ]
                     }
                 ]
@@ -45,5 +46,18 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "This tag was added to issue #61 after closing."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T09:42:00+02:00"
+        }
     ]
 }

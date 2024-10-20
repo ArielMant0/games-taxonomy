@@ -41,6 +41,19 @@
                         ]
                     }
                 ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(17.10, Phase 4) Rename _apply rules_ to _apply abstract rules_",
+                            "(17.10, Phase 4) Move _physics_ to _reasoning_",
+                            "(17.10, Phase 4) Rename _physics_ to _apply physics_"
+                        ]
+                    }
+                ]
             }
         ],
         "labels": [

@@ -3,6 +3,7 @@
         "title": "🛠️ Rework subtree camera perspective",
         "created_at": "2024-05-07T21:00:00+02:00",
         "updated_at": "2024-05-07T21:00:00+02:00",
+        "closed_at": "2024-10-18T20:21:00+02:00",
         "content": [
             {
                 "body": [
@@ -152,5 +153,24 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We decided to exclude this tree from the next phase since it is not suffiently developed but also is most likely not relevant for externalization since it is a mostly mechanical feature."
+                        },
+                        {
+                            "caption": "Based on this discussion these Follow up issues were created:",
+                            "body": [
+                                "#63"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T20:21:00+02:00"
+        }
     ]
 }

@@ -3,6 +3,7 @@
         "title": "🛠️ Rework subtree motorskills",
         "created_at": "2024-04-16T05:45:00+02:00",
         "updated_at": "2024-04-16T05:45:00+02:00",
+        "closed_at": "2024-10-18T22:20:00+02:00",
         "content": [
             {
                 "body": [
@@ -26,7 +27,24 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Remove children of motor skills?"}
+                            {"state": "done", "value": "Remove children of motor skills?"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(18.10, Phase 4) Remove tag _aim_ from _spactial precision_",
+                            "(18.10, Phase 4) Remove tag _move_ from _spactial precision_",
+                            "(18.10, Phase 4) Remove tag _comboing_ from _temporal precision_",
+                            "(18.10, Phase 4) Remove tag _rhythm_ from _temporal precision_",
+                            "(18.10, Phase 4) Remove tag _spatial precision_ from _motor skills_",
+                            "(18.10, Phase 4) Remove tag _temporal precision_ from _motor skills_",
+                            "(18.10, Phase 4) Remove tag _motor skills_ from _metamechanics_"
                         ]
                     }
                 ]
@@ -39,5 +57,22 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "This subtree was deleted."
+                        },
+                        {
+                            "type": "text",
+                            "body": "This tag was added to issue #61 after closing."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T22:20:00+02:00"
+        }
     ]
 }

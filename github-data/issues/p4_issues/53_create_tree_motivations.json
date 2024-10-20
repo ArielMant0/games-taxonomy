@@ -3,6 +3,7 @@
         "title": "🌱 Create subtree motivations",
         "created_at": "2024-06-01T16:00:00+02:00",
         "updated_at": "2024-06-01T16:00:00+02:00",
+        "closed_at": "2024-10-18T20:48:00+02:00",
         "content": [
             {
                 "body": [
@@ -66,7 +67,12 @@
                         "type": "itemize",
                         "body": [
                             "(05.06, Phase 4) Add new tag _motivation_ to _metamechanics_",
-                            "(05.06, Phase 4) Add new tags _punishments_, _incentives_, _rewards_ to _motivation_"
+                            "(05.06, Phase 4) Add new tags _punishments_, _incentives_, _rewards_ to _motivation_",
+
+                            "(18.10, Phase 4) Remove _incentives_ from _motivations_",
+                            "(18.10, Phase 4) Remove _punishments_ from _motivations_",
+                            "(18.10, Phase 4) Remove _rewards_ from _motivations_",
+                            "(18.10, Phase 4) Remove _motivations_ from _form_"
                         ]
                     }
                 ]
@@ -198,6 +204,21 @@
                 }
             ],
             "created_at": "2024-07-10T23:59:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Follow up issues:",
+                            "body": [
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T20:48:00+02:00"
         }
     ]
 }

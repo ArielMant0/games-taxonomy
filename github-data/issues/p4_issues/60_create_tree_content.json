@@ -38,7 +38,13 @@
                             "(07.08, Phase 4) Move _game over condition_ from _metamechanics_ to _form_",
                             "(07.08, Phase 4) Move _minigames_ from _metamechanics_ to _problem solving_",
                             "(07.08, Phase 4) Move _solution space_ from _metamechanics_ to _form_",
-                            "(07.08, Phase 4) Move _motivation_ from _metamechanics_ to _form_"
+                            "(07.08, Phase 4) Move _motivation_ from _metamechanics_ to _form_",
+
+                            "(16.10, Phase 4) Remove _themes_ from _content and substance_",
+                            "(16.10, Phase 4) Add new tag _what you do_ to _content and substance_",
+                            "(16.10, Phase 4) Move from _topics_ to _what you do_",
+
+                            "(18.10, Phase 4) Remove _random components_, _point and click_ from _misc_"
                         ]
                     }
                 ]

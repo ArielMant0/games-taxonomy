@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree resource management",
         "created_at": "2024-04-16T04:55:00+02:00",
         "updated_at": "2024-04-16T04:55:00+02:00",
+        "closed_at": "2024-10-16T20:25:00+02:00",
         "content": [
             {
                 "body": [
@@ -20,17 +21,29 @@
                 ]
             },
             {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(16.10, Phase 4) Rename _mng: skills and items_ to _mng: skills_",
+                            "(16.10, Phase 4) Add new tags _mng: items_, _mng: inventory_ to _resource management_"
+                        ]
+                    }
+                ]
+            },
+            {
                 "title": "Open questions",
                 "body": [
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Differentiate between consumables and skills and items. (@rwarnking)"},
+                            {"state": "discarded", "value": "Differentiate between consumables and skills and items. (@rwarnking)"},
                             [
                                 "This originated from [Dota 2](https://store.steampowered.com/app/570/Dota_2/) where you have comsumable and non consumable items and skills. To clarify it might be usefull to add a clear definition and differentiation."
                             ],
-                            {"state": "todo", "value": "New Tag?: equipment (neben skilltree) (resource management equipment, aber misc skilltree in eigene struktur) (@HendrikBrueckler)"}
+                            {"state": "discarded", "value": "New Tag?: equipment (neben skilltree) (resource management equipment, aber misc skilltree in eigene struktur) (@HendrikBrueckler)"}
                         ]
                     }
                 ]
@@ -43,5 +56,23 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "16.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We decided to add _mng: materials_ to account for games in which the player uses resorces to obtain persitant gain. This does for example include building games in which resouces are used to buy or build buildings. We also decided to split _mng: skills and items_ into two seperate tags and add a tag for managing inventory space."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Issue was closed without follow up issue."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:25:00+02:00"
+        }
     ]
 }

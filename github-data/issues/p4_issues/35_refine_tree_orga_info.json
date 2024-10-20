@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree organize information",
         "created_at": "2024-04-16T05:00:00+02:00",
         "updated_at": "2024-08-11T18:34:00+02:00",
+        "closed_at": "2024-10-16T19:23:00+02:00",
         "content": [
             {
                 "body": [
@@ -20,13 +21,29 @@
                 ]
             },
             {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(30.09, Phase 4) Add new tag _mechanics: stealth_ to mechanics",
+                            "(16.10, Phase 4) Rename _organization_ to _information_",
+                            "(16.10, Phase 4) Rename _info: hide_ to _info: show/hide_",
+                            "(16.10, Phase 4) Rename _info: tag_ to _info: mark/tag_",
+                            "(16.10, Phase 4) Move _info: highlight_ from _organize information_ to _mechanics_",
+                            "(16.10, Phase 4) Rename _info: highlight_ to _mechanics: highlight_"
+                        ]
+                    }
+                ]
+            },
+            {
                 "title": "Open questions",
                 "body": [
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration II:",
                         "body": [
-                            {"state": "todo", "value": "Merge organization und organize information (@rwarnking)"}
+                            {"state": "done", "value": "Merge organization und organize information (@rwarnking)"},
                         ]
                     },
                     {
@@ -44,8 +61,11 @@
                                     "[Hitman: Absolution™](https://store.steampowered.com/app/203140/Hitman_Absolution/)"
                                 ]
                             ],
-                            {"state": "todo", "value": "player highlights information vs information is highlighted for the player (@rwarnking) ([Bridge Constructor](https://store.steampowered.com/app/250460/Bridge_Constructor/))"},
-                            {"state": "todo", "value": "New Tag: _info: connect_"}
+                            {"state": "done", "value": "player highlights information vs information is highlighted for the player (@rwarnking) ([Bridge Constructor](https://store.steampowered.com/app/250460/Bridge_Constructor/))"},
+                            [
+                                "See discussion: 16.10.2024"
+                            ],
+                            {"state": "done", "value": "New Tag: _info: connect_"}
                         ]
                     }
                 ]
@@ -131,6 +151,48 @@
                 }
             ],
             "created_at": "2024-08-12T23:29:59+02:00"
+        },
+        {
+            "content": [
+                {
+                    "title": "16.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "When discussing info: highlight we found that it is difficult to differentiate between varyious highlights, especially since almost all games have some form of highlights, with different purposes."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "We discussed some examples:",
+                            "body": [
+                                "[Dota 2](https://store.steampowered.com/app/570/Dota_2/) - hovering a creep.",
+                                "[Papers Please](https://store.steampowered.com/app/239030/Papers_Please/) - clicking on personal details",
+                                "[Bridge Constructor](https://store.steampowered.com/app/250460/Bridge_Constructor/) - clicking on components",
+                                "RPGs - item highlight",
+                                "highlighting something by encircling it"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "In most cases highlighting is done by the game. The player might choose what should be highlighted, involving an intention, but the process itself is done by the game. This made us reclassify this tag as a mechanic. Further differentiation was difficult and since the mechanical part of highlighting is not that important for externatlization we chose to postpone this discussion. Further discussion revealed, that manual highlights of information can also be seen as part of _info: tag_, since this is very similar to marking the information. This lead to us renaming _info: tag_ to _info: mark/tag_. Finally we found that _info: hide_ is also incomplete, since it should include showing information. Therefore we renamed this tag to _info: show/hide_."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T19:21:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "This tag was added to issue #61 after closing."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T19:23:00+02:00"
         }
     ]
 }

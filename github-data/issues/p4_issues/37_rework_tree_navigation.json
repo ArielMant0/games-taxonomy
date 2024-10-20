@@ -3,6 +3,7 @@
         "title": "🛠️ Rework subtree spatial navigation",
         "created_at": "2024-04-16T05:10:00+02:00",
         "updated_at": "2024-04-16T05:10:00+02:00",
+        "closed_at": "2024-10-17T13:54:00+02:00",
         "content": [
             {
                 "body": [
@@ -33,6 +34,18 @@
                         ]
                     }
                 ]
+            },
+            {
+                "title": "Related Changes",
+                "body": [
+                    {
+                        "type": "itemize",
+                        "body": [
+                            "(17.10, Phase 4) Add new tags _spn: sonstige_, _spn: ping_ to _spactial navigation_",
+                            "(17.10, Phase 4) Rename _markerpingundso_ to _marker_"
+                        ]
+                    }
+                ]
             }
         ],
         "labels": [
@@ -57,6 +70,19 @@
                 }
             ],
             "created_at": "2024-05-07T21:00:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "TODO This tag was added to issue #61 after closing."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-17T13:54:00+02:00"
         }
     ]
 }

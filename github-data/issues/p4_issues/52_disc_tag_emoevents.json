@@ -64,7 +64,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "Finally both the tagging of emotions as topics and the felt emotions were moved to a new issue and the discussion was postponed until the next phase."
+                            "body": "Finally both the tagging of emotions as topics and the felt emotions were moved to a new issue and the discussion was postponed until phase 6."
                         }
                     ]
                 }
@@ -79,6 +79,7 @@
                             "type": "itemize",
                             "caption": "Follow up issues:",
                             "body": [
+                                "#57"
                             ]
                         }
                     ]

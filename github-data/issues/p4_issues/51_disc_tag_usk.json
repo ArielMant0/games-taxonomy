@@ -114,6 +114,10 @@
                                 "Diskreminierung | vgl 4.13",
                                 "Käufe im Spiel | Might be worth thinking about. Keywords: cheats, problem solving technique, misc, crawl the price of the game"
                             ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "We concluded that the taxomony already contains similar features (#43, #46) which should be finished before additional tags are added, while the ratings would either be ignored or crawled by the tool."
                         }
                     ]
                 }
@@ -130,6 +134,19 @@
                             "body": [
                                 "#57"
                             ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-25T23:02:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Issue was closed without further issues. An implementation issue was added to the collacode project: ."
                         }
                     ]
                 }
