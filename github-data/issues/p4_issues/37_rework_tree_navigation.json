@@ -27,10 +27,12 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "How to tag signs that show the way? (@HendrikBrueckler)"},
-                            {"state": "todo", "value": "markerpingundso IST DOOF (@Arielmant0)"},
-                            {"state": "todo", "value": "map overlay (text or colored areas) (@Arielmant0)"},
-                            {"state": "todo", "value": "Information Overlay (@rwarnking)"}
+                            {"state": "done", "value": "How to tag signs that show the way? (@HendrikBrueckler)"},
+                            {"state": "done", "value": "markerpingundso IST DOOF (@Arielmant0)"},
+                            {"state": "done", "value": "map or information overlay (text or colored areas) (@Arielmant0)"},
+                            [
+                                "is not related to _spatial navigation_, see #35 (17.10.2024)"
+                            ]
                         ]
                     }
                 ]
@@ -41,7 +43,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(17.10, Phase 4) Add new tags _spn: sonstige_, _spn: ping_ to _spactial navigation_",
+                            "(17.10, Phase 4) Add new tags _spn: other_, _spn: ping_ to _spactial navigation_",
                             "(17.10, Phase 4) Rename _markerpingundso_ to _marker_"
                         ]
                     }
@@ -74,10 +76,39 @@
         {
             "content": [
                 {
+                    "title": "17.10.2024 Discussion",
                     "body": [
                         {
                             "type": "text",
-                            "body": "TODO This tag was added to issue #61 after closing."
+                            "body": "We discussed the open questions to clean up this subtree."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Generally the _spatial navigation_ subtree differentiates between features that are related to an ingame map like _placeable symbols_ and GUI features that indicate a direction or way inside the gameworld. Both options can not be used for inworld objects like _signs_ that also indicate a direction but without the use of the GUI. Even though the difference might be minial these are differently designed features, since such signs are static and do not react to the players actions. To allow representing this we for now added the tag _sp: other_ such that special cases can be looked at in the future."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Furthermore we discussed _markerpingundso_. We were not sure how well it fits in this subtree, but decided to keep it for another iteration and only split both components, such that it can be tagged more easily. One instance where this tag would be relevant is [Mass Effect™ Legendary Edition](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/) were NPC can be positioned and there target is indicated using a location marker. This would need to be discussed further."
+                        },
+                        {
+                            "type": "text",
+                            "body": "This discussion also sparked some ideas regarding _mechanics_ like overlays and read/unread features in logbooks. Some tags were added which are documented in #35."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-17T13:53:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Based on the discussion of the 17.10.2024 this issue was closed. These Follow up issues were created:",
+                            "body": [
+                                "#65"
+                            ]
                         }
                     ]
                 }

@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree repetition",
         "created_at": "2024-04-16T04:25:00+02:00",
         "updated_at": "2024-04-16T04:25:00+02:00",
+        "closed_at": "2024-10-15T16:28:00+02:00",
         "content": [
             {
                 "body": [
@@ -26,25 +27,42 @@
                         "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            {"state": "todo", "value": "how does last hitting in [DotA 2](https://store.steampowered.com/app/570/Dota_2/) fit into this?"},
-                            {"state": "todo", "value": "how is it different from fetch quests?"},
-                            {"state": "todo", "value": "what about optional content? Untill now we tagged this when a substential part of the game is busywork"},
-                            {"state": "todo", "value": "split into multiple tags (greyscale)?"},
-                            {"state": "todo", "value": "improve differentiation between busywork and grinding!"}
+                            {"state": "done", "value": "how does last hitting in [DotA 2](https://store.steampowered.com/app/570/Dota_2/) fit into this?"},
+                            [
+                                "[DotA 2](https://store.steampowered.com/app/570/Dota_2/) is grinding and not busywork (15.10.2024)"
+                            ],
+                            {"state": "discarded", "value": "how is it different from fetch quests?"},
+                            {"state": "discarded", "value": "what about optional content? Untill now we tagged this when a substential part of the game is busywork"},
+                            [
+                                "busywork is a personal challenge therefore it is not relevant whether it is substential (15.10.2024)"
+                            ],
+                            {"state": "discarded", "value": "split into multiple tags (greyscale)?"},
+                            {"state": "done", "value": "improve differentiation between busywork and grinding!"},
+                            [
+                                "busywork is given by the game via tasks",
+                                "grinding is player driven for example to improve playercharacter (not required by game)",
+                                "(15.10.2024)"
+                            ]
                         ]
                     },
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Side Quests can be busy work but not all of them are. [Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) (@rwarnking)"}
+                            {"state": "discarded", "value": "Side Quests can be busy work but not all of them are. [Assassin's Creed™: Director's Cut Edition](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) (@rwarnking)"},
+                            [
+                                "Added sidequests as potentially new tag to #61."
+                            ]
                         ]
                     },
                     {
                         "type": "itemize",
                         "caption": "12.05, Phase 4:",
                         "body": [
-                            {"state": "todo", "value": "Is busywork a solving technique or a problem type?"}
+                            {"state": "done", "value": "Is busywork a solving technique or a problem type?"},
+                            [
+                                "See discussion 15.10.2024."
+                            ]
                         ]
                     }
                 ]
@@ -57,5 +75,39 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Busywork can not be a problem solving technique since this implies intent to solve a problem. Like choosing a technique to solve a task, but these cases are already captured by the other repetition tags e.g. grinding when improving the game character."
+                        },
+                        {
+                            "type": "text",
+                            "body": "But busywork is most likely also not a problem type, since it is questionable whether games are designed to be busywork. This could mean that a busywork is only a personal challenge, which depends on the impression the game gives the player."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T16:27:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Based on the discussion of the 15.10.2024 this issue was closed. These Follow up issues were created:",
+                            "body": [
+                                "#63"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T16:28:00+02:00"
+        }
     ]
 }

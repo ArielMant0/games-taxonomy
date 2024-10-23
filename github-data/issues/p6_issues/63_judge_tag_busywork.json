@@ -1,20 +1,20 @@
 {
     "issue": {
-        "title": "🔖 Discuss tagging gameception",
-        "created_at": "2024-08-07T23:12:00+02:00",
-        "updated_at": "2024-08-07T23:12:00+02:00",
+        "title": "⚔️ Judge tag busywork",
+        "created_at": "2024-10-15T16:30:00+02:00",
+        "updated_at": "2024-10-15T16:30:00+02:00",
         "content": [
             {
                 "body": [
                     {
                         "type": "text",
-                        "body": "Follow up issue: Answer open questions and check definition again."
+                        "body": "Follow up issue: Judge whether or how this tag should stay in the taxonomy."
                     },
                     {
                         "type": "itemize",
-                        "caption": "Spawned by:",
+                        "caption": "Previous Issues:",
                         "body": [
-                            "#45"
+                            "#28"
                         ]
                     }
                 ]
@@ -23,14 +23,14 @@
                 "body": [
                     {
                         "type": "text",
-                        "body": "How should we differentiate between game in a game and minigame. Can we tag gameception as an easteregg?"
+                        "body": "Is busywork only a personal challenge?"
                     }
                 ]
-            }
+            },
         ],
         "labels": [
             "effort:low",
-            "priority:low"
+            "priority:medium"
         ],
         "milestone": 6
     },

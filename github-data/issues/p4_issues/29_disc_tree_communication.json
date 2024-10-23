@@ -27,19 +27,37 @@
                         "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            {"state": "todo", "value": "how does communication in [Portal 2](https://store.steampowered.com/app/620/Portal_2/) work"},
-                            {"state": "todo", "value": "how does communication in [Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) work"},
-                            {"state": "todo", "value": "search for VR games with gestures"},
-                            {"state": "todo", "value": "[Journey](https://store.steampowered.com/app/638230/Journey/) motivation behind actions"},
-                            {"state": "todo", "value": "Think about limits of communication and problems like toxic behaviour?"}
-
+                            {"state": "done", "value": "how does communication in [Portal 2](https://store.steampowered.com/app/620/Portal_2/) work"},
+                            [
+                                "has _voice chat_, _pings_, _gestures_(taunt) (15.10.2024)"
+                            ],
+                            {"state": "done", "value": "how does communication in [Freespace 2](https://store.steampowered.com/app/273620/Freespace_2/) work"},
+                            [
+                                "has _voice chat_, _text chat_ (15.10.2024)"
+                            ],
+                            {"state": "done", "value": "search for VR games with gestures"},
+                            [
+                                "[Star Trek™: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)",
+                                "[Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)",
+                                "(15.10.2024)"
+                            ],
+                            {"state": "done", "value": "[Journey](https://store.steampowered.com/app/638230/Journey/) motivation behind actions"},
+                            [
+                                "mechanic: _gestures_",
+                                "intent: _info: gather_",
+                                "(15.10.2024)"
+                            ],
+                            {"state": "discarded", "value": "Think about limits of communication and problems like toxic behaviour?"},
+                            [
+                                "Generally interesting but difficult to tag, therefore discarded for now (15.10.2024)"
+                            ]
                         ]
                     },
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "move to metamechanic"}
+                            {"state": "done", "value": "move to metamechanic"}
                         ]
                     }
                 ]
@@ -50,7 +68,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(15.10, Phase 4) Append _communication_ from _problem solving techniques_ to _mechanics_"
+                            "(15.10.2024, Phase 4) Append _communication_ from _problem solving techniques_ to _mechanics_"
                         ]
                     }
                 ]
@@ -66,10 +84,27 @@
         {
             "content": [
                 {
+                    "title": "15.10.2024 Discussion",
                     "body": [
                         {
                             "type": "text",
-                            "body": "TODO This tag was added to issue #61 after closing."
+                            "body": "We discussed moving the _communication_ subtree to the _mechanics_ subtree since all functionalties included in this tree describe tools that the game provides for the player. These tools in them selves are not the _problem solving technique_ but rather are used to solve the problem. The technique itself can better be described by _collaboration_ with the intent to _share information_ similarly to _gather information_. Other terms that describe this process would be _exchanging information_ or _distribute information_. The important component of these is the intent to solve a given problem or task."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T16:41:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "caption": "Based on the discussion of the 15.10.2024 this issue was closed. These Follow up issues were created:",
+                            "body": [
+                                "#64"
+                            ]
                         }
                     ]
                 }

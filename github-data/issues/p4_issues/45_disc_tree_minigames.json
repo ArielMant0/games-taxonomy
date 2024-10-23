@@ -252,7 +252,7 @@
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion of the 04.08.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
                                 "#58",
                                 "#59"

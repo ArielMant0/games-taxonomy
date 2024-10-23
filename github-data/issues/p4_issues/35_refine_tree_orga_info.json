@@ -27,11 +27,14 @@
                         "type": "itemize",
                         "body": [
                             "(30.09, Phase 4) Add new tag _mechanics: stealth_ to mechanics",
+
                             "(16.10, Phase 4) Rename _organization_ to _information_",
                             "(16.10, Phase 4) Rename _info: hide_ to _info: show/hide_",
                             "(16.10, Phase 4) Rename _info: tag_ to _info: mark/tag_",
                             "(16.10, Phase 4) Move _info: highlight_ from _organize information_ to _mechanics_",
-                            "(16.10, Phase 4) Rename _info: highlight_ to _mechanics: highlight_"
+                            "(16.10, Phase 4) Rename _info: highlight_ to _mechanics: highlight_",
+
+                            "(17.10, Phase 4) Add new tags _mechanics: overlay_, _mechanics: read/unread_, _mechanics: vis_, _mechanics: other_ to mechanics"
                         ]
                     }
                 ]
@@ -43,7 +46,7 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration II:",
                         "body": [
-                            {"state": "done", "value": "Merge organization und organize information (@rwarnking)"},
+                            {"state": "done", "value": "Merge organization und organize information (@rwarnking)"}
                         ]
                     },
                     {
@@ -187,12 +190,25 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "This tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 16.10.2024 this tag was added to issue #61 after closing."
                         }
                     ]
                 }
             ],
             "created_at": "2024-10-16T19:23:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "After closing we added _mechanics: overlay_ and _mechanics: read/unread_, _mechanics: vis_, _mechanics: other_ tags some of which are similar to _mechanics: highlight_."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-17T13:55:00+02:00"
         }
     ]
 }

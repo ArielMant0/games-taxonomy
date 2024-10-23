@@ -3,6 +3,7 @@
         "title": "💎 Refine subtree reasoning",
         "created_at": "2024-04-16T04:45:00+02:00",
         "updated_at": "2024-04-16T04:45:00+02:00",
+        "closed_at": "2024-10-17T13:14:00+02:00",
         "content": [
             {
                 "body": [
@@ -26,18 +27,18 @@
                         "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            {"state": "todo", "value": "rename to logical reasoning"}
+                            {"state": "discarded", "value": "rename to logical reasoning"}
                         ]
                     },
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value":  "Multiple definitions for puzzle pieces: Order pieces on a board or else. (@rwarnking)"},
-                            {"state": "todo", "value": "When is a game apply rules? Or rather when is it not? (@rwarnking)"},
-                            {"state": "todo", "value": "When do you Learn game specific rules? Or rather when do you not? (@rwarnking)"},
-                            {"state": "todo", "value": "What should combining of items be tagged with? (@ArielMant0) ([Deponia](https://store.steampowered.com/app/214340/Deponia/))"},
-                            {"state": "todo", "value": "Abwägen als Abgrenzung von Strategic Planning? Oder gehört das dazu? (@ArielMant0) ([Disco Elysium - The Final Cut](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) - random rolls)"}
+                            {"state": "done", "value":  "Multiple definitions for puzzle pieces: Order pieces on a board or else. (@rwarnking)"},
+                            {"state": "done", "value": "When is a game apply rules? Or rather when is it not? (@rwarnking)"},
+                            {"state": "done", "value": "When do you Learn game specific rules? Or rather when do you not? (@rwarnking)"},
+                            {"state": "done", "value": "What should combining of items be tagged with? (@ArielMant0) ([Deponia](https://store.steampowered.com/app/214340/Deponia/))"},
+                            {"state": "discarded", "value": "Abwägen als Abgrenzung von Strategic Planning? Oder gehört das dazu? (@ArielMant0) ([Disco Elysium - The Final Cut](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) - random rolls)"}
                         ]
                     }
                 ]
@@ -48,8 +49,13 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(17.10, Phase 4) Rename _apply rules_ to _apply abstract rules_",
-                            "(17.10, Phase 4) Move _physics_ to _reasoning_",
+                            "(16.10, Phase 4) Moved _learn/apply language_ from _topics_ to _reasoning_",
+
+                            "(17.10, Phase 4) Merge _discover or learn rules_, _apply rules_ to _apply rules_",
+                            "(17.10, Phase 4) Rename _apply rules_ to _res: apply logic_",
+                            "(17.10, Phase 4) Add new tags _res: ausschlussprinzip_, _res: other_ to _reasoning_",
+                            "(17.10, Phase 4) Rename _puzzle pieces_ to _res: combine information_",
+                            "(17.10, Phase 4) Move _physics_ from _topics_ to _reasoning_",
                             "(17.10, Phase 4) Rename _physics_ to _apply physics_"
                         ]
                     }
@@ -63,5 +69,48 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "17.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We discussed all of the open questions and reworked this subtree entirely."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Since games generally always require the player to discover, learn and apply rules we deleted the _discover rules_ tag and replaced the _apply rules_ tag with _res: apply logic_ which should more clearly depict the idea behind this tag namely that the player is for example is forced to combine information logically. This would not be the case in all games, since many games provide tools that aid the player e.g. questmarker."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Furthermore we renamed _puzzle pieces_ to _res: combine information_, since this tag was kinda ill defined and could be understood in multiple ways. In this form it is also possible to tag adventures like [Deponia](https://store.steampowered.com/app/214340/Deponia/) with this tag. Supplementary we added a tag _res: ausschlussprinzip_ to signify games in which this specific technique is heavily used to solve puzzles or riddles."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Even though these changes improved the understandability of the subtree it is still difficult to differentiate the tags and know how to assign them, since one tag often includes another, as this example shows: In [Hexcells](https://store.steampowered.com/app/265890/Hexcells/) the player combines information and applies logic such that the player can rule out (ausschlussprinzip) solutions. We obted to go with our current version, but revisit this topic in the future."
+                        },
+                        {
+                            "type": "text",
+                            "body": "Finally we added a _res: other_ tag such that unrepresented elements can be tagged."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-17T13:13:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 17.10.2024 this tag was added to issue #61 after closing."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-17T13:14:00+02:00"
+        }
     ]
 }

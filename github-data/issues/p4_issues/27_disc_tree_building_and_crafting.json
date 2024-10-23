@@ -3,6 +3,7 @@
         "title": "🌳 Discuss subtree building and crafting",
         "created_at": "2024-04-16T04:20:00+02:00",
         "updated_at": "2024-04-16T04:20:00+02:00",
+        "closed_at": "2024-10-15T19:05:00+02:00",
         "content": [
             {
                 "body": [
@@ -26,18 +27,24 @@
                         "type": "itemize",
                         "caption": "07.04, Tag Iteration A-Z:",
                         "body": [
-                            {"state": "todo", "value": "Should planning be reinstated as parent node?"},
-                            {"state": "todo", "value": "Are blueprints related to space?"},
-                            {"state": "todo", "value": "Is copypaste a blueprint (planning vs duplication)?"},
-                            {"state": "todo", "value": "Contains copy paste planning?"}
+                            {"state": "done", "value": "Should planning be reinstated as parent node?"},
+                            [
+                                "No (15.10.2024)"
+                            ],
+                            {"state": "discarded", "value": "Are blueprints related to space?"},
+                            {"state": "discarded", "value": "Is copypaste a blueprint (planning vs duplication)?"},
+                            {"state": "discarded", "value": "Contains copy paste planning?"},
+                            [
+                                "It is a mechanic now (15.10.2024)"
+                            ]
                         ]
                     },
                     {
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "Clarify _customizable_ and _preset_"},
-                            {"state": "todo", "value": "Clarify _exploit as blueprint_ (Banished)"}
+                            {"state": "discarded", "value": "Clarify _customizable_ and _preset_"},
+                            {"state": "discarded", "value": "Clarify _exploit as blueprint_ ([Banished](https://store.steampowered.com/app/242920/Banished/))"}
                         ]
                     }
                 ]
@@ -48,10 +55,10 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(15.10, Phase 4) Remove _customizable_ from _building and crafting_",
-                            "(15.10, Phase 4) Remove _preset_ from _building and crafting_",
-                            "(15.10, Phase 4) Remove _exploit as blueprint_ from _building and crafting_",
-                            "(15.10, Phase 4) Append _building and crafting_ from _problem solving techniques_ to _mechanics_"
+                            "(15.10.2024, Phase 4) Remove _customizable_ from _building and crafting_",
+                            "(15.10.2024, Phase 4) Remove _preset_ from _building and crafting_",
+                            "(15.10.2024, Phase 4) Remove _exploit as blueprint_ from _building and crafting_",
+                            "(15.10.2024, Phase 4) Append _building and crafting_ from _problem solving techniques_ to _mechanics_"
                         ]
                     }
                 ]
@@ -64,5 +71,32 @@
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "15.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "It was agreed, that only minor changes are required, like removing some tags."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T19:04:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 15.10.2024 this issue was closed without follow up issue."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T19:05:00+02:00"
+        }
     ]
 }

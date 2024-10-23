@@ -78,10 +78,19 @@
                         {
                             "type": "text",
                             "body": "When adressing the open questions, we decided to remove this subtree altogether. This is mainly because the tags _non trivial choices_ and _trivial choices_ are difficult to differentiate and should be deleted anyway. Similarly _misleading choices_ should be deleted because it is a mechanical feature. The _red herings_ tag was moved to the _misc_ category of the _metamechanics_ while _narrative choices_ were merged with _narrative branches (_replayability_)."
-                        },
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T09:37:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without follow up issue."
+                            "body": "Based on the discussion of the 18.10.2024 this issue was closed without further issues."
                         }
                     ]
                 }

@@ -49,10 +49,24 @@
         {
             "content": [
                 {
+                    "title": "18.10.2024 Discussion",
                     "body": [
                         {
                             "type": "text",
-                            "body": "This tag was added to issue #61 after closing."
+                            "body": "It was agreed, that no changes to this subtree are required."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T09:41:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 18.10.2024 this tag was added to issue #61 after closing."
                         }
                     ]
                 }

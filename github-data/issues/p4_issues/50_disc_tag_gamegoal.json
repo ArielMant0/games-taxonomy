@@ -3,7 +3,7 @@
         "title": "🔖 Discuss tagging goal of a game",
         "created_at": "2024-05-12T23:00:00+02:00",
         "updated_at": "2024-05-12T23:00:00+02:00",
-        "closed_at": "2024-07-25T23:03:00+02:00",
+        "closed_at": "2024-07-25T23:04:00+02:00",
         "content": [
             {
                 "body": [
@@ -106,6 +106,19 @@
                 }
             ],
             "created_at": "2024-07-25T23:03:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 25.07.2024 this issue was closed."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-07-25T23:04:00+02:00"
         }
     ]
 }

@@ -143,10 +143,10 @@
                         "body": [
                             "different types of strategy exist",
                             [
-                                "turn based (Banner Saga)",
-                                "real time (Starcraft)",
-                                "resource based (Anno / Banished)",
-                                "unlimited time planning / logic challenge? (Adventure Capitalist)",
+                                "turn based ([The Banner Saga](https://store.steampowered.com/app/237990/The_Banner_Saga/))",
+                                "real time ([StarCraft](https://en.wikipedia.org/wiki/StarCraft))",
+                                "resource based ([Banished](https://store.steampowered.com/app/242920/Banished/))",
+                                "unlimited time planning / logic challenge? ([Adventure Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/))",
                                 "optimization"
                             ],
                             "_challenge_ is difficult to define",
@@ -176,7 +176,7 @@
                             "(22.05, Phase 4) Add new tag _moral challenges_ to _personal challenges_",
                             "(22.05, Phase 4) Rename _moral and emotional challenges_ to _emotional challenges_",
                             "(22.05, Phase 4) Add new tag _discory_ to _personal challenges_",
-                            "(22.05, Phase 4) Rename _challenge less_ to _todo tag_"
+                            "(22.05, Phase 4) Rename _challenge less_ to _pc: other_"
                         ]
                     }
                 ]
@@ -184,8 +184,7 @@
         ],
         "labels": [
             "effort:medium",
-            "priority:critical",
-            "started"
+            "priority:critical"
         ],
         "milestone": 4
     },
@@ -315,7 +314,20 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without further issues."
+                            "body": "It was agreed, that no further changes are required."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:06:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 16.10.2024 this issue was closed without further issues."
                         }
                     ]
                 }

@@ -131,8 +131,8 @@
                         "type": "itemize",
                         "caption": "15.04, Tree Iteration IV:",
                         "body": [
-                            {"state": "todo", "value": "detective work → mystery (ArielMant0)"},
-                            {"state": "todo", "value": "intense roleplaying + subversion storytelling"}
+                            {"state": "discarded", "value": "detective work → mystery (ArielMant0)"},
+                            {"state": "done", "value": "intense roleplaying + subversion storytelling"}
                         ]
                     }
                 ]
@@ -269,7 +269,21 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without further issues."
+                            "body": "It was agreed, that the old topics are to be removed, while the new ones will be added unchanged."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:07:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "title": "16.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 16.10.2024 this issue was closed without further issues."
                         }
                     ]
                 }

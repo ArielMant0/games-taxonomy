@@ -147,8 +147,7 @@
         ],
         "labels": [
             "effort:medium",
-            "priority:low",
-            "started"
+            "priority:low"
         ],
         "milestone": 4
     },
@@ -156,15 +155,26 @@
         {
             "content": [
                 {
+                    "title": "18.10.2024 Discussion",
                     "body": [
                         {
                             "type": "text",
-                            "body": "We decided to exclude this tree from the next phase since it is not suffiently developed but also is most likely not relevant for externalization since it is a mostly mechanical feature."
-                        },
+                            "body": "We decided to exclude this tree from the next phase using our software tool since it is not suffiently developed but also is most likely not relevant for externalization since it is a mostly mechanical feature."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T20:20:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
                         {
-                            "caption": "Based on this discussion these Follow up issues were created:",
+                            "type": "itemize",
+                            "caption": "Based on the discussion of the 18.10.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
-                                "#63"
+                                "#62"
                             ]
                         }
                     ]

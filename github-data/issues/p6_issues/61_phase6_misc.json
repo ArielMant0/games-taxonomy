@@ -22,22 +22,28 @@
                             {"state": "todo", "value": "Revisit _accusation_ (Origin: #24)"},
                             {"state": "todo", "value": "Revisit _queue_& _dilate time_ (Origin: #25)"},
                             {"state": "todo", "value": "Revisit _automation_ (Origin: #26)"},
+                            {"state": "todo", "value": "Revisit _reasoning_ (Origin: #32)"},
                             {"state": "todo", "value": "Revisit _contradiction_ (Origin: #33)"},
                             {"state": "todo", "value": "Revisit _organize information_ (Origin: #35)"},
                             {"state": "todo", "value": "Revisit _problem types_ (Origin: #38)"},
                             {"state": "todo", "value": "Revisit _customization_ (Origin: #41)"},
+                            {"state": "todo", "value": "Revisit _motorskills_ (Origin: #44)"},
                             {"state": "todo", "value": "Revisit _violence_ (Origin: #46)"},
-                            {"state": "todo", "value": "Revisit _structure_ arcade (Origin: #54)"},
-                            {"state": "todo", "value": "Revisit _game over condition_ arcade (Origin: #56)"},
+                            {"state": "todo", "value": "Revisit _structure_ & _cyclic_ (Origin: #54, #55)"},
+                            {"state": "todo", "value": "Revisit _game over condition_ arcade (Origin: #56), Provide a definition for _goc: death_ that explicitly includes _abstract death/failure_ (rythm game => miss too many notes or similar) or add another goc-leaf that catches this."},
                             {"state": "todo", "value": "Revisit _competition_ ([Pokemon](https://en.wikipedia.org/wiki/Pokémon), rise up, herostory (Origin: #43)"},
                             {"state": "todo", "value": "Revisit pay to win and ingame shops as problem solving technique"},
-                            {"state": "todo", "value": "New Tag: level editor (@rwarnking)"},
-                            {"state": "todo", "value": "New Tag: mod support (@rwarnking)"},
-                            {"state": "todo", "value": "New Tag: bonuslevel ([Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)) (Origin: #45) (@rwarnking)"},
-                            {"state": "todo", "value": "New Tag: sandbox (GTA) (Origin: #45) (@rwarnking)"},
-                            {"state": "todo", "value": "New Tag: arcade (Origin: #45) (@ArielMant0)"},
-                            {"state": "todo", "value": "New Tag: Aussichtspunkte (might be part of motivations) (@rwarnking)"},
-                            {"state": "todo", "value": "Rivist: Evaluate overlap of replayability tags and cyclic tag (Origin: #55)"}
+                            {"state": "todo", "value": "New Tag: _sidequests_ (Origin: #28)"},
+                            {"state": "todo", "value": "New Tag: _info: distribute_ (Origin: #29)"},
+                            {"state": "todo", "value": "New Tag: _info: lookup_ instead of _predefined notes_ (Origin: #36)"},
+                            {"state": "todo", "value": "New Tag: _level editor_ (@rwarnking)"},
+                            {"state": "todo", "value": "New Tag: _mod support_ (@rwarnking)"},
+                            {"state": "todo", "value": "New Tag: _bonuslevel_ ([Plants vs. Zombies GOTY Edition](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)) (Origin: #45) (@rwarnking)"},
+                            {"state": "todo", "value": "New Tag: _sandbox_ (GTA) (Origin: #45) (@rwarnking)"},
+                            {"state": "todo", "value": "New Tag: _arcade_ (Origin: #45) (@ArielMant0)"},
+                            {"state": "todo", "value": "New Tag: _Aussichtspunkte_ (might be part of motivations) (@rwarnking)"},
+                            {"state": "todo", "value": "Rivist: Evaluate overlap of replayability tags and cyclic tag (Origin: #55)"},
+                            {"state": "todo", "value": "Remove: _remember self_ (useless) (Origin: #36)"}
                         ]
                     }
                 ]
@@ -49,7 +55,8 @@
                         "type": "itemize",
                         "body": [
                             {"state": "todo", "value": "can not tag Scribblenauts mechanic (@ArielMant0) (problematic games)"},
-                            {"state": "todo", "value": "gamename Event[0] (@rwarnking) (technical problem)"}
+                            {"state": "todo", "value": "gamename Event[0] (@rwarnking) (technical problem)"},
+                            {"state": "todo", "value": "investigate the relationship between problem solving, problem solving technique, mechanics"}
                         ]
                     }
                 ]
@@ -59,5 +66,22 @@
         "milestone": 6
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "title": "Regarding Multiplayer #31",
+                    "body": [
+                        {
+                            "type": "itemize",
+                            "body": [
+                                "Multiplayer could use a tag _trading_? (@HendrikBrueckler)",
+                                "_Couch coop_ and _local coop_ should be the same (@HendrikBrueckler)"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-09-30T23:00:00+02:00"
+        }
     ]
 }

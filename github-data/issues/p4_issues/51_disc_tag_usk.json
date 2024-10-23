@@ -129,24 +129,8 @@
                 {
                     "body": [
                         {
-                            "type": "itemize",
-                            "caption": "Follow up issues:",
-                            "body": [
-                                "#57"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "created_at": "2024-07-25T23:02:00+02:00"
-        },
-        {
-            "content": [
-                {
-                    "body": [
-                        {
                             "type": "text",
-                            "body": "Issue was closed without further issues. An implementation issue was added to the collacode project: [collacode Issue 52](https://github.com/ArielMant0/collacode/issues/52)."
+                            "body": "Based on the discussion of the 25.07.2024 this issue was closed without further issues. An implementation issue was added to the collacode project: [Collacode Issue 52](https://github.com/ArielMant0/collacode/issues/52)."
                         }
                     ]
                 }

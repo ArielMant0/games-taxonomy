@@ -3,6 +3,7 @@
         "title": "🌱 Create subtree content and substance",
         "created_at": "2024-08-07T23:59:00+02:00",
         "updated_at": "2024-08-07T23:59:00+02:00",
+        "closed_at": "2024-10-16T20:12:00+02:00",
         "content": [
             {
                 "body": [
@@ -52,11 +53,23 @@
         ],
         "labels": [
             "effort:medium",
-            "priority:medium",
-            "started"
+            "priority:medium"
         ],
         "milestone": 4
     },
     "comments": [
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "This issue was closed without further action."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:12:00+02:00"
+        }
     ]
 }

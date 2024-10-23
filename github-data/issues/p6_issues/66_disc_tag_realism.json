@@ -1,0 +1,51 @@
+{
+    "issue": {
+        "title": "🔖 Discuss tagging realism",
+        "created_at": "2024-10-18T22:16:00+02:00",
+        "updated_at": "2024-10-18T22:16:00+02:00",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Answer open questions and check definition again."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#48"
+                        ]
+                    }
+                ]
+            },
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We currently do not have a way to indicate the realism or simulation aspect of a game. This might especially hurt games like [Arma 3](https://store.steampowered.com/app/107410/Arma_3/)."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Some proposals might be:",
+                        "body": [
+                            "_focus on realism_",
+                            "_simulation_"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "body": "Related resource to this issue: [GNS theory](https://en.wikipedia.org/wiki/GNS_theory)."
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:medium"
+        ],
+        "milestone": 6
+    },
+    "comments": [
+    ]
+}

@@ -147,17 +147,12 @@
                 {
                     "body": [
                         {
-                            "type": "itemize",
-                            "body": [
-                                "goc: none (previously no explicit goal)",
-                                "death",
-                                "permadeath",
-                                "survive (as long as possible) !!! no game over condition !!!",
-                                "reach endpoint",
-                                "remove beat final level",
-                                "remove finish questline",
-                                "remove win match (dopplung mit match based)."
-                            ]
+                            "type": "text",
+                            "body": "When discussing the different tags that were proposed as part of game over conditions we found that it would be difficult to choose one of them. For example many games have a _final quest_ that leads to a _specific location_ to fullfil a specific task like _killing an endboss_. Choosing one of these would be difficult and arbitrary. Instead we chose to combine them to _goc: reach endpoint_ which implies that the player needs to reach a certain point to complete the game. Similarly we discussed _get highscore_ which is just another framing of _goc: death_ since the game does not end by reaching a highscore but rather by death leading to a highscore."
+                        },
+                        {
+                            "type": "text",
+                            "body": "The only further differentiation that was added, were the _goc: none_ tag that implies that a game does not end (e.g. [Minecraft](https://www.minecraft.net/en-us)) and _goc: permadeath_ which is the opposite meaning that the game can end permanently."
                         }
                     ]
                 }
@@ -170,7 +165,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "This tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 18.10.2024 this tag was added to issue #61 after closing."
                         }
                     ]
                 }

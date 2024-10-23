@@ -128,12 +128,12 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "This tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 30.09.2024 this tag was added to issue #61 after closing."
                         }
                     ]
                 }
             ],
-            "created_at": "2024-09-30T23:10:00+02:00"
+            "created_at": "2024-09-30T23:11:00+02:00"
         }
     ]
 }

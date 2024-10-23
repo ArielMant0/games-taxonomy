@@ -3,7 +3,7 @@
         "title": "🔖 Discuss tag emotional events",
         "created_at": "2024-06-01T15:30:00+02:00",
         "updated_at": "2024-06-01T15:30:00+02:00",
-        "closed_at": "2024-09-30T23:26:00+02:00",
+        "closed_at": "2024-10-16T20:10:00+02:00",
         "content": [
             {
                 "body": [
@@ -74,10 +74,24 @@
         {
             "content": [
                 {
+                    "title": "16.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We decided to move this discussion to the next phase."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:08:00+02:00"
+        },
+        {
+            "content": [
+                {
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion of the 16.10.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
                                 "#57"
                             ]
@@ -85,7 +99,7 @@
                     ]
                 }
             ],
-            "created_at": "2024-09-30T23:25:00+02:00"
+            "created_at": "2024-10-16T20:10:00+02:00"
         }
     ]
 }

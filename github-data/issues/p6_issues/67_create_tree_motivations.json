@@ -1,0 +1,39 @@
+{
+    "issue": {
+        "title": "🌱 Create subtree motivations",
+        "created_at": "2024-10-18T22:48:00+02:00",
+        "updated_at": "2024-10-18T22:48:00+02:00",
+        "content": [
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "Follow up issue: Create this subtree and discuss basic structure."
+                    },
+                    {
+                        "type": "itemize",
+                        "caption": "Previous Issues:",
+                        "body": [
+                            "#53"
+                        ]
+                    }
+                ]
+            },
+            {
+                "body": [
+                    {
+                        "type": "text",
+                        "body": "We were not yet able to finalize this subtree. Even though we found a basic structure there were overlaps with other tags in the tree that were not discussed yet. For further information about the current structure see the previous issue."
+                    }
+                ]
+            }
+        ],
+        "labels": [
+            "effort:medium",
+            "priority:low"
+        ],
+        "milestone": 6
+    },
+    "comments": [
+    ]
+}

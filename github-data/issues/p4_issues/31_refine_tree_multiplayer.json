@@ -26,11 +26,11 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(16.10, Phase 4) Remove _online coop_ from _coop_",
-                            "(16.10, Phase 4) Move _couch coop_ from _coop_ to _multiplayer_",
-                            "(16.10, Phase 4) Move _local coop_ from _coop_ to _multiplayer_",
-                            "(16.10, Phase 4) Remove _coop_ from _multiplayer_",
-                            "(16.10, Phase 4) Move _multiplayer_ from _metamechanics_ to _mechanics_"
+                            "(15.10.2024, Phase 4) Remove _online coop_ from _coop_",
+                            "(15.10.2024, Phase 4) Move _couch coop_ from _coop_ to _multiplayer_",
+                            "(15.10.2024, Phase 4) Move _local coop_ from _coop_ to _multiplayer_",
+                            "(15.10.2024, Phase 4) Remove _coop_ from _multiplayer_",
+                            "(15.10.2024, Phase 4) Move _multiplayer_ from _metamechanics_ to _mechanics_"
                         ]
                     }
                 ]
@@ -70,10 +70,19 @@
                         {
                             "type": "text",
                             "body": "We decided that _online coop_ can not be differentiated from _online multiplayer_. Therefore we removed it from the tree. Following this we also removed the parent to clean up. Finally we moved the subtree to _mechanics_."
-                        },
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-15T16:53:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
                         {
                             "type": "text",
-                            "body": "Issue was closed without follow up issue."
+                            "body": "Based on the discussion of the 15.10.2024 this issue was closed without follow up issue."
                         }
                     ]
                 }

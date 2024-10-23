@@ -44,10 +44,10 @@
                             "(16.10, Phase 4) Rename _setting_ to _settings_",
                             "(16.10, Phase 4) Remove _city_, _forest_, _heaven_, _hell_, _outer space_, _underwater_ from _set: spacial_",
                             "(16.10, Phase 4) Remove _age of discovery_, _cyberpunk_, _greekstuff_, _industrial revolution_, _roman empire_ from _set: time_",
-                            "(16.10, Phase 4) Add new tags _space ship_, _nature_, _urban_, _space_, _america_, _set-s: sonstige_ to _set: spacial_",
-                            "(16.10, Phase 4) Add new tags _medival_, _future_, _futuristic_, _modern times_, _set-t: sonstige_ to _set: time_",
+                            "(16.10, Phase 4) Add new tags _space ship_, _nature_, _urban_, _space_, _america_, _set-s: other_ to _set: spacial_",
+                            "(16.10, Phase 4) Add new tags _medival_, _future_, _futuristic_, _modern times_, _set-t: other_ to _set: time_",
                             "(16.10, Phase 4) Add new tag _set: genre_ to _settings_",
-                            "(16.10, Phase 4) Add new tags _post apocalypse_, _zombie apocalypse_, _science fiction_, _fantasy_, _crime_, _horror_, _space western_, _adventure_, _set-g: sonstige_ to _set: genre_"
+                            "(16.10, Phase 4) Add new tags _post apocalypse_, _zombie apocalypse_, _science fiction_, _fantasy_, _crime_, _horror_, _space western_, _adventure_, _set-g: other_ to _set: genre_"
                         ]
                     }
                 ]
@@ -201,12 +201,24 @@
         {
             "content": [
                 {
+                    "title": "16.10.2024 Discussion",
                     "body": [
                         {
-                            "type": "itemize",
-                            "caption": "Based on the discussion from 16.10.2024 these Follow up issues were created:",
-                            "body": [
-                            ]
+                            "type": "text",
+                            "body": "It was agreed, that the old settings are to be removed, while the new ones will be added unchanged."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-16T20:07:00+02:00"
+        },
+        {
+            "content": [
+                {
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "Based on the discussion of the 16.10.2024 this issue was closed without further issues."
                         }
                     ]
                 }

@@ -208,11 +208,39 @@
         {
             "content": [
                 {
+                    "title": "18.10.2024 Discussion",
+                    "body": [
+                        {
+                            "type": "text",
+                            "body": "We decided to remove this subtree for the moment. Even though we had a basic structure with _incentives_, _rewards_ and _punishments_ it is still difficult to clearly differentiate these (are _rewards_ also an _incentive_?) and assign leave tag to them - without which the tree does not yield any actual information."
+                        },
+                        {
+                            "type": "itemize",
+                            "caption": "Furthermore we found overlaps with already present tags in the tree, for example:",
+                            "body": [
+                                "narrative branches -> multiple storylines",
+                                "skilltree -> improve character",
+                                "unlock content -> unlock content (same name)"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "body": "Clearing this up and discussing it in detail would be part of another phase and issue."
+                        }
+                    ]
+                }
+            ],
+            "created_at": "2024-10-18T20:48:00+02:00"
+        },
+        {
+            "content": [
+                {
                     "body": [
                         {
                             "type": "itemize",
-                            "caption": "Follow up issues:",
+                            "caption": "Based on the discussion of the 18.10.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
+                                "#67"
                             ]
                         }
                     ]
