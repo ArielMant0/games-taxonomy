@@ -34,7 +34,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(30.09, Phase 4) Appended _vio: enact_ from _violence_ to _problem solving techniques_",
+                            "(30.09, Phase 4) Move _vio: enact_ from _violence_ to _problem solving techniques_",
                             "(30.09, Phase 4) Remove tag _vio: experience_ from _violence_",
                             "(30.09, Phase 4) Remove tag _violence_ from _topics_",
                             "(30.09, Phase 4) Remove tag _pew pew_ from _misc_"
@@ -91,7 +91,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 30.09.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 30.09.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }

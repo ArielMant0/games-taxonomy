@@ -31,7 +31,7 @@
                         "type": "itemize",
                         "body": [
                             "(16.10, Phase 4) Merge _apply preknown language_, _body language_, _learn programming language_, _learn unknown language_ to _learn/apply language_",
-                            "(16.10, Phase 4) Move _learn/apply language_ from _topics_ to _reasoning_"
+                            "(16.10, Phase 4) Move _learn/apply language_ from _language_ to _reasoning_"
                         ]
                     }
                 ]

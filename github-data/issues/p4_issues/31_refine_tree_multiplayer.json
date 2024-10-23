@@ -26,10 +26,10 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(15.10.2024, Phase 4) Remove _online coop_ from _coop_",
+                            "(15.10.2024, Phase 4) Remove tag _online coop_ from _coop_",
                             "(15.10.2024, Phase 4) Move _couch coop_ from _coop_ to _multiplayer_",
                             "(15.10.2024, Phase 4) Move _local coop_ from _coop_ to _multiplayer_",
-                            "(15.10.2024, Phase 4) Remove _coop_ from _multiplayer_",
+                            "(15.10.2024, Phase 4) Remove tag _coop_ from _multiplayer_",
                             "(15.10.2024, Phase 4) Move _multiplayer_ from _metamechanics_ to _mechanics_"
                         ]
                     }

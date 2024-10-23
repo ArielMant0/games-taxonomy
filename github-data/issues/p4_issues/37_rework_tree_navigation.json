@@ -43,7 +43,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(17.10, Phase 4) Add new tags _spn: other_, _spn: ping_ to _spactial navigation_",
+                            "(17.10, Phase 4) Add new tags _spn: other_, _spn: ping_ to _spatial navigation_",
                             "(17.10, Phase 4) Rename _markerpingundso_ to _marker_"
                         ]
                     }
@@ -107,7 +107,7 @@
                             "type": "itemize",
                             "caption": "Based on the discussion of the 17.10.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
-                                "#65"
+                                "#64"
                             ]
                         }
                     ]

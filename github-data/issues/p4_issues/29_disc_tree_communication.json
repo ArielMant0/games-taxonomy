@@ -68,7 +68,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(15.10.2024, Phase 4) Append _communication_ from _problem solving techniques_ to _mechanics_"
+                            "(15.10.2024, Phase 4) Move _communication_ from _problem solving techniques_ to _mechanics_"
                         ]
                     }
                 ]
@@ -103,7 +103,7 @@
                             "type": "itemize",
                             "caption": "Based on the discussion of the 15.10.2024 this issue was closed. These Follow up issues were created:",
                             "body": [
-                                "#64"
+                                "#63"
                             ]
                         }
                     ]

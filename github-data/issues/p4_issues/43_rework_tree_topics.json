@@ -110,16 +110,14 @@
                             "(30.09, Phase 4) Add new tags _top: gods_, _top: synthetic life_, _top: monsters_, _top: creatures_, _top: aliens_, _top: plants_, _top: ecosystems_ to _top: forms of life_",
 
                             "(16.10, Phase 4) Rename _top: ethics_ to _top: culture & ethics_",
-                            "(16.10, Phase 4) Remove _intense roleplaying_ from _topics_",
-                            "(16.10, Phase 4) Remove _competition_ from _topics_",
+                            "(16.10, Phase 4) Remove tag _intense roleplaying_ from _topics_",
+                            "(16.10, Phase 4) Remove tag _competition_ from _topics_",
                             "(16.10, Phase 4) Move _subversion: gamemechanic_ from _topics_ to _misc_",
                             "(16.10, Phase 4) Move _subversion: storytelling_ from _topics_ to _misc_",
                             "(16.10, Phase 4) Move _combos_ from _topics_ to _misc_",
-                            "(16.10, Phase 4) Move _physics_ from _topics_ to _misc_",
                             "(16.10, Phase 4) Add new tags _top: art_, _top: language_, _top: sports_ to _top: culture & ethics_",
-                            "(16.10, Phase 4) Move  _rhythm and music_ from _topics_ to _culture & ethics_",
-                            "(16.10, Phase 4) Rename _rhythm and music_ to _top: music_",
-                            "(16.10, Phase 4) To Move from _topics_ to _what you do_"
+                            "(16.10, Phase 4) Move _rhythm or music_ from _topics_ to _top: culture & ethics_",
+                            "(16.10, Phase 4) Rename _rhythm or music_ to _top: music_"
                         ]
                     }
                 ]

@@ -91,7 +91,7 @@
                         },
                         {
                             "type": "text",
-                            "body": "Since the goal was mainly to clean up this subtree, we agreed to keep these tags and remove the tags indicating the complexity - possibly adding _assemble_ to the _building and crafting_ subtree."
+                            "body": "Since the goal was mainly to clean up this subtree, we agreed to keep these tags and remove the tags indicating the complexity - possibly adding _assemble_ to the _building & crafting_ subtree."
                         },
                         {
                             "type": "text",
@@ -146,7 +146,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 16.10.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 16.10.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }

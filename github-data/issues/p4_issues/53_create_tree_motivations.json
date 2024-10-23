@@ -69,10 +69,10 @@
                             "(05.06, Phase 4) Add new tag _motivation_ to _metamechanics_",
                             "(05.06, Phase 4) Add new tags _punishments_, _incentives_, _rewards_ to _motivation_",
 
-                            "(18.10, Phase 4) Remove _incentives_ from _motivations_",
-                            "(18.10, Phase 4) Remove _punishments_ from _motivations_",
-                            "(18.10, Phase 4) Remove _rewards_ from _motivations_",
-                            "(18.10, Phase 4) Remove _motivations_ from _form_"
+                            "(18.10, Phase 4) Remove tag _incentives_ from _motivation_",
+                            "(18.10, Phase 4) Remove tag _punishments_ from _motivation_",
+                            "(18.10, Phase 4) Remove tag _rewards_ from _motivation_",
+                            "(18.10, Phase 4) Remove tag _motivation_ from _form_"
                         ]
                     }
                 ]

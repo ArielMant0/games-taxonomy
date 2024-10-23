@@ -55,10 +55,10 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(15.10.2024, Phase 4) Remove _customizable_ from _building and crafting_",
-                            "(15.10.2024, Phase 4) Remove _preset_ from _building and crafting_",
-                            "(15.10.2024, Phase 4) Remove _exploit as blueprint_ from _building and crafting_",
-                            "(15.10.2024, Phase 4) Append _building and crafting_ from _problem solving techniques_ to _mechanics_"
+                            "(15.10.2024, Phase 4) Remove tag _customizable_ from _building & crafting_",
+                            "(15.10.2024, Phase 4) Remove tag _preset_ from _building & crafting_",
+                            "(15.10.2024, Phase 4) Remove tag _exploit as blueprint_ from _building & crafting_",
+                            "(15.10.2024, Phase 4) Move _building & crafting_ from _problem solving techniques_ to _mechanics_"
                         ]
                     }
                 ]

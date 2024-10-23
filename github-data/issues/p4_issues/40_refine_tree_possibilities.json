@@ -52,12 +52,12 @@
                             "(12.05, Phase 4) Appended _possibilities_ from _problem types_ to _metamechanics_",
                             "(12.05, Phase 4) Move _moral and emotional challenges_ from _possibilities_ to _problem types_",
 
-                            "(18.10, Phase 4) Remove _misleading choices_ from _possibilities_",
-                            "(18.10, Phase 4) Remove _non trivial choices_ from _possibilities_",
-                            "(18.10, Phase 4) Remove _trivial choices_ from _possibilities_",
+                            "(18.10, Phase 4) Remove tag _misleading choices_ from _possibilities_",
+                            "(18.10, Phase 4) Remove tag _non trivial choices_ from _possibilities_",
+                            "(18.10, Phase 4) Remove tag _trivial choices_ from _possibilities_",
                             "(18.10, Phase 4) Merge _narrative choices_, _narrative branches_ to _narrative branches_",
-                            "(18.10, Phase 4) Move _red herings_ from _possibilites_ to _misc_",
-                            "(18.10, Phase 4) Remove _possibilities_ from _metamechanics_"
+                            "(18.10, Phase 4) Move _red herings_ from _possibilities_ to _misc_",
+                            "(18.10, Phase 4) Remove tag _possibilities_ from _metamechanics_"
                         ]
                     }
                 ]

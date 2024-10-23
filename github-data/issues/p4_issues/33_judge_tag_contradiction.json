@@ -45,7 +45,7 @@
                         "body": [
                             "(30.09, Phase 4) Remove tag _can find contradictions_ from misc",
                             "(30.09, Phase 4) Remove tag _has contradictions_ from misc",
-                            "(30.09, Phase 4) Remove tag _contradictions_ from topics"
+                            "(30.09, Phase 4) Remove tag _contradiction_ from topics"
                         ]
                     }
                 ]
@@ -128,7 +128,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 30.09.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 30.09.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }

@@ -57,7 +57,7 @@
                             "(06.04, TAG ITERATION A-Z) Add new tags _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _root_",
                             "(06.04, TAG ITERATION A-Z) Group tags _action queue_, _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _queues_",
                             "(06.04, TAG ITERATION A-Z) Group tags _action queue_, _direct_, _indirect_, _inputbuffer_, _parallel_, _realtime_, _sequential_ to _queueplayer_",
-                            "(06.04, TAG ITERATION A-Z) Add new tag _queuegame_ to _queues_",
+                            "(06.04, TAG ITERATION A-Z) Add new tag _queue game_ to _queues_",
 
                             "(14.04, TAG ITERATION A-Z) Append _queues_ from _root_ to _metamechanics_"
                         ]

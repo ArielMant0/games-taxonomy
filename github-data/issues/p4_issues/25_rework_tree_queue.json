@@ -30,14 +30,13 @@
                             "(12.08, Phase 4) Remove tag _action queue_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _direct_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _indirect_ from _queueplayer_",
-                            "(12.08, Phase 4) Remove tag _input buffer_ from _queueplayer_",
+                            "(12.08, Phase 4) Remove tag _inputbuffer_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _parallel_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _realtime_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _sequential_ from _queueplayer_",
                             "(12.08, Phase 4) Remove tag _queueplayer_ from _queueplayer_",
                             "(12.08, Phase 4) Rename tag _queues_ to _mechanics: queue_",
-                            "(12.08, Phase 4) Add new tags _mechanics: card game_ from _mechanics_",
-                            "(12.08, Phase 4) Add new tags _mechanics: turnbased_ from _mechanics_"
+                            "(12.08, Phase 4) Add new tags _mechanics: card game_, _mechanics: turnbased_ to _mechanics_"
                         ]
                     }
                 ]
@@ -154,7 +153,7 @@
                                 "Delete _action queue_",
                                 "Delete _direct_, _indirect_",
                                 "Delete _parallel_, _sequential_",
-                                "Delete _input buffer_",
+                                "Delete _inputbuffer_",
                                 "Add _card game_ to _unknown tree_",
                                 "Add _turnbased_ to _unknown tree_",
                                 "Revisit pause screen or dilate time as a game mechanic",
@@ -203,7 +202,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 12.08.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 12.08.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }

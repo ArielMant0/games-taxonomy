@@ -49,10 +49,7 @@
                     {
                         "type": "itemize",
                         "body": [
-                            "(16.10, Phase 4) Moved _learn/apply language_ from _topics_ to _reasoning_",
-
-                            "(17.10, Phase 4) Merge _discover or learn rules_, _apply rules_ to _apply rules_",
-                            "(17.10, Phase 4) Rename _apply rules_ to _res: apply logic_",
+                            "(17.10, Phase 4) Merge _discover or learn rules_, _apply rules_ to _res: apply logic_",
                             "(17.10, Phase 4) Add new tags _res: ausschlussprinzip_, _res: other_ to _reasoning_",
                             "(17.10, Phase 4) Rename _puzzle pieces_ to _res: combine information_",
                             "(17.10, Phase 4) Move _physics_ from _topics_ to _reasoning_",
@@ -105,7 +102,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 17.10.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 17.10.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }

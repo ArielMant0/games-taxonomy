@@ -54,9 +54,9 @@
                         "body": [
                             "(12.05, Phase 4) Appended _solution space_ from _problem types_ to _metamechanics_",
 
-                            "(18.10, Phase 4) Remove _sol: may_ from _solution space_",
-                            "(18.10, Phase 4) Remove _sol: single_ from _solution space_",
-                            "(18.10, Phase 4) Remove _solution space_ from _form_"
+                            "(18.10, Phase 4) Remove tag _sol: many_ from _solution space_",
+                            "(18.10, Phase 4) Remove tag _sol: single_ from _solution space_",
+                            "(18.10, Phase 4) Remove tag _solution space_ from _form_"
                         ]
                     }
                 ]

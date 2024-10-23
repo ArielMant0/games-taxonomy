@@ -126,9 +126,9 @@
                             "(25.07, Phase 4) Add new tag _game over condition_ to _metamechanics_",
                             "(25.07, Phase 4) Add new tags _beat final level_, _win match_, _finish questline_ to _game over condition_",
 
-                            "(18.10, Phase 4) Remove _beat final level_ from _game over condition_",
-                            "(18.10, Phase 4) Remove _finish questline_ from _game over condition_",
-                            "(18.10, Phase 4) Remove _win match_ from _game over condition_",
+                            "(18.10, Phase 4) Remove tag _beat final level_ from _game over condition_",
+                            "(18.10, Phase 4) Remove tag _finish questline_ from _game over condition_",
+                            "(18.10, Phase 4) Remove tag _win match_ from _game over condition_",
                             "(18.10, Phase 4) Add new tags _goc: none_, _goc: death_, _goc: permadeath_, _goc: reach endpoint_ to _game over condition_"
                         ]
                     }
@@ -165,7 +165,7 @@
                     "body": [
                         {
                             "type": "text",
-                            "body": "Based on the discussion of the 18.10.2024 this tag was added to issue #61 after closing."
+                            "body": "Based on the discussion of the 18.10.2024 this tag was added to issue #60 after closing."
                         }
                     ]
                 }
